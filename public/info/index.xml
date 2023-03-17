@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Booster Conference 2022 Bergen</title>
+    <link>https://2022.boosterconf.no/info/</link>
+    <description>Recent content on Booster Conference 2022 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Aug 2021 09:40:13 +0200</lastBuildDate><atom:link href="https://2022.boosterconf.no/info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monetary policy</title>
+      <link>https://2022.boosterconf.no/info/monetary-policy/</link>
+      <pubDate>Tue, 17 Aug 2021 09:40:13 +0200</pubDate>
+      
+      <guid>https://2022.boosterconf.no/info/monetary-policy/</guid>
+      <description>Booster is a non-profit conference, run by a group of volunteers. Our goal is to create the best possible conference for our participants and speakers, and to strengthen the local software development community. Any profits from the conference are used to ensure that we can continue organizing the conference in the following years. We are normally not able to cover travel and lodging for speakers.
+There are quite a few exceptions though.</description>
+    </item>
+    
+    <item>
+      <title>Partner with Booster</title>
+      <link>https://2022.boosterconf.no/info/become-a-partner/</link>
+      <pubDate>Tue, 17 Aug 2021 09:40:13 +0200</pubDate>
+      
+      <guid>https://2022.boosterconf.no/info/become-a-partner/</guid>
+      <description>Booster is an international IT conference situated in Bergen, and the most important meeting place for the local software development community. Booster is a forum for presentation, debate and study of information technology and agile methods, organized as a three day conference with lectures, workshops and lightning talks of high academic quality.
+Booster is aimed at software developers, project managers, testers, designers, architects, security experts and usability professionals. Booster focuses on craftsmanship, methods and quality and facilitates for professional networking.</description>
+    </item>
+    
+    <item>
+      <title>Booster Code of Conduct</title>
+      <link>https://2022.boosterconf.no/info/coc/</link>
+      <pubDate>Sat, 17 Jul 2021 17:36:23 +0200</pubDate>
+      
+      <guid>https://2022.boosterconf.no/info/coc/</guid>
+      <description>All attendees, speakers, partners, staff and volunteers at our conference are required to follow the code of conduct.
+Short Version Have a good time and help others have a good time too. Say hi to someone you don’t know. Meet interesting people. Don’t act surprised when a person doesn’t conform to a stereotype. No one is at Booster just to represent a minority so start conversations about tech, the weather, the food, the best speaker or the delights of Bergen before talking about “being minority X in tech”.</description>
+    </item>
+    
+    <item>
+      <title>Booster kids</title>
+      <link>https://2022.boosterconf.no/info/kids/</link>
+      <pubDate>Sat, 17 Jul 2021 17:36:23 +0200</pubDate>
+      
+      <guid>https://2022.boosterconf.no/info/kids/</guid>
+      <description>For femte gang arrangerer Boosterkonferansen, i samarbeid med Lær Kidsa Koding og Bergen Offentlige Bibliotek, utviklerkonferanse for barn. Konferansen avholdes på Radisson Blu Royal Hotel, Bryggen 27. mars 2022. Det blir kurs for ulike aldersgrupper og et sterkt faglig innhold, akkurat slik en god konferanse skal være!
+Program 11.00-12.00 - Registrering
+12.00-13.30 - Workshops, del 1
+13.30-14.15 - Lunsj
+14.15-16.15 - Workshops, del 2
+16.15 - Slutt
+Merk: Programmet kan endres fortløpende</description>
+    </item>
+    
+    <item>
+      <title>What makes Booster special?</title>
+      <link>https://2022.boosterconf.no/info/about/</link>
+      <pubDate>Sat, 17 Jul 2021 17:36:23 +0200</pubDate>
+      
+      <guid>https://2022.boosterconf.no/info/about/</guid>
+      <description>Booster is a software conference for the entire team. That means if you’re a developer, project manager, architect, UX professional, tester or security professional, we have something for you!
+Our goal is that you come back from the conference with real knowledge you can use. That’s why interactive, hands-on workshops fill up most of the hours of the conference. We also have lightning talks, a few short talks, a couple of keynotes and open spaces.</description>
+    </item>
+    
+  </channel>
+</rss>

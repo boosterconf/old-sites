@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Friday 25. March on Booster Conference 2022 Bergen</title>
+    <link>https://2022.boosterconf.no/program/friday/</link>
+    <description>Recent content in Friday 25. March on Booster Conference 2022 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2022.boosterconf.no/program/friday/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workshops and experience reports</title>
+      <link>https://2022.boosterconf.no/program/friday/1_short_talks_and_workshops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/program/friday/1_short_talks_and_workshops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coffee break</title>
+      <link>https://2022.boosterconf.no/program/friday/2_break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/program/friday/2_break/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshops (continued)</title>
+      <link>https://2022.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lunch</title>
+      <link>https://2022.boosterconf.no/program/friday/4_lunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/program/friday/4_lunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience reports</title>
+      <link>https://2022.boosterconf.no/program/friday/5_short_talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/program/friday/5_short_talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coffee break</title>
+      <link>https://2022.boosterconf.no/program/friday/6_break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/program/friday/6_break/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience reports</title>
+      <link>https://2022.boosterconf.no/program/friday/7_short_talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/program/friday/7_short_talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coffee break</title>
+      <link>https://2022.boosterconf.no/program/friday/8_break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/program/friday/8_break/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closing keynote: &#34;Hedy: Creating a gradual programming language&#34;</title>
+      <link>https://2022.boosterconf.no/program/friday/9_closing_keynote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/program/friday/9_closing_keynote/</guid>
+      <description>Hedy is a gradual programming language to make learning programming easier. The core idea of Hedy is that it uses different language levels. In level 1, there is hardly any syntax at all, for example printing is done with: print hello Booster! In every level, new syntax and concepts are added, until kids are doing a subset of Python in level 20 with conditions, loops, variables and lists. The leveled approach means that learners do not have to learn all syntax rules at once.</description>
+    </item>
+    
+  </channel>
+</rss>

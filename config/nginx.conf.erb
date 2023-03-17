@@ -34,6 +34,14 @@ http {
 		keepalive_timeout 5;
 		client_max_body_size <%= ENV['NGINX_CLIENT_MAX_BODY_SIZE'] || 1 %>M;
 
-		root /app/2020.boosterconf.no; # path to your app
+		root /app/2020.boosterconf.no; 
+	}
+	server {
+		listen <%= ENV["PORT"] %>;
+		server_name 2022.boosterconf.no;
+		keepalive_timeout 5;
+		client_max_body_size <%= ENV['NGINX_CLIENT_MAX_BODY_SIZE'] || 1 %>M;
+
+		root /app/2022.boosterconf.no;
 	}
 }
