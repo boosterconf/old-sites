@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesal 4 on Booster Conference 2023 Bergen</title>
+    <link>https://2023.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesal_4/</link>
+    <description>Recent content in Kongesal 4 on Booster Conference 2023 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2023.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesal_4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Escher School of Fish</title>
+      <link>https://2023.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesal_4/4-the-escher-school-of-fish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesal_4/4-the-escher-school-of-fish/</guid>
+      <description>This workshop is based on the classic 1982 paper &amp;ldquo;Functional Geometry&amp;rdquo; by Peter Henderson. The paper shows the decomposition and reconstruction of Escher&amp;rsquo;s woodcutting &amp;ldquo;Square Limit&amp;rdquo;, a beautiful recursive tessellation of interleaving fish, using functional programming. We will use JavaScript as our implementation language as we follow in Henderson&amp;rsquo;s footsteps to create our own Square Limit as an SVG. We&amp;rsquo;ll see that framing a problem in the right way enables us to solve it in interesting and elegant ways.</description>
+    </item>
+    
+  </channel>
+</rss>

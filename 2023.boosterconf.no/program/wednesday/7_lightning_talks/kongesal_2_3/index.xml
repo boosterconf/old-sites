@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesal 2 &#43; 3 on Booster Conference 2023 Bergen</title>
+    <link>https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_2_3/</link>
+    <description>Recent content in Kongesal 2 &#43; 3 on Booster Conference 2023 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_2_3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A brief history of Simula</title>
+      <link>https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_2_3/254-a-brief-history-of-simula/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_2_3/254-a-brief-history-of-simula/</guid>
+      <description>Programming languages has evolved a lot from the early days, and yet many of the ideas from early programming languages keep inspiring new languages. Simula was invited in Norway in the 60´s as a language for doing simulations, but is best remembers as the language that introduced the consept of Object Oriented Programming. But Simula was also one of the first languages to introduce Coroutines for doing asynchronous programming. So why didn´t Simula become a mainstream programming language?</description>
+    </item>
+    
+    <item>
+      <title>GitHopes and Terrorforms 😱</title>
+      <link>https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_2_3/52-githopes-and-terrorforms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_2_3/52-githopes-and-terrorforms/</guid>
+      <description>Everything as code! Code all the things! Build, test, deploy, infra, sec - it’s all code. Then we have no problems? Sure! This slapstick comedy in 21 slides shows how githopes and terrorforms have taken hold of our dreams and realities.</description>
+    </item>
+    
+    <item>
+      <title>Internal tech talks:  How to motivate everyone to share their knowledge</title>
+      <link>https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_2_3/136-internal-tech-talks-how-to-motivate-everyone-to-share-their-knowledge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_2_3/136-internal-tech-talks-how-to-motivate-everyone-to-share-their-knowledge/</guid>
+      <description>Going to conferences is great, but when your organization reaches a certain size, there is a huge untapped potential when it comes to doing internal knowledge sharing too. Your organization has skilled programmers, UX experts, test experts ++. And when &amp;ldquo;nudged&amp;rdquo; in the correct way, they all have lots to share. I want to talk about how we approach this in our organization. First, you need to create ownership to these sessions.</description>
+    </item>
+    
+    <item>
+      <title>Methodologies between Scylla and Charybdis</title>
+      <link>https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_2_3/20-methodologies-between-scylla-and-charybdis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_2_3/20-methodologies-between-scylla-and-charybdis/</guid>
+      <description>What happens when you dust off your books on Nietzsche and Ancient Greek theatre, read the Wikipedia articles for them instead, and then put together a talk on development practices based on your “scholarly investigation”? Come find out at Maja’s lighthearted talk, where she will irresponsibility muse aloud about high art, sea monsters, Greek gods, and the balance we strike when doing our best dev work.</description>
+    </item>
+    
+  </channel>
+</rss>

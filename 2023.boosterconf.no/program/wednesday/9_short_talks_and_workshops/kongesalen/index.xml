@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesalen on Booster Conference 2023 Bergen</title>
+    <link>https://2023.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen/</link>
+    <description>Recent content in Kongesalen on Booster Conference 2023 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2023.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fra idé til løsning på 5 uker: Erfaringer med tverrfaglig eierskap og samhandling</title>
+      <link>https://2023.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen/261-fra-id-til-l%C3%B8sning-p%C3%A5-uker-erfaringer-med-tverrfaglig-eierskap-og-samhandling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen/261-fra-id-til-l%C3%B8sning-p%C3%A5-uker-erfaringer-med-tverrfaglig-eierskap-og-samhandling/</guid>
+      <description>I vårt første prosjekt i arbeidslivet fikk vi gleden av å jobbe på en måte som ga oss ekstremt høy hastighet, og vi gikk fra idé til lansert løsning på snaue fem uker! I ettertid har vi samlet erfaring fra andre team og prosjekter hvor hastigheten ikke har vært like høy og stilt oss spørsmålet “hva gjorde det første prosjektet så veldig bra?”.
+Vi har sterk tro på at dette bunnet i teamets eierskap til løsningen og hvordan dette eierskapet ble dyrket gjennom tett og god kommunikasjon, samt felles mål og retning.</description>
+    </item>
+    
+    <item>
+      <title>Psykologisk trygghet i praksis</title>
+      <link>https://2023.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen/2-psykologisk-trygghet-i-praksis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen/2-psykologisk-trygghet-i-praksis/</guid>
+      <description>Mange har fått med seg at psykologisk trygghet er en av de mest virkningsfulle faktorene når det kommer til prestasjoner i teams.
+Psykologisk trygghet kan være vanskelig å få et grep om. Én (av flere) definisjoner av psykologisk trygghet som jeg liker er: Å være seg selv uten frykt for negative konsekvenser over sitt selvbilde, status eller karriere.
+Dette er ikke så lett å måle, er det vel? Så hvordan kan vi da oppnå psykologisk trygghet?</description>
+    </item>
+    
+    <item>
+      <title>The tale of four moms wanting to make an app</title>
+      <link>https://2023.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen/170-the-tale-of-four-moms-wanting-to-make-an-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen/170-the-tale-of-four-moms-wanting-to-make-an-app/</guid>
+      <description>We are four moms wanting to make an app to organize our family life in a better way than we are doing now. None of the apps on the market right now fit our needs, so we are creating our own. We are a team consisting of one developer, one designer, one doctor and one influencer. By march 2023 hopefully a lot has happened. This will be the story of how it went so far.</description>
+    </item>
+    
+  </channel>
+</rss>

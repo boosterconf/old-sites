@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesal 5 on Booster Conference 2023 Bergen</title>
+    <link>https://2023.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesal_5/</link>
+    <description>Recent content in Kongesal 5 on Booster Conference 2023 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2023.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesal_5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poetry for programmers</title>
+      <link>https://2023.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesal_5/180-poetry-for-programmers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesal_5/180-poetry-for-programmers/</guid>
+      <description>What are poems, if not elegantly encoded experiences captured in compact text?
+Unlike A.I. systems, we humans can take fuzzy knowledge from wholly different fields and apply them elsewhere. In this workshop I&amp;rsquo;ll introduce you to the field of poetry with the goal of yielding some fresh perspectives on both writing and programming.
+Maybe the worlds of code and poems lie too far afield to inspire each other, or maybe there&amp;rsquo;s something there that can spark better, clearer, more succinct writing?</description>
+    </item>
+    
+  </channel>
+</rss>

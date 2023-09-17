@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesalen 4 on Booster Conference 2023 Bergen</title>
+    <link>https://2023.boosterconf.no/program/thursday/10_experience_reports/kongesalen_4/</link>
+    <description>Recent content in Kongesalen 4 on Booster Conference 2023 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2023.boosterconf.no/program/thursday/10_experience_reports/kongesalen_4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Free time feature frenzy</title>
+      <link>https://2023.boosterconf.no/program/thursday/10_experience_reports/kongesalen_4/251-free-time-feature-frenzy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/thursday/10_experience_reports/kongesalen_4/251-free-time-feature-frenzy/</guid>
+      <description>Hobby projects are supposed to be fun, not stressful, but if your hobby is basically the same as your job, it could lead to more stress and burnout instead of being a way to destress. So how does one complete an ambitious hobby project without making it feel like a second job? In this talk, Elisabeth will describe her experience creating a ghost hunting augmented reality app using a bunch of fun features in both Swift and Kotlin, showing how she managed to make the Apparat offices haunted while keeping her sanity intact.</description>
+    </item>
+    
+  </channel>
+</rss>

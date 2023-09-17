@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesal 2&#43;3 on Booster Conference 2023 Bergen</title>
+    <link>https://2023.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/kongesal_2_3/</link>
+    <description>Recent content in Kongesal 2&#43;3 on Booster Conference 2023 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2023.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/kongesal_2_3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fire år i mobb</title>
+      <link>https://2023.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/kongesal_2_3/86-fire-%C3%A5r-i-mobb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/kongesal_2_3/86-fire-%C3%A5r-i-mobb/</guid>
+      <description>Våren 2018 fekk teamet vårt i NRK eit vanskeleg oppdrag. Så vanskeleg at kvar medlem av vårt lille team på tre, ikkje kom nokon veg. Heidi hadde sett eit par twitter-meldingar om ein ny måte å organisere arbeidet på. Kanskje mobb-programmering kunne hjelpe oss?
+Vi sette oss saman, ein PC, ein storskjerm, eit tastatur. To år seinare, stadig side om side, leverte vi det endelege resultatet. Team-medlemmar kom og gjekk, det same har ein viss pandemi, men vi programmerar stadig i mobb, men no på nye prosjekt.</description>
+    </item>
+    
+    <item>
+      <title>My crafting project became critical infrastructure</title>
+      <link>https://2023.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/kongesal_2_3/11-my-crafting-project-became-critical-infrastructure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/kongesal_2_3/11-my-crafting-project-became-critical-infrastructure/</guid>
+      <description>Driven to madness by the normal workflow for testing my application, I wrote a small Python script in a couple of days. It called some APIs to build the app and deploy it to a hosted environment. It ran in my terminal, printing output often enough that I wouldn&amp;rsquo;t get distracted. It solved my immediate problem.
+But that wasn&amp;rsquo;t the only problem it solved. It replaced a manual piece of our release process with an automated step, allowing my team to automate our pipeline.</description>
+    </item>
+    
+    <item>
+      <title>The Adventures of DALL·E 2 - How we created a point and click game using nothing but AI generated art</title>
+      <link>https://2023.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/kongesal_2_3/140-the-adventures-of-dall-e-how-we-created-a-point-and-click-game-using-nothing-but-ai-generated-art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/kongesal_2_3/140-the-adventures-of-dall-e-how-we-created-a-point-and-click-game-using-nothing-but-ai-generated-art/</guid>
+      <description>The past year we have seen massive advancements in AI image generation, where they can generate almost any conceivable concept. At this point, they are so widespread that everyone can try it with just a few clicks, but are these AIs just a means of entertainment, or can they be of practical use?
+In this presentation we attempt to answer this by sharing our experience with creating a point and click game using nothing but AI generated art.</description>
+    </item>
+    
+  </channel>
+</rss>

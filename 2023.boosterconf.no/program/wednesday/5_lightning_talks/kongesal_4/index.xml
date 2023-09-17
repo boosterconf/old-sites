@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesal 4 on Booster Conference 2023 Bergen</title>
+    <link>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_4/</link>
+    <description>Recent content in Kongesal 4 on Booster Conference 2023 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Have no fear, the security guild is here!</title>
+      <link>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_4/147-have-no-fear-the-security-guild-is-here/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_4/147-have-no-fear-the-security-guild-is-here/</guid>
+      <description>Security is an absolute must these days (and of course has been for some time), but the security architects and security engineers are few. A solution to this challange is to create a security guild at your organization, and recruit security champions to this guild.
+Is the concept of a security guild new to you, or you just want to hear how this is currently used in TV 2? Join me as I give you a quick peak on how TV 2 has increased the security focus among both engineers and the leaders by training explicit security champions.</description>
+    </item>
+    
+    <item>
+      <title>Data mesh og Devops</title>
+      <link>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_4/143-data-mesh-og-devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_4/143-data-mesh-og-devops/</guid>
+      <description>De fleste virksomheter sliter med å ta ut det virkelige potensialet i å utnytte data til forbedring av kunde-/brukeropplevelse, effektivitet og lønnsomhet. Grunnen er at riggen de har for forvaltning og utnyttelse av data ikke skalerer. Data mesh er et sosio-teknologisk paradigmeskifte som tar sikte på å løse denne utfordringen ved hjelp av distribuert dataeierskap. Hva handler egentlig Data Mesh om, og hvorfor er det viktig for deg? Denne lyntalen handler om hvordan ulike team kan hjelpe seg selv og resten av organisasjonen å lære raskere fra data (gjennom både maskinlæring og menneskelig læring), ved å ta eierskap til data i egen verdikjede.</description>
+    </item>
+    
+    <item>
+      <title>WebAssembly on the server - the future of cloud computing?</title>
+      <link>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_4/123-webassembly-on-the-server-the-future-of-cloud-computing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_4/123-webassembly-on-the-server-the-future-of-cloud-computing/</guid>
+      <description>WebAssembly on the server - the future of cloud computing? WebAssembly (WASM) is a binary instruction format designed to run in the browser, bringing near-native performance to the web. As a compilation target for over 30 languages, including Rust, Swift, Python and C# / .NET, developers are free to write their applications in their favourite language. WASM is portable, secure and fast.
+The advent of server-side support for WASM (WebAssembly System Interface, WASI) makes it possible to run WASM code outside the browser, on any platform.</description>
+    </item>
+    
+    <item>
+      <title>Et innblikk i moderne svindelmetoder</title>
+      <link>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_4/167-et-innblikk-i-moderne-svindelmetoder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_4/167-et-innblikk-i-moderne-svindelmetoder/</guid>
+      <description>Få et innblikk i moderne svindel fra en sikkerhetsutvikler! Hvordan kan vi fortsatt ha svindel i det moderne Norge i dag, hvorfor stopper vi det bare ikke?
+Opplev hvordan svindel faktisk utføres i Norge i dag og hva man gjør for å stoppe det.
+I denne presentasjonen går jeg igjennom hvordan norske bankkunder blir svindlet i dag, hva svindlerne er ute etter, typiske svindler og hvordan vi jobber for å bekjempe det.</description>
+    </item>
+    
+  </channel>
+</rss>

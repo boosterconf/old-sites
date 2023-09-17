@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesal 2&#43;3 on Booster Conference 2023 Bergen</title>
+    <link>https://2023.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesal_2_3/</link>
+    <description>Recent content in Kongesal 2&#43;3 on Booster Conference 2023 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2023.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesal_2_3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>API-design - hva skjer med APIet ditt når verden endrer seg?</title>
+      <link>https://2023.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesal_2_3/217-api-design-hva-skjer-med-apiet-ditt-n%C3%A5r-verden-endrer-seg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesal_2_3/217-api-design-hva-skjer-med-apiet-ditt-n%C3%A5r-verden-endrer-seg/</guid>
+      <description>En frontend-utvikler nevnte en gang for meg at han ofte ikke skjønner hva backend-utviklerne har tenkt når de designer et API. Dette foredraget er en historie om hva vi tenkte og hvordan vi jobbet med API hos Entur i en periode der det skjedde store endringer som gjorde at APIet vårt ikke lenger løste klientenes viktigste behov.
+Teamet som denne historien handler om lager et API som samtlige togreisende i Norge bruker hver gang de bestiller en billett.</description>
+    </item>
+    
+    <item>
+      <title>Hot loaf of bread with machine learning</title>
+      <link>https://2023.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesal_2_3/106-hot-loaf-of-bread-with-machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesal_2_3/106-hot-loaf-of-bread-with-machine-learning/</guid>
+      <description>In Norway alone, we throw away more than 105 million loaves of bread every year. According to Matsjokket, a documentary about food waste in Norway, presented by NRK, this is about ¼ of all food waste. About 40 million of these loaves are not even touched by a household, they are baked, transported to a store, to be thrown directly.
+In this session we will demonstrate how we have helped Bunnpris, a Norwegian grocery chain, in taking responsibility and action towards a more sustainable and data driven society.</description>
+    </item>
+    
+    <item>
+      <title>Hva skjer når du gir brukerne blyanten og lar dem tegne?</title>
+      <link>https://2023.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesal_2_3/178-hva-skjer-n%C3%A5r-du-gir-brukerne-blyanten-og-lar-dem-tegne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesal_2_3/178-hva-skjer-n%C3%A5r-du-gir-brukerne-blyanten-og-lar-dem-tegne/</guid>
+      <description>Hva er viktig å tenke på når du skal designe for en gruppe mennesker som opplever diskriminering og utenforskap? Universell utforming handler om å gi alle mulighet og tilgang til å delta i samfunnet. Burde ikke dette også gjelde designprosesser som påvirker deres liv?
+Da vi valgte å designe for hørselshemmede barn i vår masteroppgave var det veldig viktig å forstå deres behov, for å designe en løsning som var av verdi for dem.</description>
+    </item>
+    
+  </channel>
+</rss>

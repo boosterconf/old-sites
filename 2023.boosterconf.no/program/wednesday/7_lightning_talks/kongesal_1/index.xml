@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesal 1 on Booster Conference 2023 Bergen</title>
+    <link>https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_1/</link>
+    <description>Recent content in Kongesal 1 on Booster Conference 2023 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fantastical teams and where to find them…</title>
+      <link>https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_1/81-fantastical-teams-and-where-to-find-them/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_1/81-fantastical-teams-and-where-to-find-them/</guid>
+      <description>Personer som jobber sammen, jobber ikke nødvendigvis sammen - men hver for seg. Et godt team leverer mer enn summen av enkeltindividene, og skaper et arbeidsmiljø med høy trivselsfaktor. Dessverre ender mange opp i dysfunksjonelle team som ikke lever opp til sitt potensiale. Er det mulig for disse teamene å endre på dynamikken og bli et fantastisk team?
+Kort forklart finnes det ikke en “algoritme” for dette, men det som finnes er et sett med prinsipper som kan tilrettelegge for utviklingen av gode team.</description>
+    </item>
+    
+    <item>
+      <title>Fra handoff til samskaping</title>
+      <link>https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_1/176-fra-handoff-til-samskaping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_1/176-fra-handoff-til-samskaping/</guid>
+      <description>De siste årene har samarbeid og samskaping vært hovedfokuset for design-programmer. Programmene designere bruker har gått til uante lengder for å gjøre designfiler stadig mer tilgjengelig for ikke-designere med mål om mer oversiktlig grensesnitt og kode direkte knyttet til designet som lages.
+Men, likevel blir ofte samarbeidet mellom designere og utviklere sett på som en hand-off hvor en designfil blir iterert over, og er gjerne innom mange interessenter, før den til slutt overleveres og skal implementeres av det tekniske teamet.</description>
+    </item>
+    
+    <item>
+      <title>Hvordan bli en bærekraftig konferansedeltaker på 1-2-3-4-5</title>
+      <link>https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_1/108-hvordan-bli-en-b%C3%A6rekraftig-konferansedeltaker-p%C3%A5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_1/108-hvordan-bli-en-b%C3%A6rekraftig-konferansedeltaker-p%C3%A5/</guid>
+      <description>Det finnes en jungel av motstridende klimaråd der ute, og når jungelen blir for tett og uoversiktlig er det lett å bli overveldet og motløs. Men med litt enkel matematikk er det mulig å finne seg en overkommelig vei gjennom denne jungelen.
+Her får du 5 enkle grep hver og en av oss kan ta for å bidra i bærekraftig retning når vi er på konferanse eller kurs, basert på hvor skoen trykker mest med hensyn på ditt personlige klimaavtrykk og hva forskningen sier om hvilke tiltak som faktisk fungerer.</description>
+    </item>
+    
+    <item>
+      <title>Looking ahead to WCAG 2.2 ... and 3.0?</title>
+      <link>https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_1/268-looking-ahead-to-wcag-and/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/7_lightning_talks/kongesal_1/268-looking-ahead-to-wcag-and/</guid>
+      <description>In 2023, the Web Content Accessibility Guidelines (WCAG) 2.1 will turn five years old. Almost ready for elementary school, even though it was just adopted by Norwegian law two years ago. It is now time to look ahead to WCAG 2.2 and the new requirements that look likely to make the cut this time.
+We will have a quick look at the new requirements, and the process remaining before this all applies to us in Norway.</description>
+    </item>
+    
+  </channel>
+</rss>

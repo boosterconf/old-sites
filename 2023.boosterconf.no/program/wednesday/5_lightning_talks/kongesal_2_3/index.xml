@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesal 2 &#43; 3 on Booster Conference 2023 Bergen</title>
+    <link>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_2_3/</link>
+    <description>Recent content in Kongesal 2 &#43; 3 on Booster Conference 2023 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_2_3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Don&#39;t settle for a playground</title>
+      <link>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_2_3/12-don-t-settle-for-a-playground/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_2_3/12-don-t-settle-for-a-playground/</guid>
+      <description>The software industry seems to have agreed that team autonomy is a good thing, much like agile. Unfortunately, it seems to be doing some strange things with that autonomy - again, much like agile. Instead of creating self-governing and self-sufficient teams with responsibility for business goals and outcomes, we are erecting tiny playgrounds, isolated sandboxes, where the teams focus on best practices for software delivery, safely boarded up by OKRs to provide the illusion that some external leadership is still in control of the whole endeavour, not to worry.</description>
+    </item>
+    
+    <item>
+      <title>Project manager’s lessons learnt about the scope creep</title>
+      <link>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_2_3/223-project-manager-s-lessons-learnt-about-the-scope-creep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_2_3/223-project-manager-s-lessons-learnt-about-the-scope-creep/</guid>
+      <description>Scope creep is something everyone is aware of and even knows what to do with, but still many fall into this trap. We all are trying to be agile and welcome changes, even when customer locks the schedule…and cost…and still expects the high quality. Sounds familiar? I will share my experience from an innovative project I’ve been running for last 2 years and tell how I dealt with the scope creep, and what I learnt from it.</description>
+    </item>
+    
+    <item>
+      <title>Recovering from technical bankruptcy - ensemble style</title>
+      <link>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_2_3/15-recovering-from-technical-bankruptcy-ensemble-style/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_2_3/15-recovering-from-technical-bankruptcy-ensemble-style/</guid>
+      <description>One year ago I started working on a product that was suffering from overwhelming technical debt. Users were not happy, the product was buggy and slow, the team behind the product wasn&amp;rsquo;t happy, code was not pushed to production out of fear of introducing more bugs, new features could not be developed, so management was not thrilled, in short, the product could be described as being technically bankcrupt.
+I believe it is possible to recover from this situation, and I&amp;rsquo;ve been working together with the team on finding ways to do that.</description>
+    </item>
+    
+    <item>
+      <title>Technical debt - also for non-programmers</title>
+      <link>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_2_3/80-technical-debt-also-for-non-programmers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_2_3/80-technical-debt-also-for-non-programmers/</guid>
+      <description>Hvordan kan en knapp ødelege hele systemet? Kan du lage teknisk gjeld ved en uhell? Hva mener utviklere egentlig med teknisk gjeld? Er det farlig, og hva er konsekvenser ved å ha den? Hvor mye teknisk gjeld skal man ha, og hva er rente?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesal 1 on Booster Conference 2023 Bergen</title>
+    <link>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_1/</link>
+    <description>Recent content in Kongesal 1 on Booster Conference 2023 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ML &#43; UX = sant?</title>
+      <link>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_1/224-ml-ux-sant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_1/224-ml-ux-sant/</guid>
+      <description>Maskinlæring er ikke noe de fleste UX&amp;rsquo;ere jobber med i det daglige, og mange som faktisk jobber med maskinlæring skjønner ofte ikke hva det har med UX å gjøre. Koblingen mellom maskinlæring og UX er ikke åpenbar for de fleste. Likevel er mulighetene mange i samspillet mellom disse to. Siv og Nora tar debatten!</description>
+    </item>
+    
+    <item>
+      <title>100% dekningsgrad med automatisert testing, sa du?</title>
+      <link>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_1/9-100-dekningsgrad-med-automatisert-testing-sa-du/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_1/9-100-dekningsgrad-med-automatisert-testing-sa-du/</guid>
+      <description>Med et tankesett og metodikk som dreier seg mot å levere raskere og oftere, må alle flaskehalser fjernes. Teamene har ikke tid til å vente på en tester skal bruke dager på å teste det som er utviklet etter at det er ferdig utviklet. Løsningen er da å skrive automatiserte tester. Kan man da velge å erstatte en tester med automatiserte tester?
+Jeg tar utgangspunkt i testpyramiden til Martin Fowler for å se på hva som må vurderes når automatisering innføres.</description>
+    </item>
+    
+    <item>
+      <title>5 reasons why your «developer design sucks» – and how to improve it</title>
+      <link>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_1/181-5-reasons-why-your-developer-design-sucks-and-how-to-improve-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_1/181-5-reasons-why-your-developer-design-sucks-and-how-to-improve-it/</guid>
+      <description>Far too often I hear the phrase «my developer design sucks», usually followed by «we could really use a designer on our project».
+Unfortunately, the simple truth is that most of these projects do need a designer. There are design decisions to be made even if there are no available designers to make them. This is usually where unfortunate developers experience friction.
+Over the years I have been approached by many developers asking for pointers on how to improve their UIs and make them more user-friendly.</description>
+    </item>
+    
+    <item>
+      <title>Death to Test Environments</title>
+      <link>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_1/37-death-to-test-environments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_1/37-death-to-test-environments/</guid>
+      <description>A validated, stable and usable environment to execute test scenarios and replicate bugs, or a wasteful effort that will never be able to replicate production data or usage patterns? Have the use of test environments gone to far, or are we just doing it wrong? Let&amp;rsquo;s have a look at some normal ways of utilizing test environments and some changes we can do to get more value out of them. Maybe we&amp;rsquo;ll decide we don&amp;rsquo;t need one at all!</description>
+    </item>
+    
+    <item>
+      <title>Fix your god damned typography!</title>
+      <link>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_1/67-fix-your-god-damned-typography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/wednesday/5_lightning_talks/kongesal_1/67-fix-your-god-damned-typography/</guid>
+      <description>This talk will demonstrate the pains a developer have with the designer when the developer implements typography design.
+Ever wondered why the distance between a title and the text says 30px in the sketch, but it won&amp;rsquo;t line up with your html and css? Well, this talk will make you understand why, and how to fix this :)</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesal 2&#43;3 on Booster Conference 2023 Bergen</title>
+    <link>https://2023.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesal_2_3/</link>
+    <description>Recent content in Kongesal 2&#43;3 on Booster Conference 2023 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2023.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesal_2_3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hvorfor roadmaps sørger for at du ikke lykkes med å skape gode produkter</title>
+      <link>https://2023.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesal_2_3/31-hvorfor-roadmaps-s%C3%B8rger-for-at-du-ikke-lykkes-med-%C3%A5-skape-gode-produkter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesal_2_3/31-hvorfor-roadmaps-s%C3%B8rger-for-at-du-ikke-lykkes-med-%C3%A5-skape-gode-produkter/</guid>
+      <description>Roadmap blir ofte brukt av produktledere for å planlegge og kommunisere planene du har for produktet du leder. Intensjonen er god, men roadmapet får sitt eget liv så fort det blir kommunisert til andre aktører utenfor produktteamet. Til og med personer i din egen virksomhet gir roadmapet ditt et eget liv, og plutselig er du ikke lengre herre over ditt eget produkt og strategien du hadde for å skape verdi for brukerne av produktet og virksomheten som utvikler det.</description>
+    </item>
+    
+    <item>
+      <title>Nobody knew health care could be so complicated</title>
+      <link>https://2023.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesal_2_3/168-nobody-knew-health-care-could-be-so-complicated/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesal_2_3/168-nobody-knew-health-care-could-be-so-complicated/</guid>
+      <description>Tilgang til kliniske opplysninger fra en annen virksomhet i helsesektoren kan ha stor nytte i en behandlingssituasjon. Pasienten forventer at helseopplysninger deles og behandler har tjenstlig behov for innsyn, men evne til digital samhandling mellom helsetjenester er sterkt begrenset. Oslo kommune har siden mars 2020 samarbeidet med HSØ og Norsk Helsenett for å pilotere en integrasjonsarkitektur for deling av journaldokumenter som legger til rette for direkte oppslag. Underveis har vi støtt på en rekke juridiske, tekniske og organisatoriske utfordringer.</description>
+    </item>
+    
+    <item>
+      <title>Vi skal alle bli gamle - Husk å designe for eldre</title>
+      <link>https://2023.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesal_2_3/146-vi-skal-alle-bli-gamle-husk-%C3%A5-designe-for-eldre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesal_2_3/146-vi-skal-alle-bli-gamle-husk-%C3%A5-designe-for-eldre/</guid>
+      <description>Det snakkes mye om digitalt utenforskap. Vi har jo som mål å være digitalt inkluderende, men det finnes dessverre mange som faller utenfor. Eldre er en av gruppene hvor flere opplever digitalt utenforskap. Vi skal også bli mange flere eldre i nær fremtid: Statistisk Sentralbyrå estimerer at det i 2030 vil være flere eldre (65+) enn barn og unge (0-19), og at det i 2040 kommer til å være 60% flere eldre sammenlignet med i dag.</description>
+    </item>
+    
+  </channel>
+</rss>

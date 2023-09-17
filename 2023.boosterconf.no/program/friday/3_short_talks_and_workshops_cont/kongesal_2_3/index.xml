@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesal 2&#43;3 on Booster Conference 2023 Bergen</title>
+    <link>https://2023.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesal_2_3/</link>
+    <description>Recent content in Kongesal 2&#43;3 on Booster Conference 2023 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2023.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesal_2_3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UX ❤️ Sikkerhet</title>
+      <link>https://2023.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesal_2_3/171-ux-sikkerhet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesal_2_3/171-ux-sikkerhet/</guid>
+      <description>Når vi snakker om sikkerhet, blir ofte brukeropplevelse og det menneskelige underlagt tekniske betingelser. Vi mener de beste løsningene blir til når UX og sikkerhet går hånd-i-hånd, der sikkerhet bør være et felles verktøy i arbeidsprosessen. På vårt oppdrag for BankID/BankAxept har vi fått innblikk i hvorfor UX hører hjemme i sikkerhetsdiskusjonene, og vi vil gjerne dele!</description>
+    </item>
+    
+    <item>
+      <title>Hvorfor ville jeg ikke valgt GraphQL som API igjen</title>
+      <link>https://2023.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesal_2_3/75-hvorfor-ville-jeg-ikke-valgt-graphql-som-api-igjen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesal_2_3/75-hvorfor-ville-jeg-ikke-valgt-graphql-som-api-igjen/</guid>
+      <description>Vurderer du å ta i bruk GraphQL? Stikk innom å bli motbevist!
+Jeg starter showet med en forklaring hva GraphQL er og hvordan det virker. Midtdelen av showet vil vise vårt offentlige API for trafikkdata hos Statens vegvesen som har vært i produksjon i over 4 år. Klimakset mot slutten forteller om erfaringene vi har gjort oss, og hvorfor jeg ikke ville valgt GraphQL på nytt som offentlig API for Trafikkdata!</description>
+    </item>
+    
+  </channel>
+</rss>

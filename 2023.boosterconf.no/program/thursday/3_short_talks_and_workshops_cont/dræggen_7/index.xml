@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dræggen 7 on Booster Conference 2023 Bergen</title>
+    <link>https://2023.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/dr%C3%A6ggen_7/</link>
+    <description>Recent content in Dræggen 7 on Booster Conference 2023 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2023.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/dr%C3%A6ggen_7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hvordan gjøres en autentisering med OpenID Connect sånn egentlig</title>
+      <link>https://2023.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/dr%C3%A6ggen_7/228-hvordan-gj%C3%B8res-en-autentisering-med-openid-connect-s%C3%A5nn-egentlig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/dr%C3%A6ggen_7/228-hvordan-gj%C3%B8res-en-autentisering-med-openid-connect-s%C3%A5nn-egentlig/</guid>
+      <description>Du har kanskje oppdaget at flere nettsider og apper de siste årene lar deg logge inn med tredjeparts aktører, som Google, Facebook, Vipps, osv. I denne workshopen skal vi gå gjennom hvordan dette gjøres i praksis med å ta en titt under panseret til OpenID Connect (OIDC) standarden, og hvordan den åpner opp for å gi en tredjeparts aktør ansvaret for å gjennomføre autentiseringen av brukeren.
+Autentisering med OIDC er noe som vanligvis bør løses med å bruke biblioteker.</description>
+    </item>
+    
+  </channel>
+</rss>
