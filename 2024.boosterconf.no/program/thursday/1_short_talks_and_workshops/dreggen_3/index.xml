@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dreggen 3 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_3/</link>
+    <description>Recent content in Dreggen 3 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choose your own command line Git adventure</title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_3/choose-your-own-command-line-git-adventure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_3/choose-your-own-command-line-git-adventure/</guid>
+      <description>Let’s practice Git together! Why? Because commits are documentation we leave for the next person. We’ll look at workflows for diffing and staging and stashing — along with operations like interactive rebase. You might want to tweak your Git config and practice writing better commit messages. There will be opportunities to resolve merge conflicts, or to get into and out of any other Git messes you discover intentionally or by accident.</description>
+    </item>
+  </channel>
+</rss>

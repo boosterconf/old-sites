@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesalen 4 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/friday/5_short_talks/kongesalen_4/</link>
+    <description>Recent content in Kongesalen 4 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/friday/5_short_talks/kongesalen_4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building an Application with TDD, DDD and Hexagonal Architecture - Isn&#39;t it a bit too much?</title>
+      <link>https://2024.boosterconf.no/program/friday/5_short_talks/kongesalen_4/building-an-application-with-tdd-ddd-and-hexagonal-architecture-isn-t-it-a-bit-too-much/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/5_short_talks/kongesalen_4/building-an-application-with-tdd-ddd-and-hexagonal-architecture-isn-t-it-a-bit-too-much/</guid>
+      <description>Many experienced developers are longing for an opportunity to build an application from scratch. Compared to the heavy legacy applications that you might be dealing with on a daily basis, which are seen as filled with technical debt and incomprehensible architecture and design choices, a fresh start promises that you can finally write code and build an application in &amp;ldquo;the right way.&amp;rdquo;
+This was exactly the opportunity my colleague and I recently got and with high motivation we applied many of the principles that we highly value, such as Test-Driven Development and Domain-Driven Design.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesalen 1-4 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen_1_4/</link>
+    <description>Recent content in Kongesalen 1-4 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen_1_4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experiences from LIVE TV shows at NRK</title>
+      <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen_1_4/experiences-from-live-tv-shows-at-nrk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen_1_4/experiences-from-live-tv-shows-at-nrk/</guid>
+      <description>When the host of a TV-show tells a million viewers to go to our web app on saturday evenings, we get quite a lot of traffic in a very small amount of time. What have we learned from creating systems that are broadcast critical for approx. 10 minutes every Saturday night.</description>
+    </item>
+    <item>
+      <title>From Hero to Zero and back again...</title>
+      <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen_1_4/from-hero-to-zero-and-back-again/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen_1_4/from-hero-to-zero-and-back-again/</guid>
+      <description>In the winter of 2022 I went on maternity leave. Little did I know what awaited me six months later when I tried to get back into the swing of things.
+I had once been a go-to person in my team, confidently making architectural decisions. Now, I found myself repeatedly asking the same questions about Spring Boot.
+This is my story of how it felt like going back to work, with a brain that was suddenly failing me, and the way back towards normal.</description>
+    </item>
+    <item>
+      <title>Jakten på data </title>
+      <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen_1_4/jakten-p%C3%A5-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen_1_4/jakten-p%C3%A5-data/</guid>
+      <description>I 2020 ble en utvikler dømt i Bergen tingrett for datainnbrudd etter at han hadde benyttet seg av et API hos Statens Vegvesen for å laste ned offentlig data. Dette er en sak som fortsatt sitter friskt i minne for mange, og som datajournalist tenker jeg på den hver gang jeg oppsøker offentlig data.
+Utvikleren anket og ble til slutt frikjent, men hva hadde skjedd om han hadde brukt de samme metodene for datainnsamling som norsk presse benytter seg av daglig?</description>
+    </item>
+  </channel>
+</rss>

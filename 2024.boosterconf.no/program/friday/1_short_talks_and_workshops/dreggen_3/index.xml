@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dreggen 3 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/dreggen_3/</link>
+    <description>Recent content in Dreggen 3 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/dreggen_3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Performance testing with Grafana K6</title>
+      <link>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/dreggen_3/performance-testing-with-grafana-k6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/dreggen_3/performance-testing-with-grafana-k6/</guid>
+      <description>How many concurrent users can does your application handle? Or your platform infrastructure? What if they try uploading enormous files? Does your application reply fast enough? Does load balancing and scaling work and respond quickly when your application is flooded with requests from users checking their tax return, buying ice cream on the 17th of May, or vote for their favorite Eurovision contestant?
+Downtime or users experiencing a slow application at a critical point in time can lead to both financial and reputational loss.</description>
+    </item>
+  </channel>
+</rss>

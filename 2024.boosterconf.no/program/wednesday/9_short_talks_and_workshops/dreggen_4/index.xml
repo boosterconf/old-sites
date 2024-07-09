@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dreggen 4 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/dreggen_4/</link>
+    <description>Recent content in Dreggen 4 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/dreggen_4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eg brukar Vim! (og det burde du òg gjere)</title>
+      <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/dreggen_4/eg-brukar-vim-og-det-burde-du-g-gjere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/dreggen_4/eg-brukar-vim-og-det-burde-du-g-gjere/</guid>
+      <description>Mange sitt fyrste (og siste) møte med Vim er etter ein git merge i terminalen. Og då er vel klisjéen at det einste ein treng å vite er korleis ein kjem seg ut derifrå. Men, Vim kan brukast til utruleg mykje meir enn det, og er eit kraftig tekstredigeringsverktøy som i tillegg til å vera effektivt også er ergonomisk.
+Gjennom workshopen vil du lære å navigere, redigere og automatisere ved hjelp av vim-kommandoar og macros.</description>
+    </item>
+  </channel>
+</rss>

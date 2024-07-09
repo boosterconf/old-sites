@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bugården on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/bug%C3%A5rden/</link>
+    <description>Recent content in Bugården on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/bug%C3%A5rden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn Rust with Conway&#39;s Game of Life</title>
+      <link>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/bug%C3%A5rden/learn-rust-with-conway-s-game-of-life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/bug%C3%A5rden/learn-rust-with-conway-s-game-of-life/</guid>
+      <description>Learn the basics of the Rust programming language by implementing the world&amp;rsquo;s most iconic cellular automaton: Conway&amp;rsquo;s Game of Life.
+The Rust programming language is a modern high-level language that offers memory-safety and thread-safety guarantees, great tooling and extremely high performance. It has repeatedly been voted the most loved programming language on Stack Overflow&amp;rsquo;s developer survey and has been added as an officially supported language in Linux kernel development. If you want to get in on the fun or just see what this language is all about, this workshop is for you!</description>
+    </item>
+  </channel>
+</rss>

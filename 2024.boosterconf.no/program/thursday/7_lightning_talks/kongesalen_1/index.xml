@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesalen 1 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_1/</link>
+    <description>Recent content in Kongesalen 1 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anarchist Software Architecture</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_1/anarchist-software-architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_1/anarchist-software-architecture/</guid>
+      <description>I switched the paradigm of my peers from &amp;ldquo;I am the expert, I know best how to do it&amp;rdquo; to &amp;ldquo;the individual contributors on the teams know their context best.&amp;rdquo;
+We were choosing the next step for our automated UI tests. Another tester thought that the two of us, as the “highest ranking” testers, should make the decision that could affect 10+ teams. I thought we should talk to the teams.</description>
+    </item>
+    <item>
+      <title>Progressive delivery and testing in practice</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_1/progressive-delivery-and-testing-in-practice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_1/progressive-delivery-and-testing-in-practice/</guid>
+      <description>Today’s development process is widely based upon agile methodology. Implementation of feature flags is listed as one of DevOps best practices. Approaches to testing have changed a lot lately and only few dev teams are lucky enough to have dedicated tester/QA. Automated tests are good, but you cannot automate everything. Bugs are still existing, and testers must prioritise wisely. That’s why I think that progressive delivery with feature flags helps us on daily basis to work more efficient and to have control over our deliveries.</description>
+    </item>
+    <item>
+      <title>The Fine Line: Balancing Critique and Compassion in Code Reviews</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_1/the-fine-line-balancing-critique-and-compassion-in-code-reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_1/the-fine-line-balancing-critique-and-compassion-in-code-reviews/</guid>
+      <description>Code reviews are not just a technical exercise but also a human interaction, often bringing into play a delicate balance between critique and emotion. While the aim is to improve code quality, an overlooked aspect is the impact it can have on developers&amp;rsquo; morale and team dynamics. This lightning talk explores the fine line between providing constructive criticism and hurting someone’s feelings. How can you be candid and effective in your feedback without demoralizing your colleagues?</description>
+    </item>
+    <item>
+      <title>Which qualities?</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_1/which-qualities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_1/which-qualities/</guid>
+      <description>We all focus on delivering high quality code, don&amp;rsquo;t we? But what do we mean by this?
+Developers often think it is implied what high quality code means, but I find that we value different qualities. And, let me tell you a secret: You can&amp;rsquo;t have them all! You actually have to choose which qualities are important for you, your team, your situation.
+I will strike a blow for always talking about qualities in plural, and deliberately choosing which qualities you will invest in, and which you will not.</description>
+    </item>
+  </channel>
+</rss>

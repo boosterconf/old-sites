@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesalen 1 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_1/</link>
+    <description>Recent content in Kongesalen 1 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A11y Broke My Build</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_1/a11y-broke-my-build/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_1/a11y-broke-my-build/</guid>
+      <description>Accessibility is often an afterthought, something done manual and late in the development cycle. But I made accessibility break my build and now I will help you break yours! Time to shift accessibility left, add automatic testing that can run in all development steps, catch errors and make the feedback loop as short as possible.
+This is not your average dry accessibility talk with long WCAG check lists, but will use lots of humor to try to get the audience to follow along and get the value out of using accessibility tooling.</description>
+    </item>
+    <item>
+      <title>Exploring Features in Modern CSS</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_1/exploring-features-in-modern-css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_1/exploring-features-in-modern-css/</guid>
+      <description>How often do you take the time to read about all the cool new stuff that&amp;rsquo;s been added to CSS in the last few years? I did exactly that, so you don&amp;rsquo;t have to, and I want to share the awesome features I found with you!
+Did you know that changing the styling of an element based on the width of its parent is actually really easy? And how about custom colors for native input elements or a powerful way to organize selector specificity?</description>
+    </item>
+    <item>
+      <title>Native HTML popovers</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_1/native-html-popovers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_1/native-html-popovers/</guid>
+      <description>Context menus, lightboxes and anything else that might pop up on a website are now possible without JavaScript! Discover new, native, JavaScript-free, HTML popovers - how to use them, what to use them for, how to style them and how to animate them.</description>
+    </item>
+    <item>
+      <title>Ta kontroll på stylingen med Styled Components</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_1/ta-kontroll-p%C3%A5-stylingen-med-styled-components/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_1/ta-kontroll-p%C3%A5-stylingen-med-styled-components/</guid>
+      <description>Styled Components gjør det enklere å begrense omfanget til CSS-en i prosjektet ditt og vite hvilken CSS som er i bruk og hvor. Lær hvordan man kan utnytte Styled Components i frontend-prosjekter til å style komponenter både statisk og dynamisk.
+Presentasjonen passer alle nivåer av utviklere som ønsker å bli kjent med andre måter å implementere CSS i sine prosjekter.</description>
+    </item>
+  </channel>
+</rss>

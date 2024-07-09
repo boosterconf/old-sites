@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesalen 4 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_4/</link>
+    <description>Recent content in Kongesalen 4 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bringing down the tower of Babel! The WebAssembly component model.</title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_4/bringing-down-the-tower-of-babel-the-webassembly-component-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_4/bringing-down-the-tower-of-babel-the-webassembly-component-model/</guid>
+      <description>One of the great promises of WebAssembly is that you can code in whatever language you want and run it anywhere, including in the browser. Until recently, this hasn&amp;rsquo;t really been the case since you still had to rely on the libraries of your chosen language, which may or may not be non-existent. After all, is your language really turing complete if it does not have a robust 3rd party library for datetime handling?</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,1642 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/</link>
+    <description>Recent content on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Aug 2021 09:40:13 +0200</lastBuildDate>
+    <atom:link href="https://2024.boosterconf.no/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Registration</title>
+      <link>https://2024.boosterconf.no/program/wednesday/1_registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/1_registration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beverages and snack</title>
+      <link>https://2024.boosterconf.no/program/friday/2_break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/2_break/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coffee break</title>
+      <link>https://2024.boosterconf.no/program/thursday/2_break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/2_break/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Offensive kill chain to reveal client&#39;s financial status</title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_2_3/offensive-kill-chain-to-reveal-client-s-financial-status/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_2_3/offensive-kill-chain-to-reveal-client-s-financial-status/</guid>
+      <description>The ever-evolving landscape of cybersecurity presents new challenges and opportunities as organizations transition from traditional on-premises infrastructures to cloud-based environments. This report describes a real-life chain attack discovered by the offensive team at Storebrand that, if once exploited, would have yielded sensitive financial information about customers. We will examine the key stages of the kill chain, from initial reconnaissance to data exfiltration, and highlight the unique considerations when defending both on-premises and cloud-based assets.</description>
+    </item>
+    <item>
+      <title>Welcome from the organizers</title>
+      <link>https://2024.boosterconf.no/program/wednesday/2_welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/2_welcome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coffee break</title>
+      <link>https://2024.boosterconf.no/program/wednesday/4_break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/4_break/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lunch</title>
+      <link>https://2024.boosterconf.no/program/friday/4_lunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/4_lunch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lunch</title>
+      <link>https://2024.boosterconf.no/program/thursday/4_lunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/4_lunch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kongesalen 5</title>
+      <link>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesalen_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesalen_5/</guid>
+      <description>Workshop continues</description>
+    </item>
+    <item>
+      <title>Kongesalen 5</title>
+      <link>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/kongesalen_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/kongesalen_5/</guid>
+      <description>Workshop continues</description>
+    </item>
+    <item>
+      <title>Open Spaces </title>
+      <link>https://2024.boosterconf.no/program/thursday/5_open_spaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/5_open_spaces/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beverages and snack</title>
+      <link>https://2024.boosterconf.no/program/friday/6_break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/6_break/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bugården</title>
+      <link>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/bug%C3%A5rden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/bug%C3%A5rden/</guid>
+      <description>Workshop continues</description>
+    </item>
+    <item>
+      <title>Bugården</title>
+      <link>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/bug%C3%A5rden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/bug%C3%A5rden/</guid>
+      <description>Workshop continues</description>
+    </item>
+    <item>
+      <title>Coffee break</title>
+      <link>https://2024.boosterconf.no/program/thursday/6_break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/6_break/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coffee break</title>
+      <link>https://2024.boosterconf.no/program/wednesday/6_break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/6_break/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coffee break</title>
+      <link>https://2024.boosterconf.no/program/thursday/8_break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/8_break/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dreggen 2</title>
+      <link>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/dreggen_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/dreggen_2/</guid>
+      <description>Workshop continues</description>
+    </item>
+    <item>
+      <title>Dreggen 2</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/dreggen_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/dreggen_2/</guid>
+      <description>Workshop continues</description>
+    </item>
+    <item>
+      <title>Dreggen 2</title>
+      <link>https://2024.boosterconf.no/program/thursday/9_experience_reports/dreggen_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/9_experience_reports/dreggen_2/</guid>
+      <description>Workshop continues</description>
+    </item>
+    <item>
+      <title>Dreggen 3</title>
+      <link>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/dreggen_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/dreggen_3/</guid>
+      <description>Workshop continues</description>
+    </item>
+    <item>
+      <title>Dreggen 3</title>
+      <link>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/dreggen_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/dreggen_3/</guid>
+      <description>Workshop continues</description>
+    </item>
+    <item>
+      <title>Dreggen 4</title>
+      <link>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/dreggen_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/dreggen_4/</guid>
+      <description>Workshop continues</description>
+    </item>
+    <item>
+      <title>Dreggen 4</title>
+      <link>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/dreggen_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/dreggen_4/</guid>
+      <description>Workshop continues</description>
+    </item>
+    <item>
+      <title>Lunch</title>
+      <link>https://2024.boosterconf.no/program/wednesday/8_lunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/8_lunch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dreggen 7</title>
+      <link>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/dreggen_7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/dreggen_7/</guid>
+      <description>Workshop continues</description>
+    </item>
+    <item>
+      <title>Dreggen 7</title>
+      <link>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/dreggen_7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/dreggen_7/</guid>
+      <description>Workshop continues</description>
+    </item>
+    <item>
+      <title>Coffee break</title>
+      <link>https://2024.boosterconf.no/program/wednesday/10_break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/10_break/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dreggen 8</title>
+      <link>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/dreggen_8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/dreggen_8/</guid>
+      <description>Workshop continues</description>
+    </item>
+    <item>
+      <title>Dreggen 8</title>
+      <link>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/dreggen_8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/dreggen_8/</guid>
+      <description>Workshop continues</description>
+    </item>
+    <item>
+      <title>Fishbowl 🐡</title>
+      <link>https://2024.boosterconf.no/program/wednesday/11_plenary_fun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/11_plenary_fun/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Day ends</title>
+      <link>https://2024.boosterconf.no/program/wednesday/12_done/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/12_done/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mount Ulriken</title>
+      <link>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/mount_ulriken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/mount_ulriken/</guid>
+      <description>Workshop continues</description>
+    </item>
+    <item>
+      <title>Conference dinner</title>
+      <link>https://2024.boosterconf.no/program/wednesday/13_conference_dinner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/13_conference_dinner/</guid>
+      <description>You are all invited to the conference dinner at Bergen&amp;rsquo;s shipyard, turned concert hall: USF Verftet at Georgernes verft 12. Bring you conference badge, as this is your ticket. There is no dress code, a lot of us a nerds and are born in a t-shirt, so come as you are! 😄
+Do you have any allergies, intolerances or dietary restrictions? Submit them here before 6th of March.</description>
+    </item>
+    <item>
+      <title>Booster party</title>
+      <link>https://2024.boosterconf.no/program/wednesday/14_conference_party/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/14_conference_party/</guid>
+      <description>After dinner, we stay at USF Verftet with a concert, fun activities and a chill board game zone, all available at the same time in different rooms varying from loud and booming to quiet and talkative! We call it the Booster Party, in partnership with our lovely partners Itera, Webstep, Atea and Sonat. Doors open at 20:00. Bring your conference badge, as this is your ticket.</description>
+    </item>
+    <item>
+      <title>Monetary policy</title>
+      <link>https://2024.boosterconf.no/info/monetary-policy/</link>
+      <pubDate>Tue, 17 Aug 2021 09:40:13 +0200</pubDate>
+      <guid>https://2024.boosterconf.no/info/monetary-policy/</guid>
+      <description>Booster is a non-profit conference, run by a group of volunteers. Our goal is to create the best possible conference for our participants and speakers, and to strengthen the local software development community. Any profits from the conference are used to ensure that we can continue organizing the conference in the following years. We are normally not able to cover travel and lodging for speakers.
+There are quite a few exceptions though.</description>
+    </item>
+    <item>
+      <title>Partner with Booster</title>
+      <link>https://2024.boosterconf.no/info/become-a-partner/</link>
+      <pubDate>Tue, 17 Aug 2021 09:40:13 +0200</pubDate>
+      <guid>https://2024.boosterconf.no/info/become-a-partner/</guid>
+      <description>Booster is an international IT conference situated in Bergen, and the most important meeting place for the local software development community. Booster is a forum for presentation, debate and study of information technology and agile methods, organized as a three day conference with lectures, workshops and lightning talks of high academic quality.
+Booster is aimed at software developers, project managers, testers, designers, architects, security experts and usability professionals. Booster focuses on craftsmanship, methods and quality and facilitates for professional networking.</description>
+    </item>
+    <item>
+      <title>Booster Code of Conduct</title>
+      <link>https://2024.boosterconf.no/info/coc/</link>
+      <pubDate>Sat, 17 Jul 2021 17:36:23 +0200</pubDate>
+      <guid>https://2024.boosterconf.no/info/coc/</guid>
+      <description>All attendees, speakers, partners, staff and volunteers at our conference are required to follow the code of conduct.
+Short Version Have a good time and help others have a good time too. Say hi to someone you don’t know. Meet interesting people. Don’t act surprised when a person doesn’t conform to a stereotype. No one is at Booster just to represent a minority so start conversations about tech, the weather, the food, the best speaker or the delights of Bergen before talking about “being minority X in tech”.</description>
+    </item>
+    <item>
+      <title>What makes Booster special?</title>
+      <link>https://2024.boosterconf.no/info/about/</link>
+      <pubDate>Sat, 17 Jul 2021 17:36:23 +0200</pubDate>
+      <guid>https://2024.boosterconf.no/info/about/</guid>
+      <description>Booster is a software conference for the entire team. That means if you’re a developer, project manager, architect, UX professional, tester or security professional, we have something for you!
+Our goal is that you come back from the conference with real knowledge you can use. That’s why interactive, hands-on workshops fill up most of the hours of the conference. We also have lightning talks, a few short talks, a couple of keynotes and open spaces.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://2024.boosterconf.no/speaker/j%C3%B8rgen-kvalsvik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/j%C3%B8rgen-kvalsvik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>&#34;Utvikler&#34; - Knowit</title>
+      <link>https://2024.boosterconf.no/speaker/lukas-schramm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/lukas-schramm/</guid>
+      <description>Master i algorithms, backendutvikler i hjerte, frontendutvikler i tvang. Nybergenser som ønsker å lære seg bergensk geografi og derfor lagte et forferdelig spill om Bergen. En av få mennesker på planeten som synes at Bergensk er pent. Overbevist oslokritiker.</description>
+    </item>
+    <item>
+      <title>A11y Broke My Build</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_1/a11y-broke-my-build/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_1/a11y-broke-my-build/</guid>
+      <description>Accessibility is often an afterthought, something done manual and late in the development cycle. But I made accessibility break my build and now I will help you break yours! Time to shift accessibility left, add automatic testing that can run in all development steps, catch errors and make the feedback loop as short as possible.
+This is not your average dry accessibility talk with long WCAG check lists, but will use lots of humor to try to get the audience to follow along and get the value out of using accessibility tooling.</description>
+    </item>
+    <item>
+      <title>Advisor at NAV</title>
+      <link>https://2024.boosterconf.no/speaker/einar-h%C3%B8st/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/einar-h%C3%B8st/</guid>
+      <description>Einar W. Høst has been a software developer for a long time. He is working as a socio-technical advisor at the Norwegian Labour and Welfare Administration. He enjoys collaborative modelling, API design and computer programming. Over the past ten years, he has done talks on a variety of topics, including hypermedia, resiliency, recursive art and lambda calculus. He has a PhD in Computer Science from the University of Oslo.</description>
+    </item>
+    <item>
+      <title>Agile Lead at Sparebanken Vest</title>
+      <link>https://2024.boosterconf.no/speaker/iryna-vasylenko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/iryna-vasylenko/</guid>
+      <description>I have been working around 20 years in IT, currently as Agile Lead and Tester in Sparebanken Vest. I have passion for quality issuance, automation, and team processes. I am from beautiful Ukraine, where I studied and started my career path: developer, QA and team lead. Since that I have been working in few companies in Norway, both with international and local teams. I like to say that each developer is different, I like to learn their preferable way of working and find the best way of collaborating.</description>
+    </item>
+    <item>
+      <title>AI ideation workshop</title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_5/ai-ideation-workshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_5/ai-ideation-workshop/</guid>
+      <description>This is a workshop that introduces tools for imagining new AI-driven solutions. We will use AI/ML capability ideation cards. A set of cards to prompt designers in generating ideas to create social, user and business value with machine learning. Participants will experience different ways of visualising and validating their concepts. We will also introduce two key methods (confusion matrix and uncertainty analysis) for validating new potential AI &amp;amp; ML concepts and opportunities.</description>
+    </item>
+    <item>
+      <title>Alliander</title>
+      <link>https://2024.boosterconf.no/speaker/daan-van-berkel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/daan-van-berkel/</guid>
+      <description>Daan van Berkel is a enthusiastic software tinkerer with a knack for presenting technical details in a clear and concise manner.</description>
+    </item>
+    <item>
+      <title>Alt er lov! La oss bryte noen lover </title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/bug%C3%A5rden/alt-er-lov-la-oss-bryte-noen-lover/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/bug%C3%A5rden/alt-er-lov-la-oss-bryte-noen-lover/</guid>
+      <description>Har du noen gang tatt i bruk en skikkelig bra tjeneste, men så klarer du ikke helt sette fingeren på hva det er som gjør den bra? Eller brukt en utrolig dårlig tjeneste, hvor ting åpenbart ikke er gjort helt «etter boka»?
+Vi bruker alle normer og konvensjoner for å utforme digitale løsninger, både bevisst og ubevisst. Ikke alle vet at det finnes en samling av disse, bedre kjent som UX Laws eller UX lover, som mannen Jon Yablonski har samlet i boka «Laws of UX».</description>
+    </item>
+    <item>
+      <title>Anarchist Software Architecture</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_1/anarchist-software-architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_1/anarchist-software-architecture/</guid>
+      <description>I switched the paradigm of my peers from &amp;ldquo;I am the expert, I know best how to do it&amp;rdquo; to &amp;ldquo;the individual contributors on the teams know their context best.&amp;rdquo;
+We were choosing the next step for our automated UI tests. Another tester thought that the two of us, as the “highest ranking” testers, should make the decision that could affect 10+ teams. I thought we should talk to the teams.</description>
+    </item>
+    <item>
+      <title>Application Security Architect</title>
+      <link>https://2024.boosterconf.no/speaker/h%C3%A5kon-knudsen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/h%C3%A5kon-knudsen/</guid>
+      <description>Håkon is a developer with an above average interest in programming languages, information security and unicorns. Their biggest passion is authentication and authorization, which has lead them to work on exciting projects such as HelseID, a national trust service for the Norwegian health sector, built on OAuth and OpenID Connect.</description>
+    </item>
+    <item>
+      <title>AWS, Senior Solutions Architect</title>
+      <link>https://2024.boosterconf.no/speaker/yves-hwang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/yves-hwang/</guid>
+      <description>Currently thinking big, inventing and simplifying for my customers as a Senior Solutions Architect in AWS. I am a co-founder of wanda.space and a software engineer at heart. Building products is my craft as is my passion for creating a team culture that is innovative, inclusive, diverse, and based on a growth mindset that loves learning and seeks to solve challenging problems.</description>
+    </item>
+    <item>
+      <title>Become an Entity Framework Ninja 🥷</title>
+      <link>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesalen_4/become-an-entity-framework-ninja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesalen_4/become-an-entity-framework-ninja/</guid>
+      <description>This workshop will consist of a theory part before the practical bit/workshop.
+Prerequisites
+Participant knowledge:
+Basic knowledge of SQL and Entity Framework is useful. A notion of what DDD is.
+When it comes to setting running the code / template, this is what you need:
+a GitHub account, or else using the template above will prove difficult 💥 .NET SDK (https://dotnet.microsoft.com/en-us/download) - this is the crux of our exercise. Make sure you at least have this installed.</description>
+    </item>
+    <item>
+      <title>Bergle – Hvordan lager man et spill som fornærmer samtlige bergensere på planeten</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_4/bergle-hvordan-lager-man-et-spill-som-forn%C3%A6rmer-samtlige-bergensere-p%C3%A5-planeten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_4/bergle-hvordan-lager-man-et-spill-som-forn%C3%A6rmer-samtlige-bergensere-p%C3%A5-planeten/</guid>
+      <description>Til tross for tekniske utfordringer og misfornøyde Bergensere, har jeg utviklet et spill inspirert av Worldle, hvor spillere gjetter seg frem til bergenske områder. Spillet gir hints om geografisk retning, men utfordringene har inkludert å definere bergenske strøkgrenser og finne en effektiv måte å lagre og visualisere dem på. Presentasjonen handler litt om hvordan man visualiserer geografisk data og mye om hvordan bergenserne har hindret prosessen. Lenken: https://bergle.privatevoid.eu/</description>
+    </item>
+    <item>
+      <title>Beyond the terrarium?</title>
+      <link>https://2024.boosterconf.no/program/friday/7_closing_keynote/kongesalen_1_4/beyond-the-terrarium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/7_closing_keynote/kongesalen_1_4/beyond-the-terrarium/</guid>
+      <description>There is a mismatch between our ideals for digital product development and the reality of it. We speak of bridging the gap between business and IT, taking a seat at the table, direct customer involvement, self-organizing teams owning business outcomes. But the reality is this: Software development teams are like silkworms, living inside a protective terrarium, sheltered from the chaotic, toxic environment of the rest of the business. Autonomy is confined to the walls of the terrarium.</description>
+    </item>
+    <item>
+      <title>Beyond the Wall: Navigating the Wilds of Team Dysfunction</title>
+      <link>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/kongesalen_2_3/beyond-the-wall-navigating-the-wilds-of-team-dysfunction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/kongesalen_2_3/beyond-the-wall-navigating-the-wilds-of-team-dysfunction/</guid>
+      <description>Har du kjent trykket fra et dysfunksjonelt team, der kreativiteten og produktiviteten er som fanget i kvikksand?
+Ingen av oss klarer alt alene. Sammen er vi garantert sterkere&amp;hellip; eller? Hva hvis «sammen» blir en belastning i stede for en styrke?
+På fjordårets konferanse introduserte en tidligere kollega og jeg de grunnleggende prinsippene for dyrking av fantastiske team. Hva har skjedd siden da? Ganske mye. Vi har tatt prinsippene, dykket dypere, og utviklet et rammeverk - et verktøy som hjelper enhver å etablere eller transformere et team for å nå sitt fulle potensiale.</description>
+    </item>
+    <item>
+      <title>Biggest fails of AI - learn and laugh</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_2_3/biggest-fails-of-ai-learn-and-laugh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_2_3/biggest-fails-of-ai-learn-and-laugh/</guid>
+      <description>There has been a lot of hype around AI and how it can solve all of our problems. Lets look at some most popular fails, and learn where its limitations are. And maybe laugh at it (while we still can)</description>
+    </item>
+    <item>
+      <title>Booster Kids</title>
+      <link>https://2024.boosterconf.no/info/kids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/info/kids/</guid>
+      <description>For syvende gang arrangerer Boosterkonferansen, i samarbeid med Bergen Offentlige Bibliotek, utviklerkonferanse for barn. Konferansen avholdes på Radisson Blu Royal Hotel, Bryggen 17. mars 2024. Det blir kurs for ulike aldersgrupper og et sterkt faglig innhold, akkurat slik en god konferanse skal være! OBS: Foreldre trenger ikke å booke billetter til seg selv!
+Program 11:00-12:00: Registrering
+12:00-13:30: Workshops, del 1
+13:30-14:15: Lunsj
+14:15-16:00: Workshops, del 2
+16:00: Takk for i år!</description>
+    </item>
+    <item>
+      <title>Booster Kids Early Access</title>
+      <link>https://2024.boosterconf.no/info/partners-kids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/info/partners-kids/</guid>
+      <description>For syvende gang arrangerer Boosterkonferansen, i samarbeid med Bergen Offentlige Bibliotek, utviklerkonferanse for barn. Konferansen avholdes på Radisson Blu Royal Hotel, Bryggen 17. mars 2024. Det blir kurs for ulike aldersgrupper og et sterkt faglig innhold, akkurat slik en god konferanse skal være! OBS: Foreldre trenger ikke å booke billetter til seg selv!
+Program 11:00 - 12:00: Registrering
+12:00 - 13:30: Workshops, del 1
+13:30 - 14:15: Lunsj
+14:15 - 16:00: Workshops, del 2</description>
+    </item>
+    <item>
+      <title>Breaking mass mailings and data exports since 1983</title>
+      <link>https://2024.boosterconf.no/speaker/b%C3%A5rd-aase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/b%C3%A5rd-aase/</guid>
+      <description>Bård Aase has 20 years of experience as a developer and is currently a DevOps specialist in the platform team at Sbanken - et konsept fra DNB. He is committed to quality in every step throughout the software lifecycle. Bård is an avid supporter of open source and has been an active member of the Bergen Linux User Group, where he has organized lectures and meetings for many years. github.com/elzapp | mastodon.</description>
+    </item>
+    <item>
+      <title>Bringing down the tower of Babel! The WebAssembly component model.</title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_4/bringing-down-the-tower-of-babel-the-webassembly-component-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_4/bringing-down-the-tower-of-babel-the-webassembly-component-model/</guid>
+      <description>One of the great promises of WebAssembly is that you can code in whatever language you want and run it anywhere, including in the browser. Until recently, this hasn&amp;rsquo;t really been the case since you still had to rely on the libraries of your chosen language, which may or may not be non-existent. After all, is your language really turing complete if it does not have a robust 3rd party library for datetime handling?</description>
+    </item>
+    <item>
+      <title>Building a platform engineering team in DNB Markets</title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_2_3/building-a-platform-engineering-team-in-dnb-markets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_2_3/building-a-platform-engineering-team-in-dnb-markets/</guid>
+      <description>To facilitate its migration to cloud, DNB Markets has established a platform team. Using platform engineering principles, the team is focused on making developers happier and more productive. At the same time, the team must support our business requirements.
+We will share our approach and experiences as a platform team, including how our internal developer portal has made the developer experience better in DNB Markets.</description>
+    </item>
+    <item>
+      <title>Building an Application with TDD, DDD and Hexagonal Architecture - Isn&#39;t it a bit too much?</title>
+      <link>https://2024.boosterconf.no/program/friday/5_short_talks/kongesalen_4/building-an-application-with-tdd-ddd-and-hexagonal-architecture-isn-t-it-a-bit-too-much/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/5_short_talks/kongesalen_4/building-an-application-with-tdd-ddd-and-hexagonal-architecture-isn-t-it-a-bit-too-much/</guid>
+      <description>Many experienced developers are longing for an opportunity to build an application from scratch. Compared to the heavy legacy applications that you might be dealing with on a daily basis, which are seen as filled with technical debt and incomprehensible architecture and design choices, a fresh start promises that you can finally write code and build an application in &amp;ldquo;the right way.&amp;rdquo;
+This was exactly the opportunity my colleague and I recently got and with high motivation we applied many of the principles that we highly value, such as Test-Driven Development and Domain-Driven Design.</description>
+    </item>
+    <item>
+      <title>Capra Consulting AS, Chief People Officer</title>
+      <link>https://2024.boosterconf.no/speaker/heidi-brovold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/heidi-brovold/</guid>
+      <description>Heidi er informatiker, teknologileder og &amp;ldquo;design tenker&amp;rdquo;. Læring er forutsetningen for all utvikling. Derfor leter Heidi etter læring i alle kroker. Hun har vært utvikler, forskningsleder, prosjekt- og programleder og CTO. Nå er hun CP(eople)O i Capra Consulting AS.</description>
+    </item>
+    <item>
+      <title>CDO - Variant Bergen</title>
+      <link>https://2024.boosterconf.no/speaker/andreas-s%C3%A6tersdal-hartveit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/andreas-s%C3%A6tersdal-hartveit/</guid>
+      <description>I am a technology-interested designer with a primary area of expertise in UX/UI design and digital product design. As CDO at Variant in Bergen, I help my clients to design products that bring value to their users and their organisation.
+In addition to my passion for design, I am also interested in team culture and interdisciplinary collaboration, especially between designers and developers.
+Outside work I like to enjoy food and drinks, especially craft beer.</description>
+    </item>
+    <item>
+      <title>Chief People Officer @ Variant</title>
+      <link>https://2024.boosterconf.no/speaker/marius-krakeli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/marius-krakeli/</guid>
+      <description>Marius is an ex programmer now turned product manager with a fondness for fantastic product experiences. Although spending most of his time thinking about product development, he also maintains his programming skills by being both producer and panelist on the JavaScript podcast “BartJS Podcast”. When he’s not working as a consultant at Variant, he is very entertained by video games and audio production.</description>
+    </item>
+    <item>
+      <title>Chief Process and Innovation Officer</title>
+      <link>https://2024.boosterconf.no/speaker/kristin-wulff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/kristin-wulff/</guid>
+      <description>Kristin has a master in psychology (1996) and a master in organization and management (2014). She is now employed as the Chief process and innovation officer (CPIO) in Kantega and has recently finished a PhD degree at the Norwegian University of Science and Technology, Faculty of Economics and Management. She has worked within software development in different roles since 1998, the last 15 years in leadership positions.</description>
+    </item>
+    <item>
+      <title>Choose your own command line Git adventure</title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_3/choose-your-own-command-line-git-adventure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_3/choose-your-own-command-line-git-adventure/</guid>
+      <description>Let’s practice Git together! Why? Because commits are documentation we leave for the next person. We’ll look at workflows for diffing and staging and stashing — along with operations like interactive rebase. You might want to tweak your Git config and practice writing better commit messages. There will be opportunities to resolve merge conflicts, or to get into and out of any other Git messes you discover intentionally or by accident.</description>
+    </item>
+    <item>
+      <title>Cloud and platform at ScaleAQ</title>
+      <link>https://2024.boosterconf.no/speaker/andreas-olsen-gulla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/andreas-olsen-gulla/</guid>
+      <description>Very interested in all things cloud, platform, containers, architecture, iot, etc..</description>
+    </item>
+    <item>
+      <title>Cloud Native practice lead in Bekk</title>
+      <link>https://2024.boosterconf.no/speaker/ole-kristian-pedersen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/ole-kristian-pedersen/</guid>
+      <description>Developer/senior consultant and cloud native practice lead in Bekk. Interested in cloud architectures, CI/CD and developer productivity.</description>
+    </item>
+    <item>
+      <title>Consultant @ Bouvet</title>
+      <link>https://2024.boosterconf.no/speaker/embla-%C3%B8ye/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/embla-%C3%B8ye/</guid>
+      <description>Embla jobber som fullstack utvikler, og er utdannet sivilingeniør i havbruk fra UiB. Hun har 2 års erfaring fra konsulentlivet og jobber for tiden i Bouvet.</description>
+    </item>
+    <item>
+      <title>Consultant at Savvy</title>
+      <link>https://2024.boosterconf.no/speaker/ole-eskild-steensen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/ole-eskild-steensen/</guid>
+      <description>Ole is working as a consultant at Savvy. Most of his career he has worked as a software developer for companies that has names starting with &amp;ldquo;Fjord&amp;rdquo;.</description>
+    </item>
+    <item>
+      <title>Consultant, Bouvet</title>
+      <link>https://2024.boosterconf.no/speaker/daria-krasnianska/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/daria-krasnianska/</guid>
+      <description>I&amp;rsquo;m a certified agile team coach and project manager with 13 years of experience in IT. Also, I&amp;rsquo;m a founder and board director of a volunteer organisation. My biggest passion is people and their interactions, which makes me believe that mastering people skills is the way to survive in today&amp;rsquo;s world. I prefer a challenging but supportive approach when leading projects and teams. I tend to create an environment where colleagues can leverage their personal and professional potential.</description>
+    </item>
+    <item>
+      <title>Craftsman at Kraftlauget</title>
+      <link>https://2024.boosterconf.no/speaker/oddmar-sandvik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/oddmar-sandvik/</guid>
+      <description>Oddmar is an experienced architect, developer and adviser with 30 years&amp;rsquo; experience helping clients solve complex system challenges.
+He is currently hired by DNB Markets to assist their journey to modernize and migrate their systems to public clouds.
+Oddmar is also quite lazy and likes tools that do the work for him.</description>
+    </item>
+    <item>
+      <title>Create a webapp without JS using HTMX</title>
+      <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/bug%C3%A5rden/create-a-webapp-without-js-using-htmx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/bug%C3%A5rden/create-a-webapp-without-js-using-htmx/</guid>
+      <description>The fastest and easiest way to build a web application is to output HTML directly from the server. But what if you want to add a little interactivity, like letting the user add items to a shopping cart or filter a list of products? If you update the entire page every time the users click something, they&amp;rsquo;ll hate you with a passion. So you might consider using React or Vue, but that involves defining an api and adding a whole other build system to your application.</description>
+    </item>
+    <item>
+      <title>Crocheting</title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_2/crocheting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_2/crocheting/</guid>
+      <description>Recently I discovered for myself the craft of crocheting. It is a lovely pastime that is very tactile.
+There are a lot of programming languages and tools that have an animal as mascot. Think of Python, Go, Rust but also Docker, Postgres and atuin. How cool would it be to be able to crochet the mascot of your favorite programming language or tool!
+The workshop would allow participants to come in and receive some crocheting tutoring that enables them to crochet a project of their own choosing.</description>
+    </item>
+    <item>
+      <title>CTO at Lyll and developer at Nicode</title>
+      <link>https://2024.boosterconf.no/speaker/nicolai-gjellestad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/nicolai-gjellestad/</guid>
+      <description>I&amp;rsquo;m mainly a back-end developer with experience in Go and C#, but I delve into exploring other technologies and languages as well. I have experience as a project manager and tech lead, I care about making people and teams do great stuff while having a good time.</description>
+    </item>
+    <item>
+      <title>Datajournalist, NRK</title>
+      <link>https://2024.boosterconf.no/speaker/hannah-hansen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/hannah-hansen/</guid>
+      <description>Hannah jobber som datajournalist for NRKs undersøkende redaksjon på Vestlandet.</description>
+    </item>
+    <item>
+      <title>De beste råvarene finner kokken selv</title>
+      <link>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesalen_2_3/de-beste-r%C3%A5varene-finner-kokken-selv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesalen_2_3/de-beste-r%C3%A5varene-finner-kokken-selv/</guid>
+      <description>De færreste organisasjoner har tid og råd til å lage alt selv. Løsningen er å finne rett hyllevare fra markedet, men resultatet blir fort et brokete sett IT-systemer med dårlig kjemi.
+I offentlig sektor er det vanlig å overlate anskaffelser til folka som er best på å forvalte avtaler, mens folka som er best på koding tar seg av integrasjonen i etterkant. Det har vi utfordret i digitaliseringsetaten Origo.
+Høsten 2023 åpnet Nord-Europas største legevakt i Oslo.</description>
+    </item>
+    <item>
+      <title>Designer and frontend developer at Kantega</title>
+      <link>https://2024.boosterconf.no/speaker/maiken-beate-fjellanger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/maiken-beate-fjellanger/</guid>
+      <description>Maiken is a frontend developer and designer with love for usability and accessible design. On her most recent project she contributed to implementation of WCAG 2.1 and Tilgjengelighetserklæring at Fiskeridirektoratet.</description>
+    </item>
+    <item>
+      <title>Designer i Variant</title>
+      <link>https://2024.boosterconf.no/speaker/sofie-thornhill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/sofie-thornhill/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Designing for All: Accessibility Considerations in Remote Health Monitoring</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_2_3/designing-for-all-accessibility-considerations-in-remote-health-monitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_2_3/designing-for-all-accessibility-considerations-in-remote-health-monitoring/</guid>
+      <description>This talk explores the pivotal role of inclusive design in revolutionizing remote health monitoring technology. Emphasizing the diverse user groups that stand to benefit, from varying age demographics to individuals with distinct abilities, it highlights the essential design principles embedded in the prototype. Insights from user-centered testing illuminate the profound impact of accessibility considerations, ultimately ensuring a seamless and empowering experience for all users. This presentation advocates for a continued focus on inclusivity, propelling healthcare technology towards a more equitable and empowering future.</description>
+    </item>
+    <item>
+      <title>Designpotet i Liflig</title>
+      <link>https://2024.boosterconf.no/speaker/anne-landro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/anne-landro/</guid>
+      <description>Anne har tro på at en liten dråpe kan skape ringvirkninger i et stort hav, at summen av de små detaljene utgjør forskjellen og at verden blir et bedre sted hvis vi ser mennesket bak masken.
+Anne jobber med å videreutvikle Liflig - et selskap som tar totalansvar for å skreddersy IT-drømmer. Her tilfører hun designtankegang i alle kriker og kroker av selskapet.
+Liflig er et selskap i Capra-gruppen, en gruppe av selskaper med samme hjerte.</description>
+    </item>
+    <item>
+      <title>Developer @ Amedia</title>
+      <link>https://2024.boosterconf.no/speaker/elisabeth-irgens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/elisabeth-irgens/</guid>
+      <description>Elisabeth attended a CSS course back in 2006, and has been writing code for a living ever since. She still doesn’t fit the industry mold for a frontend developer, and has by now revolted against any notion that standardized skill sets are beneficial to the team sport of software development anyway. Today she’s having a blast at Amedia Produkt og Teknologi, wrangling Node.js apps that make up the micro-frontend architecture for 100+ local editorial media sites from around Norway.</description>
+    </item>
+    <item>
+      <title>Developer @ Knowit</title>
+      <link>https://2024.boosterconf.no/speaker/guro-prestegard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/guro-prestegard/</guid>
+      <description>Developer @ Knowit</description>
+    </item>
+    <item>
+      <title>Developer @ Storebrand</title>
+      <link>https://2024.boosterconf.no/speaker/janniche-lange/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/janniche-lange/</guid>
+      <description>Developer @ Storebrand. I like pair programming and delivering value to customers. Care about testing, readable code and frequent deliveries. And naming things. Also people and interactions more than processes and tools. And agile. Involved in communities for knowledge sharing; javaBin, Stavanger Agile Meetup and the new software conference HelloStavanger.no</description>
+    </item>
+    <item>
+      <title>Developer at Apparat</title>
+      <link>https://2024.boosterconf.no/speaker/christine-smith-johnsen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/christine-smith-johnsen/</guid>
+      <description>Developer at Apparat</description>
+    </item>
+    <item>
+      <title>Developer at Apparat</title>
+      <link>https://2024.boosterconf.no/speaker/elisabeth-whiteley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/elisabeth-whiteley/</guid>
+      <description>.</description>
+    </item>
+    <item>
+      <title>Developer at Bouvet</title>
+      <link>https://2024.boosterconf.no/speaker/erik-andreas-r%C3%B8kland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/erik-andreas-r%C3%B8kland/</guid>
+      <description>Erik Andreas is a passionate developer at Bouvet</description>
+    </item>
+    <item>
+      <title>Developer at Elmera</title>
+      <link>https://2024.boosterconf.no/speaker/%C3%A5dne-forslund/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/%C3%A5dne-forslund/</guid>
+      <description>System developer from Trøndelag, with experience from the design industry, forklift driving, big consulting and now in-house developer.</description>
+    </item>
+    <item>
+      <title>Developer at Kraftlauget AS</title>
+      <link>https://2024.boosterconf.no/speaker/amar-topalovic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/amar-topalovic/</guid>
+      <description>Amar has a masters degree in Computer Science from the University of Copenhagen, specializing in parallel programming and algorithms. During his studies he worked as a student developer at IBM. Today he works as a consultant at Kraftlauget, where he works with backend web development, mostly in .NET. He is particularly interested in functional and high-performance (GPU) programming.</description>
+    </item>
+    <item>
+      <title>Developer at Kraftlauget AS</title>
+      <link>https://2024.boosterconf.no/speaker/syver-storm-furru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/syver-storm-furru/</guid>
+      <description>I am a frontend developer at Kraftlauget AS, who sometimes dabbles in the tech lead role. I like old and/or strange programming languages, food and wine, board games, and the occational hike with my dog.</description>
+    </item>
+    <item>
+      <title>Developer at Oslo Origo</title>
+      <link>https://2024.boosterconf.no/speaker/marit-%C3%A5nestad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/marit-%C3%A5nestad/</guid>
+      <description>Marit har 11 års erfaring som utvikler og har et sterkt engasjement for å lage gode og samfunnsnyttige løsninger. Stortrives i tverrfaglige miljøer der hun kan bidra på mange forskjellige måter for å sikre et solid sluttprodukt.
+Jobber nå hos Oslo Origo, digitaliseringsetaten i Oslo kommune</description>
+    </item>
+    <item>
+      <title>Developer at Variant Trondheim</title>
+      <link>https://2024.boosterconf.no/speaker/jakob-endrestad-kielland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/jakob-endrestad-kielland/</guid>
+      <description>Hi, my name is Jakob! 👋
+I work as a developer and consultant for Variant Trondheim and I&amp;rsquo;m a life-long computer nerd. Day-to-day I spend most of my time working frontend with a great group of people (my team), but I love diving into other parts of the stack from time to time, such as our deployment pipelines. Besides technology my biggest passion is teaching. I worked as a part-time private teacher throughout all my years as a student, and I love the challenge of communicating something difficult in an interesting and understandable way, something that will hopefully shine through in my talk!</description>
+    </item>
+    <item>
+      <title>Developer in TV 2</title>
+      <link>https://2024.boosterconf.no/speaker/astrid-johnsen-tessem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/astrid-johnsen-tessem/</guid>
+      <description>Astrid Tessem works as a backend developer in TV 2. Her main focus is to improve the user experience on TV 2 Play by creating a more personalized experience. She has also 4 years experience as a data scientist.</description>
+    </item>
+    <item>
+      <title>Developer on the AI team at Helse Vest IKT</title>
+      <link>https://2024.boosterconf.no/speaker/johanna-j%C3%B8sang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/johanna-j%C3%B8sang/</guid>
+      <description>Johanna is a data scientist and developer at Helse Vest IKT. She holds a bachelors in cognitive science and a masters in machine learning, both from UiB. Professionally she has worked on projects involving computer vision and natural language processing. She enjoys discussing the future of AI and speculate on the impact it will have.</description>
+    </item>
+    <item>
+      <title>Developer, team lead and mentor</title>
+      <link>https://2024.boosterconf.no/speaker/siv-midtun-hollup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/siv-midtun-hollup/</guid>
+      <description>Siv loves creating software, preferably together with other people. She works both as a developer and a team lead. A strong passion for teaching and outreach led her to help found the Nerdschool meetup and teach fundamental software engineering skills at the University of Bergen. She is still actively engaged in teaching newcomers to our field about craftsmanship of developing software.</description>
+    </item>
+    <item>
+      <title>Direct the data to those who need it for action – not for control!</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_2_3/direct-the-data-to-those-who-need-it-for-action-not-for-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_2_3/direct-the-data-to-those-who-need-it-for-action-not-for-control/</guid>
+      <description>Organisasjoner ønsker å bli mer datadrevne, men kan ende opp med å styre data til &amp;ldquo;feil&amp;rdquo; sted. Derfor er det viktig å ha tydelige prinsipper for hvordan man skal tenke rundt bruken av data i arbeidet som gjøres.Til å oppnå det kan vi bruke prinsippet om informasjonsflyt beskrevet av Cherns i 1987. Cherns deler bruken av data i tre: for kontroll, for registrering og for aksjon. Han understreker at informasjonen skal flyte dit de trengs for å gjennomføre aksjoner (information for action) - agere - på den.</description>
+    </item>
+    <item>
+      <title>Director of Software Engineering (CTO) at Avanade</title>
+      <link>https://2024.boosterconf.no/speaker/anders-nor%C3%A5s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/anders-nor%C3%A5s/</guid>
+      <description>Originally educated in arts and design, Anders has spent the last twenty years writing code.
+He has given numerous talks and keynotes at conferences such as JavaZone, NDC, J-Fall, Øredev and many more. Have given 100+ conference talks to a variety of audiences including media, design and hardcore computer science. Known for an energetic and highly engaging presentations.</description>
+    </item>
+    <item>
+      <title>Director of Technology at Knowit Experience Bergen</title>
+      <link>https://2024.boosterconf.no/speaker/andr-heie-vik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/andr-heie-vik/</guid>
+      <description>André is the Director of Technology at Knowit Experience Bergen. He is an enthusiastic and experienced technology leader and agilist with a strong background in software development. Before moving to a management role, he spent more than a decade as a software developer. André was part of the team establishing the Booster conference and helped organize the conference from 2011-2022.</description>
+    </item>
+    <item>
+      <title>Disrupting hackers: Technqiues to ruin their day and securing your applications! </title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_4/disrupting-hackers-technqiues-to-ruin-their-day-and-securing-your-applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_4/disrupting-hackers-technqiues-to-ruin-their-day-and-securing-your-applications/</guid>
+      <description>Step into the mind of a hacker and get some insight into how they attack companies and their applications. Do hackers pick targets at random, what are the common vulnerabilities, and most importantly what is the risk to your business? This is something this talk is hoping to answer. The internet is a scary place and security is crucial when deploying to the internet is one click away! Join me as I give you a quick introduction on how hackers operate and some quick wins you can implement to ruin their day!</description>
+    </item>
+    <item>
+      <title>Dive into Design Thinking &amp; Doing</title>
+      <link>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesalen_5/dive-into-design-thinking-doing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesalen_5/dive-into-design-thinking-doing/</guid>
+      <description>This is a 3 hour workshop for people that want to get an introduction to the principles and mindset of design thinking via a practical case. We go through all 5 phases together. They are; empathy, define, ideation, prototype and test. We will work with pen and paper, and physical workshop material. The methodology is based on the framework of d.school Stanford. Hopefully you will have some new tools and techniques to bring back to your own work and some fun together!</description>
+    </item>
+    <item>
+      <title>Domain-Driven Design Coach at CoWork, Norway</title>
+      <link>https://2024.boosterconf.no/speaker/mufrid-krilic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/mufrid-krilic/</guid>
+      <description>Mufrid is devoted to leading and coaching product development teams, by cultivating knowledge sharing in the organization and increasing co-developer’s business understanding. His professional philosophy is rooted in Domain-Driven Design and in building agile and technical coaching culture on an organization-wide level. With 20+ years of experience as software architect, developer and technical coach, Mufrid has been deeply involved in developing enterprise-solutions in complex domains, such as healthcare, insurance and telecom.</description>
+    </item>
+    <item>
+      <title>Effective communication in hybrid teams</title>
+      <link>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_2_3/effective-communication-in-hybrid-teams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_2_3/effective-communication-in-hybrid-teams/</guid>
+      <description>In this talk I would like to present my thoughts on how small improvements in communication can improve collaboration between team members. Listening skills, asking the right questions, presenting ideas effectively and building on each other’s ideas can help a team work together more effectively, especially in hybrid workplace settings.</description>
+    </item>
+    <item>
+      <title>Eg brukar Vim! (og det burde du òg gjere)</title>
+      <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/dreggen_4/eg-brukar-vim-og-det-burde-du-g-gjere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/dreggen_4/eg-brukar-vim-og-det-burde-du-g-gjere/</guid>
+      <description>Mange sitt fyrste (og siste) møte med Vim er etter ein git merge i terminalen. Og då er vel klisjéen at det einste ein treng å vite er korleis ein kjem seg ut derifrå. Men, Vim kan brukast til utruleg mykje meir enn det, og er eit kraftig tekstredigeringsverktøy som i tillegg til å vera effektivt også er ergonomisk.
+Gjennom workshopen vil du lære å navigere, redigere og automatisere ved hjelp av vim-kommandoar og macros.</description>
+    </item>
+    <item>
+      <title>Endringsbonanza til folket! 7 råd til deg som vil få hva som helst til å skje</title>
+      <link>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_1/endringsbonanza-til-folket-7-r%C3%A5d-til-deg-som-vil-f%C3%A5-hva-som-helst-til-%C3%A5-skje/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_1/endringsbonanza-til-folket-7-r%C3%A5d-til-deg-som-vil-f%C3%A5-hva-som-helst-til-%C3%A5-skje/</guid>
+      <description>Sitter du fast i en arbeidshverdag som ikke er optimal? Har du et team du skulle ønske fikk opp farten eller en backlog lang som et vondt år? Strever du med både kolleger, sjefer og tiden din?
+I dette foredraget ser vi på hva som kan være underliggende årsaker til frustrasjoner og endringsmotstand, og vi utforsker 7 råd som kan få fart på sakene.</description>
+    </item>
+    <item>
+      <title>Engineer &amp; Security Champion at Kantega SSO</title>
+      <link>https://2024.boosterconf.no/speaker/elias-brattli-s%C3%B8rensen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/elias-brattli-s%C3%B8rensen/</guid>
+      <description>Software Engineer &amp;amp; Security Champion at Kantega SSO, engineering digital identity standards for secure authentication to the Atlassian ecosystem while facilitating and promoting secure software development practices. Passionate about software security, and is coordinating the Kantega subject group for Security by Design.
+M. Sc. in Computer Science at NTNU, where he was researching usage of static analysis tools like Spotbugs to find vulnerabilities in OpenID Connect client implementations.</description>
+    </item>
+    <item>
+      <title>Entering the Common Lisp timeline</title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_4/entering-the-common-lisp-timeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_4/entering-the-common-lisp-timeline/</guid>
+      <description>Let&amp;rsquo;s take a small hop out of our timeline, and into one where we&amp;rsquo;re aspiring Common Lisp developers.
+Common Lisp is a programming language which was originally developed throughout the eighties, and saw its latest ANSI specification in 1994. And while the specification hasn&amp;rsquo;t changed since, there exists a small but thriving ecosystem of developers, who love building with this language.
+In this workshop we&amp;rsquo;ll tackle some real-world exercised using this strange alien technology.</description>
+    </item>
+    <item>
+      <title>Experiences from LIVE TV shows at NRK</title>
+      <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen_1_4/experiences-from-live-tv-shows-at-nrk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen_1_4/experiences-from-live-tv-shows-at-nrk/</guid>
+      <description>When the host of a TV-show tells a million viewers to go to our web app on saturday evenings, we get quite a lot of traffic in a very small amount of time. What have we learned from creating systems that are broadcast critical for approx. 10 minutes every Saturday night.</description>
+    </item>
+    <item>
+      <title>Exploring Features in Modern CSS</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_1/exploring-features-in-modern-css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_1/exploring-features-in-modern-css/</guid>
+      <description>How often do you take the time to read about all the cool new stuff that&amp;rsquo;s been added to CSS in the last few years? I did exactly that, so you don&amp;rsquo;t have to, and I want to share the awesome features I found with you!
+Did you know that changing the styling of an element based on the width of its parent is actually really easy? And how about custom colors for native input elements or a powerful way to organize selector specificity?</description>
+    </item>
+    <item>
+      <title>Family Retrospectives: How to Empower Your Team at Home</title>
+      <link>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_2_3/family-retrospectives-how-to-empower-your-team-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_2_3/family-retrospectives-how-to-empower-your-team-at-home/</guid>
+      <description>Retrospectives are often associated with work, but what if you could bring this powerful tool home to improve your family life? I will share my experience of running family retrospectives and a post-mortem after an unsuccessful attempt to buy a new home. These practices have helped us stay sane and connected, be more open, and continuously improve in a blameless manner. I will give tips and tricks on making retros practical and engaging for all ages (4+).</description>
+    </item>
+    <item>
+      <title>Feilslutninger man gjør som utvikler</title>
+      <link>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_1/feilslutninger-man-gj%C3%B8r-som-utvikler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_1/feilslutninger-man-gj%C3%B8r-som-utvikler/</guid>
+      <description>Tror du at alle dine valg og beslutninger er basert på rasjonelle tanker? At du alltid forstår hvorfor du handler som du gjør? Sannheten er at hjernen ofte tar snarveier. Dette gjelder også innenfor utvikling.
+I en verden hvor beslutningene våre kan ha stor innvirkning på prosjekter og resultater, er det viktig å innse at man noen ganger handler basert på feil informasjon eller antakelser.
+Jeg vil gå gjennom noen feilslutninger som jeg og andre utviklere har gjort og forsøke å forklare hvorfor det skjer.</description>
+    </item>
+    <item>
+      <title>Figma variables - The who, the what and the how</title>
+      <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/dreggen_8/figma-variables-the-who-the-what-and-the-how/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/dreggen_8/figma-variables-the-who-the-what-and-the-how/</guid>
+      <description>Figmavariabler gir designere nye superkrefter når de skal lage designsystemer for både små og store organisasjoner. Variabler gjør ikke bare det å lage nye design, som kan tilpasses ulike stiler veldig veldig mye raskere, enkelt og smooth, men den ekte sannheten mellom design og kode kan også bli litt lettere å lage, vedlikeholde og forstå.
+Workshopen starter med en gjennomgang av hva Variabler er og litt historien bak design tokens og hva det kan gjøre for team.</description>
+    </item>
+    <item>
+      <title>Forward Thinking with UX Research</title>
+      <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/dreggen_3/forward-thinking-with-ux-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/dreggen_3/forward-thinking-with-ux-research/</guid>
+      <description>We know that research is important for designing and building good experiences, but how do we make sure we learn and use the most valuable information? When planned strategically, research helps teams make UX fixes and plan product roadmaps that prioritize the biggest audience needs without burning out the people building the software. In this workshop, we will talk about how to align on research purpose, identify and prioritize research questions, thoughtfully execute research, and act on the results in impactful ways.</description>
+    </item>
+    <item>
+      <title>Fostering Team Spirit in the World of Tech at Webstep</title>
+      <link>https://2024.boosterconf.no/speaker/cathrine-fredh%C3%B8i/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/cathrine-fredh%C3%B8i/</guid>
+      <description>After many years of studying psychology in London, so far as to get a doctorate in the field, Cathrine decided to move back to Norway and cultivate her interest in technology. In Webstep, she stands as an arbiter, managing consultants and the vast spectrum of tech services they provide for their clients. Cathrine has always shown to have a keen interest in team harmony and productivity, while always staying on top of developments at the crossroads of tech and psychology.</description>
+    </item>
+    <item>
+      <title>Fra minsten til besten — et team for alle</title>
+      <link>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/kongesalen_4/fra-minsten-til-besten-et-team-for-alle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/kongesalen_4/fra-minsten-til-besten-et-team-for-alle/</guid>
+      <description>Et team består alltid av folk med ulikt erfaringsnivå. Hvordan hver enkelt deler kunnskapen sin og legger til rette for vekst i teamet, har mye å si for både trivsel og hva teamet klarer å produsere.
+I denne workshopen får du praktisk innsikt i hvordan kunnskap kan deles på en god måte, enten det gjelder organisasjonen, domenet eller teknisk kunnskap. Målet er at du blir bedre rustet til å være et godt teammedlem.</description>
+    </item>
+    <item>
+      <title>Fra null til cupgull - VAR på 2 måneder</title>
+      <link>https://2024.boosterconf.no/program/thursday/9_experience_reports/kongesalen_1/fra-null-til-cupgull-var-p%C3%A5-2-m%C3%A5neder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/9_experience_reports/kongesalen_1/fra-null-til-cupgull-var-p%C3%A5-2-m%C3%A5neder/</guid>
+      <description>Hva skjer egentlig på innsiden av VAR-rommet? I år ble video-assistert dømming (VAR) innført i Eliteserien. Under generalprøvene to måneder før seriestart oppdaget Norges Fotballforbund at de trengte en løsning for å kommunisere mellom VAR-dommerne og medieproduksjonen.
+Vi går gjennom prosjektet fra avspark 3. februar til seriestart i Eliteserien 10. april når systemet måtte være live. Akkurat som dommerne selv måtte vi ta viktige avgjørelser under press, og med begrenset tid til å revurdere valgene.</description>
+    </item>
+    <item>
+      <title>Fra plastkort til bytes: digitalisering av ledsagerbevisordningen i norske kommuner</title>
+      <link>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesalen_2_3/fra-plastkort-til-bytes-digitalisering-av-ledsagerbevisordningen-i-norske-kommuner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesalen_2_3/fra-plastkort-til-bytes-digitalisering-av-ledsagerbevisordningen-i-norske-kommuner/</guid>
+      <description>Ledsagerbevisordningen er et kommunalt tilbud som lar de med behov ta med seg følge på kultur- og fritidsarrangementer. I dag har alle kommunene som tilbyr Ledsagerbevis egne—og tidvis tungvinte—manuelle prosesser. Dette innebærer lamineringsmaskiner, separate søknadsskjemaer og et postvesen som bringer plastkort til innbyggernes postkasser.
+KS Digitale Fellestjenester har som mål å lage enhetlige, digitale løsninger for alle norges kommuner. Det var dermed naturlig at KS DIF fikk oppdraget med å utvikle den nye løsningen, i stedet for å la hver kommune lage sin egen versjon.</description>
+    </item>
+    <item>
+      <title>From Code to Chaos: A Developer&#39;s Journey into Product Management</title>
+      <link>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/kongesalen_2_3/from-code-to-chaos-a-developer-s-journey-into-product-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/3_short_talks_and_workshops_cont/kongesalen_2_3/from-code-to-chaos-a-developer-s-journey-into-product-management/</guid>
+      <description>Life doesn’t always pan out as we plan for. Sometimes when you lean too far into the rabbit hole you suddenly find yourself on a new career path. Let me take you on a journey through how I went from having programming as part of my core identity, to spending most of my time worrying about people, roadmaps and products visions. This is a real life story about how it’s OK to leave something behind, when something more exiting comes along - and all the frustrations, doubts and joys that comes with it.</description>
+    </item>
+    <item>
+      <title>From Hero to Zero and back again...</title>
+      <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen_1_4/from-hero-to-zero-and-back-again/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen_1_4/from-hero-to-zero-and-back-again/</guid>
+      <description>In the winter of 2022 I went on maternity leave. Little did I know what awaited me six months later when I tried to get back into the swing of things.
+I had once been a go-to person in my team, confidently making architectural decisions. Now, I found myself repeatedly asking the same questions about Spring Boot.
+This is my story of how it felt like going back to work, with a brain that was suddenly failing me, and the way back towards normal.</description>
+    </item>
+    <item>
+      <title>Front End Developer @ Variant</title>
+      <link>https://2024.boosterconf.no/speaker/kristoffer-nordstr-m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/kristoffer-nordstr-m/</guid>
+      <description>Kristoffer has a big heart for humanity &amp;amp; inclusion. He has been working with GUIs since the 1990s, a &amp;ldquo;Nordic citizen&amp;rdquo; from Sweden with Finnish roots living in Oslo Norway. Previous Head of Front End at the Norwegian Red Cross and currently working as a Consultant at Variant building education systems of the future for Sikt.</description>
+    </item>
+    <item>
+      <title>Front-end developer</title>
+      <link>https://2024.boosterconf.no/speaker/catriona-mackenzie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/catriona-mackenzie/</guid>
+      <description>Originally hailing from London, Catriona left the high-pressure world of financial IT in 2012 to enjoy a more relaxed pace of life in the beautiful, mountainous city of Bergen, Norway, where she took up a new career as a web developer. Since then she has worked with various back-end web technologies before finally landing her dream role as front-end developer, and now spends most of her days wrestling with CSS in an attempt to turn designers’ wishes into reality.</description>
+    </item>
+    <item>
+      <title>Frontend developer and accessibility advocate at Webstep</title>
+      <link>https://2024.boosterconf.no/speaker/vegard-haugstvedt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/vegard-haugstvedt/</guid>
+      <description>An enthusiastic accessibility advocate, always preaching about WCAG, WAI-ARIA, A11Y and other abbreviations. Has red-green color vision deficiency and recognize situations in everyday life where we all benefit from accessible services.
+As a frontend developer, Vegard enjoys working on the &amp;ldquo;front of frontend&amp;rdquo;, in the intersection between programming and UX, and his goal is that the services he works on should be accessible to everyone, regardless of their preferred platform or their abilities.</description>
+    </item>
+    <item>
+      <title>Frontend lead</title>
+      <link>https://2024.boosterconf.no/speaker/stian-morsund/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/stian-morsund/</guid>
+      <description>Stian Morsund has a computer engineering degree from HVL. He is now frontend-lead at KS Digitale Fellestjenester after being a consultant for some years. He has previously talked at various events like JavaZone and JavaBin here in Bergen. Likes gamedevelopment, cats and contributing to opensource projects.</description>
+    </item>
+    <item>
+      <title>Frontend-consultant</title>
+      <link>https://2024.boosterconf.no/speaker/malin-jakobsen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/malin-jakobsen/</guid>
+      <description>Frontend utvikler som jobber for Miles i Bergen, med stor interesse for brukerdesign og accessibility</description>
+    </item>
+    <item>
+      <title>Fullstack developer at Kantega</title>
+      <link>https://2024.boosterconf.no/speaker/martin-valen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/martin-valen/</guid>
+      <description>Martin is a fullstack developer who never really thought about accessibility and therefore has several inaccessible pages on his conscience. He wanted to fix that problem, but didn&amp;rsquo;t find a proper introduction to accessibilty, so he went together with Maiken and made one!</description>
+    </item>
+    <item>
+      <title>GDPR in development - a mystery?</title>
+      <link>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_4/gdpr-in-development-a-mystery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_4/gdpr-in-development-a-mystery/</guid>
+      <description>How you ever met a developer who loves GDPR? I don&amp;rsquo;t think I have. Most developers I talk with about GDPR, seems to in best case look at it as something that will slow them down and create months long processes with someone in legal who seems to be talking a different language.
+GDPR has been in place for 5 years, and yet it seems to be a mystery for most developers.</description>
+    </item>
+    <item>
+      <title>Git internals</title>
+      <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/dreggen_7/git-internals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/dreggen_7/git-internals/</guid>
+      <description>How does git works under the hood? We will learn about the internals under .git folder and try to create commits and branches from scratch without using git porcelain commands.</description>
+    </item>
+    <item>
+      <title>Head of Website and Mobile App at Widerøe</title>
+      <link>https://2024.boosterconf.no/speaker/tore-stensaker-tefre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/tore-stensaker-tefre/</guid>
+      <description>Tore is the current Head of Website and Mobile App at Widerøe, a Norwegian regional airline having Bergen as one of their focus cities.
+Formerly, Tore was a consultant at Variant, where he developed and released a number of mobility and public transport apps and web solutions throughout Norway.
+Before starting at Variant, Tore graduated from NTNU in Trondheim, with an MSc in Informatics in 2021. Tore have previously also worked as a software developer intern at Oslo Børs.</description>
+    </item>
+    <item>
+      <title>How we do accessibility at NAV</title>
+      <link>https://2024.boosterconf.no/program/thursday/9_experience_reports/kongesalen_2_3/how-we-do-accessibility-at-nav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/9_experience_reports/kongesalen_2_3/how-we-do-accessibility-at-nav/</guid>
+      <description>Providing everyone equal access to welfare services through NAV is not only legally mandated, but it is fundamental to NAV&amp;rsquo;s mission. A big part of that is making sure our web services are accessible and easy to use. With 80 cross-functional product teams, this work needs to scale well.
+In this talk I will explain how we work with accessibility at NAV through our design system and accessibility teams. We will talk about testing, training, sharing and culture building.</description>
+    </item>
+    <item>
+      <title>Human Centered Designer, Equinor</title>
+      <link>https://2024.boosterconf.no/speaker/anne-lise-bergem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/anne-lise-bergem/</guid>
+      <description>20 years experience as a Product designer. I work as a Human Centred Designer at Equinor. For the past 12 years I have been designing digital products and services for clients in a range of industries; financial, energy, health, education, media and games. I have had roles like lead designer, service designer &amp;amp; UX/UI designer. My education is a MS in Industrial Design from the Oslo School of Architecture, the Norwegian Entrepreneurship School, and I have an Executive Master in Strategic Design for Innovation - Design Thinking from NHH/HVL/UIB.</description>
+    </item>
+    <item>
+      <title>Hvordan flytte 300 000 bankkunder til skyen uten at de merker det?</title>
+      <link>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesalen_2_3/hvordan-flytte-300-000-bankkunder-til-skyen-uten-at-de-merker-det/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/kongesalen_2_3/hvordan-flytte-300-000-bankkunder-til-skyen-uten-at-de-merker-det/</guid>
+      <description>Hva er den beste tilnærmingen til det å flytte store deler av bankens tjenester og infrastruktur fra et onsite datasenter og ut i den store skyen? Hvordan kan vi ta ned risikoen til et minimum, samtidig som vi gjør opplevelsen så smidig som mulig, både for utviklere og sluttbrukere?
+Vi ønsket en løsning som gjorde det mulig å flytte nett og mobilbanken fra gammel til ny stack, dvs både ny drifts-infrastruktur, men også en ny kodebase , et skjermbilde av gangen, uten at sluttbruker merket noe og at hvert enkelt team i størst mulig grad kunne være selvbetjent når det kom til endringer for deres kodebase og skjermbilder.</description>
+    </item>
+    <item>
+      <title>Ikke alle angrep er slemme: DDoS innenfra og utenfra</title>
+      <link>https://2024.boosterconf.no/program/thursday/9_experience_reports/kongesalen_4/ikke-alle-angrep-er-slemme-ddos-innenfra-og-utenfra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/9_experience_reports/kongesalen_4/ikke-alle-angrep-er-slemme-ddos-innenfra-og-utenfra/</guid>
+      <description>Det siste året har interessen for NRK.no økt blant utenlandske stormakter. Selv om det er hyggelig å være populær kan det noen ganger bli litt for mye. I denne presentasjonen skal vi gå gjennom hvordan DDoS-angrep oppleves hos NRK.no og hvordan vi prøver å minske konsekvensene når angrepene skjer. Vi skal også se at ikke alle angrep er fiendtlige eller kommer utenifra.</description>
+    </item>
+    <item>
+      <title>Improvisational theatre - the perfect ice breaker</title>
+      <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen_5/improvisational-theatre-the-perfect-ice-breaker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen_5/improvisational-theatre-the-perfect-ice-breaker/</guid>
+      <description>Public speaking often range in the top 3 of what people are most afraid of. This workshop aims to challenge this, since improv theatre should fight for first place!
+This workshop not only enhance your improvisational theater skills but also experience how to embrace change, welcome failure, and cultivate a sense of openness in a supportive environment, all while having an absolute blast.
+No prior experience is necessary. The workshop is open to all, regardless of your background.</description>
+    </item>
+    <item>
+      <title>Indeed, QA Automation Engineer</title>
+      <link>https://2024.boosterconf.no/speaker/mesut-durukal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/mesut-durukal/</guid>
+      <description>https://drive.google.com/file/d/1lKTxhk1KEhXBw4kJRTBnHrfusn1S6-Yi/view?usp=share_link</description>
+    </item>
+    <item>
+      <title>Introduction to software packaging</title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_8/introduction-to-software-packaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_8/introduction-to-software-packaging/</guid>
+      <description>Software packaging and distribution is a very simple value proposition, and a surprisingly rich and complex problem underneath. There is a myriad of systems available, and in this workshop will have a closer look at a few common ones. We will go through the stages of building and packaging, and move from a hand-packaged tarball, through dpkg/apt, to the deeply programmable packaging systems guix and nix. All work and no play makes a dull shop, so it is recommended to bring a computer with some tools installed (see list at the end).</description>
+    </item>
+    <item>
+      <title>Is your team complete without inexperience?</title>
+      <link>https://2024.boosterconf.no/program/wednesday/3_keynote/kongesalen_1_4/is-your-team-complete-without-inexperience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/3_keynote/kongesalen_1_4/is-your-team-complete-without-inexperience/</guid>
+      <description>We’ve all been the newcomer; on the team, in the domain, in the industry. We don’t know if something is vitally important or a minor detail. When is it OK to ask for help? When do you become “productive”? More knowledge is always better, right?
+Being a newcomer is an asset! How can we leverage the potential of our newest colleagues in a good way, and create a better working place for everyone at the same time?</description>
+    </item>
+    <item>
+      <title>IT consultant, Kantega</title>
+      <link>https://2024.boosterconf.no/speaker/even-ask-sleire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/even-ask-sleire/</guid>
+      <description>Even has been working as an IT consultant at Kantega for 1.5 years, with a primary focus on backend development. He also finds enjoyment in contributing to the frontend side of applications.
+He has a strong affinity for simplicity in code, believing that clean and straightforward solutions contribute to better maintainability and understanding of software.</description>
+    </item>
+    <item>
+      <title>IT-Architect at DNB Markets</title>
+      <link>https://2024.boosterconf.no/speaker/christian-pedersen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/christian-pedersen/</guid>
+      <description>For the past 13 years, Christian has been working as a developer and architect for DNB Markets, operating and contributing to an array of different solutions, technologies and platforms. He has a keen interest for tool smithing and pipelines. Building useful tools and services to streamline, simplify and improve daily work.</description>
+    </item>
+    <item>
+      <title>It’s not exactly rocket science</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_4/it-s-not-exactly-rocket-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_4/it-s-not-exactly-rocket-science/</guid>
+      <description>Whats going on outside our atmosphere these days, and why should we care? Christine is currently working as a backend developer for Apparat, but before that she was a researcher on the connection between space and the upper atmosphere. The visual manifestation of this space / atmosphere connection is the aurora. After this talk, you will understand more about what causing the aurora, and maybe also how to predict aurora from satellite data.</description>
+    </item>
+    <item>
+      <title>Jakten på data </title>
+      <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen_1_4/jakten-p%C3%A5-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/kongesalen_1_4/jakten-p%C3%A5-data/</guid>
+      <description>I 2020 ble en utvikler dømt i Bergen tingrett for datainnbrudd etter at han hadde benyttet seg av et API hos Statens Vegvesen for å laste ned offentlig data. Dette er en sak som fortsatt sitter friskt i minne for mange, og som datajournalist tenker jeg på den hver gang jeg oppsøker offentlig data.
+Utvikleren anket og ble til slutt frikjent, men hva hadde skjedd om han hadde brukt de samme metodene for datainnsamling som norsk presse benytter seg av daglig?</description>
+    </item>
+    <item>
+      <title>Jurist og teknolog</title>
+      <link>https://2024.boosterconf.no/speaker/julie-eld%C3%B8y/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/julie-eld%C3%B8y/</guid>
+      <description>Julie er konsulent i Capra Consulting. Hun jobber mest som agile coach og teamleder. Med en tverrfaglig bakgrunn fra både juss og teknologi, trives hun spesielt godt i det skjæringspunktet.</description>
+    </item>
+    <item>
+      <title>Kan man snikinnføre design i en techbedrift?</title>
+      <link>https://2024.boosterconf.no/program/friday/5_short_talks/kongesalen_2_3/kan-man-snikinnf%C3%B8re-design-i-en-techbedrift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/5_short_talks/kongesalen_2_3/kan-man-snikinnf%C3%B8re-design-i-en-techbedrift/</guid>
+      <description>Det skulle være kjempegøy! Jeg skulle bringe designtanker inn i en veldig techorientert bedrift. Mange spennende utfordringer ventet på meg. What could possibly go wrong? Vel, faktisk ganske mye. Tenk motstand, konflikter, blod, svette og tårer. Kom og hør på skrekkhistoriene, men også det gøye som kan komme ut av å prøve å få to veldig forskjellige verdener til å møtes!</description>
+    </item>
+    <item>
+      <title>Kantega AS</title>
+      <link>https://2024.boosterconf.no/speaker/cecilie-daae-nilsen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/cecilie-daae-nilsen/</guid>
+      <description>Backend utvikler</description>
+    </item>
+    <item>
+      <title>Kantega AS</title>
+      <link>https://2024.boosterconf.no/speaker/j%C3%B8rgen-langemyr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/j%C3%B8rgen-langemyr/</guid>
+      <description>Jørgen er en utvikler fra Kantega</description>
+    </item>
+    <item>
+      <title>Konflikter = muligheter, når du bare ser litt etter</title>
+      <link>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/dreggen_8/konflikter-muligheter-n%C3%A5r-du-bare-ser-litt-etter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/dreggen_8/konflikter-muligheter-n%C3%A5r-du-bare-ser-litt-etter/</guid>
+      <description>En verden uten uenighet og konflikt, ville det vært fredelig eller bare kjedelig? Vi tror at det meste som er kult er tuftet på litt konflikt. Det startet med noen uforenlige mål, som konflikt ganske enkelt er. Så har noen jobbet med konflikten, stått i det, mestret det og funnet en (kanskje helt ny) løsning. En forutsetning for at team skal arbeide effektivt og resultatene bli bra, er gode og stabile relasjoner.</description>
+    </item>
+    <item>
+      <title>Learn Rust with Conway&#39;s Game of Life</title>
+      <link>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/bug%C3%A5rden/learn-rust-with-conway-s-game-of-life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/bug%C3%A5rden/learn-rust-with-conway-s-game-of-life/</guid>
+      <description>Learn the basics of the Rust programming language by implementing the world&amp;rsquo;s most iconic cellular automaton: Conway&amp;rsquo;s Game of Life.
+The Rust programming language is a modern high-level language that offers memory-safety and thread-safety guarantees, great tooling and extremely high performance. It has repeatedly been voted the most loved programming language on Stack Overflow&amp;rsquo;s developer survey and has been added as an officially supported language in Linux kernel development. If you want to get in on the fun or just see what this language is all about, this workshop is for you!</description>
+    </item>
+    <item>
+      <title>Leveling up from developer to leader</title>
+      <link>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_1/leveling-up-from-developer-to-leader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_1/leveling-up-from-developer-to-leader/</guid>
+      <description>As your getting more experienced in your job, it is highly probable that you&amp;rsquo;ll be asked to be a leader, or somehow end up being one. Whether it be team lead for a small team, CTO or technical lead.
+Being asked to be a leader or getting more and more trust can really be a boost for your self esteem. People love your work and contributions and you are awarded with more responsibility.</description>
+    </item>
+    <item>
+      <title>Making interactive frontends for NRKs audience</title>
+      <link>https://2024.boosterconf.no/speaker/morten-kjelling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/morten-kjelling/</guid>
+      <description>Morten is a developer with a passion for user experience, performance, accessibility and design. For the last 2 years he has been building live TV interactions in NRK.</description>
+    </item>
+    <item>
+      <title>Managing consultant at Itera</title>
+      <link>https://2024.boosterconf.no/speaker/dalibor-jovic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/dalibor-jovic/</guid>
+      <description>Dalibor worked on over 200 projects in last 18 years. In Itera Dalibor works as a tech lead and a full-stack developer. He is also practice lead for AI-tools in Itera, making sure that all employees and customers get the most out of available AI tools. In his free time he makes videos about AI on LinkedIn, and videos about programming on YouTube. Advocate for clean code, and improving efficiency in all areas.</description>
+    </item>
+    <item>
+      <title>Metodeansvarlig, Team-as-a-Service, Webstep</title>
+      <link>https://2024.boosterconf.no/speaker/fredrik-anthonisen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/fredrik-anthonisen/</guid>
+      <description>Fredrik, metodeansvarlig for Team-as-a-Service i Webstep, har ledet utviklingen av selskapets rammeverk for teametablering. Med en bakgrunn som spenner fra utvikling til prosjekt- og teknologiledelse, er han godt kjent med utfordringene i både små og store bedrifter. Hans arbeidsmåte er farget av systemtenking og et smidig tankesett. I hans reise gjennom komplekse prosjekter, blir ærlighet, nysgjerrighet, og åpenhet naturlige ledetråder.</description>
+    </item>
+    <item>
+      <title>Miles, Developer IT-Security</title>
+      <link>https://2024.boosterconf.no/speaker/brynjar-steinbakk-ulriksen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/brynjar-steinbakk-ulriksen/</guid>
+      <description>Brynjar is a full-stack developer with an interest in Azure, DevOps, security, and integration. He has worked on security solutions at Equinor and currently is a part of the security team at Sbanken. In his free time, he has won two coding competitions in Stavanger, achieved the Azure DevOps expert certification, and played an active role in various roles in sports, stock analysis, and organization and management.</description>
+    </item>
+    <item>
+      <title>Mischief Managed using Design Tokens 🧙 </title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_2_3/mischief-managed-using-design-tokens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_2_3/mischief-managed-using-design-tokens/</guid>
+      <description>Consistency is hard, maintenance is even harder. With 25 years of history, Vizrt products have lived through multiple eras. The challenge has shifted from developing the products to keeping their design and user experience unified and up to date.
+Recently, we revamped our design system and have explored ways of propagating these updates throughout our products, across different stacks. We aim to inspire others by sharing the pitfalls and best practices we have discovered during our journey.</description>
+    </item>
+    <item>
+      <title>Mission: Inefficient – Lessons from the CIA on how to sabotage your projects</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_4/mission-inefficient-lessons-from-the-cia-on-how-to-sabotage-your-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_4/mission-inefficient-lessons-from-the-cia-on-how-to-sabotage-your-projects/</guid>
+      <description>In &amp;lsquo;Mission: Inefficient&amp;rsquo;, we compare the CIA&amp;rsquo;s sabotage manual to common project pitfalls. From endless meetings to unclear goals, learn how we unknowingly derail our own projects. Walk away with key insights to make your next project a success</description>
+    </item>
+    <item>
+      <title>Mitt Voksende Produkt - Et rammeverk for å definere en MVP</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_2_3/mitt-voksende-produkt-et-rammeverk-for-%C3%A5-definere-en-mvp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_2_3/mitt-voksende-produkt-et-rammeverk-for-%C3%A5-definere-en-mvp/</guid>
+      <description>Har du noen gang jobbet med en MVP som bare vokser og vokser i omfang? Kanskje oppleves MVP bare som en annen måte å snakke om den endelige løsningen dere skal bygge? Eller kanskje begrepet brukes om hvilken funksjonalitet som skal med i neste release&amp;hellip;
+Jeg er en stor forkjemper for MVP, men opplever dessverre at begrepet ofte blir misbrukt. Hva er egentlig &amp;ldquo;minimal&amp;rdquo;, &amp;ldquo;viable&amp;rdquo; og &amp;ldquo;product&amp;rdquo; i produktet vi utvikler?</description>
+    </item>
+    <item>
+      <title>Modern fraud: A deep dive into Vishing</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_4/modern-fraud-a-deep-dive-into-vishing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_4/modern-fraud-a-deep-dive-into-vishing/</guid>
+      <description>We have all gotten a random phone call from Microsoft support, coming from a foreign number. Most of us understand that this is a scam and do not pick up the phone, or just immediately hang up. So why do they keep coming?
+In this lightning talk we will dive into an up and coming fraud strategy, that unfortunately yields unexpectedly high returns, Vishing. We will go through an introduction to vishing, how to properly execute it.</description>
+    </item>
+    <item>
+      <title>Nå personalleder i NAV IT, tidligere konsulent i 12 år</title>
+      <link>https://2024.boosterconf.no/speaker/ingeborg-klungland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/ingeborg-klungland/</guid>
+      <description>Ingeborg har jobbet 12 år som konsulent i Capra Consulting AS, nesten alltid med å lede prosjekter og team mot et eller annet. Hun er stadig fascinert av hvordan mellommenneskelige forhold har et stort potensiale for å både øke og senke fart og flyt, mer enn det tekniske forhold ofte har. Det har gitt Ingeborg masse inspirasjon til å jobbe med teamdynamikk og hvordan få teamene hun jobber med til å jobbe best mulig sammen.</description>
+    </item>
+    <item>
+      <title>Native HTML popovers</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_1/native-html-popovers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_1/native-html-popovers/</guid>
+      <description>Context menus, lightboxes and anything else that might pop up on a website are now possible without JavaScript! Discover new, native, JavaScript-free, HTML popovers - how to use them, what to use them for, how to style them and how to animate them.</description>
+    </item>
+    <item>
+      <title>Optimizing Public Healthcare: Leveraging Language Models for Reliable IT Support</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_2_3/optimizing-public-healthcare-leveraging-language-models-for-reliable-it-support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_2_3/optimizing-public-healthcare-leveraging-language-models-for-reliable-it-support/</guid>
+      <description>With the increasing pressure on public healthcare, it&amp;rsquo;s crucial to meet growing demands while keeping systems reliable. System uptime is not an option—it&amp;rsquo;s a must. This talk presents a practical approach to this problem: using language models to speed up IT support case delegation. Our presentation will break down how we implemented BERT language models to automate task assignments, offering practical insights applicable across industries.</description>
+    </item>
+    <item>
+      <title>Partner&#39;s splash</title>
+      <link>https://2024.boosterconf.no/splash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/splash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Passwords - a thing of the past?</title>
+      <link>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_4/passwords-a-thing-of-the-past/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_4/passwords-a-thing-of-the-past/</guid>
+      <description>Why are we still forcing users to go through the dreaded password flow? Passwords are still widely used, even though they often lead to bad user experiences and poor security. Surely, there must be a better way in 2024?
+Passwords has been the de-facto authorization mechanism since before the cracking of the Forty Thieves, but nowadays there are several alternatives that could help keeping your hideout safe from Ali Babas hacking skills.</description>
+    </item>
+    <item>
+      <title>Performance testing with Grafana K6</title>
+      <link>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/dreggen_3/performance-testing-with-grafana-k6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/dreggen_3/performance-testing-with-grafana-k6/</guid>
+      <description>How many concurrent users can does your application handle? Or your platform infrastructure? What if they try uploading enormous files? Does your application reply fast enough? Does load balancing and scaling work and respond quickly when your application is flooded with requests from users checking their tax return, buying ice cream on the 17th of May, or vote for their favorite Eurovision contestant?
+Downtime or users experiencing a slow application at a critical point in time can lead to both financial and reputational loss.</description>
+    </item>
+    <item>
+      <title>Platform Engineering with Amazon EKS at scale with Schibsted</title>
+      <link>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesalen_2_3/platform-engineering-with-amazon-eks-at-scale-with-schibsted/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesalen_2_3/platform-engineering-with-amazon-eks-at-scale-with-schibsted/</guid>
+      <description>Discover the transformative power of Sk8s, Schibsted&amp;rsquo;s internal platform built on Amazon EKS, that is integral to their cloud ecosystems. Sk8s empowers developers to focus on creating business value whilst increasing developer productivity across multiple teams and organisations. Illuminating a culture of shared responsibility between platform and product teams, attendees will also learn the motivation behind Sk8s and dive into the platform&amp;rsquo;s evolutionary golden path, key enablers and platform principles operating at scale.</description>
+    </item>
+    <item>
+      <title>Platformutvikler SPV</title>
+      <link>https://2024.boosterconf.no/speaker/andreas-thuen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/andreas-thuen/</guid>
+      <description>Jobbmer med å drifte og videreutvikle skypaltformen til Sparebanken Vest</description>
+    </item>
+    <item>
+      <title>Presentation techniques with powerpoint karaoke</title>
+      <link>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/dreggen_4/presentation-techniques-with-powerpoint-karaoke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/dreggen_4/presentation-techniques-with-powerpoint-karaoke/</guid>
+      <description>It’s hard to become good at a skill which, for many of us, is only a minor part of our jobs: holding presentations. However, it’s important. Making and delivering a good presentation may take more time for you than making a quick, sloppy presentation, but if it’s bad enough it may be a complete waste of time for your entire audience. So lets go through some tips for how to be on a stage and hold a presentation without letting your nerves get the better of you.</description>
+    </item>
+    <item>
+      <title>Principal Consultant at Kantega</title>
+      <link>https://2024.boosterconf.no/speaker/ove-gram-nipen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/ove-gram-nipen/</guid>
+      <description>Ove is a full-stack developer with 20 years of experience. In his spare time he goes sailing with his wife and two kids, and practices Taekwon-Do.</description>
+    </item>
+    <item>
+      <title>Progressive delivery and testing in practice</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_1/progressive-delivery-and-testing-in-practice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_1/progressive-delivery-and-testing-in-practice/</guid>
+      <description>Today’s development process is widely based upon agile methodology. Implementation of feature flags is listed as one of DevOps best practices. Approaches to testing have changed a lot lately and only few dev teams are lucky enough to have dedicated tester/QA. Automated tests are good, but you cannot automate everything. Bugs are still existing, and testers must prioritise wisely. That’s why I think that progressive delivery with feature flags helps us on daily basis to work more efficient and to have control over our deliveries.</description>
+    </item>
+    <item>
+      <title>Quality Lead, Mendix</title>
+      <link>https://2024.boosterconf.no/speaker/elizabeth-zagroba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/elizabeth-zagroba/</guid>
+      <description>Elizabeth is Quality Lead at Mendix in The Netherlands. She discovers and fills in the gaps in exploratory testing by coordinating an ensemble (mob) testing practice, actively listening, and setting out to prove that when “it should just work” it actually does. She&amp;rsquo;s the go-to person for thinking critically about what’s being built, creating a common understanding, supporting colleagues outside the prescribed management structure, and writing API tests and English effectively.</description>
+    </item>
+    <item>
+      <title>Retronerding with the Commodore Amiga</title>
+      <link>https://2024.boosterconf.no/program/friday/5_short_talks/kongesalen_1/retronerding-with-the-commodore-amiga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/5_short_talks/kongesalen_1/retronerding-with-the-commodore-amiga/</guid>
+      <description>The Commodore Amiga was the worlds best home computer until 1994. It had fantastic graphics capabilities, great games, and you could even do homework on it if you wanted (yeah right).
+Ricki stopped using his Amiga back in the 90s, but recently retreived it from the attic again after spending a couple of years developing games for the even older Commodore 64. He has been developing a new Amiga game the last 1.</description>
+    </item>
+    <item>
+      <title>Running the &#34;Elephant Carpaccio&#34; exercise for the first time(s)</title>
+      <link>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_2_3/running-the-elephant-carpaccio-exercise-for-the-first-time-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_2_3/running-the-elephant-carpaccio-exercise-for-the-first-time-s/</guid>
+      <description>Throughout the years, once in a while, I&amp;rsquo;d hear people refer to an exercise called &amp;ldquo;Elephant Carpaccio&amp;rdquo;. And yet I never ran into someone actually facilitating the exercise, allowing me to participate. So I ended up doing the next best thing: I ran it a few times myself, with some of my colleagues as benevolent participants / test subjects. Also, it was fully remote.
+In this lightning talk I&amp;rsquo;ll share why I like &amp;ldquo;Elephant Carpaccio&amp;rdquo; so much and how I went about facilitating the exercise without ever having done it myself.</description>
+    </item>
+    <item>
+      <title>Schibsted, Engineering Manager</title>
+      <link>https://2024.boosterconf.no/speaker/birgir-stefansson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/birgir-stefansson/</guid>
+      <description>TBW</description>
+    </item>
+    <item>
+      <title>Security by design: build security in</title>
+      <link>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_4/security-by-design-build-security-in/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_4/security-by-design-build-security-in/</guid>
+      <description>You have probably heard security professionals talk about patching vulnerabilities, supply chain attacks and OWASP top 10. These security issues are usually due to our most well-known software defect: bugs! But today we will focus on another kind of software defect: design flaws! We&amp;rsquo;re going to look at how to make our code more secure to begin with, so that less vulnerabilities fall out on the other side when you shake your system.</description>
+    </item>
+    <item>
+      <title>Senior Consultant, Miles</title>
+      <link>https://2024.boosterconf.no/speaker/julian-philipp-merlin-ertel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/julian-philipp-merlin-ertel/</guid>
+      <description>Julian works as a senior consultant for Miles Bergen. His main competence is C++ development, but over the years he has gathered experience in a variety of different languages and technologies. As a developer he has mainly worked in the domains of video processing and seismic data acquisition. When given the option Julian&amp;rsquo;s language of choice is Rust.</description>
+    </item>
+    <item>
+      <title>Senior designer &amp; advisor at Haltenbanken</title>
+      <link>https://2024.boosterconf.no/speaker/%C3%A5sta-lindemann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/%C3%A5sta-lindemann/</guid>
+      <description>Åsta is a senior designer from the brand design agency Haltenbanken in Bergen. She has a master in design, further education in Strategic design for innovation - Design Thinking, and has also completes «AI and Design Thinking», a part of the Technology Management and Digital Transformation master programme at NTNU. Åsta has extensive experience in strategic design development through the use of design methodology.</description>
+    </item>
+    <item>
+      <title>Senior frontend developer, Kantega Bergen</title>
+      <link>https://2024.boosterconf.no/speaker/christian-grimsgaard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/christian-grimsgaard/</guid>
+      <description>Christian is a senior frontend developer at Kantega, and is highly enthusiastic about pixels and coffee. Ask him about React or the optimal way to roast a washed Kenyan coffee, and he’ll talk for days.</description>
+    </item>
+    <item>
+      <title>Senior Frontendutvikler - Sopra Steria</title>
+      <link>https://2024.boosterconf.no/speaker/sebastian-fr%C3%B8yen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/sebastian-fr%C3%B8yen/</guid>
+      <description>Sebastian jobber hos Sopra Steria som en frontendutvikler der han arbeider med React. På fritiden så pumper han jern eller spiller Baldur’s gate 3.</description>
+    </item>
+    <item>
+      <title>Senior Security Consultant @ Atea</title>
+      <link>https://2024.boosterconf.no/speaker/joakim-pedersen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/joakim-pedersen/</guid>
+      <description>Joakim is a senior security consultant at Atea and works with penetration testing and incident response. He is passionate about security and contiously looks for ways to enhance the collaboration between the red and blue teams.</description>
+    </item>
+    <item>
+      <title>Senior Test Engineer at the Dutch Electoral Council</title>
+      <link>https://2024.boosterconf.no/speaker/joep-schuurkes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/joep-schuurkes/</guid>
+      <description>Joep wandered into software testing in 2006. After a decade of both exploratory testing and test automation, his focus shifted to a bigger question. How can teams and organizations build and deliver good software? To answer that question, he has been exploring topics such as technical leadership, quality engineering, and software methodologies.
+Joep has given talks and workshops at conferences throughout Europe. He&amp;rsquo;s also one of the organizers of the Friends of Good Software unconference (FroGS conf).</description>
+    </item>
+    <item>
+      <title>Senior visuell og UX-designer i Kantega</title>
+      <link>https://2024.boosterconf.no/speaker/helene-storstr%C3%B8m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/helene-storstr%C3%B8m/</guid>
+      <description>Helene er designer hos Kantega i Oslo og jobber for tiden med Posten sin app. Hun er utdannet designer med både bachelorgrad og fagbrev, i tillegg har hun også et år med læringspsykologi i bagasjen. Dette gir henne et unikt perspektiv som designer. For med dette kan hun kombinere atferd, design og teknologi når hun jobber med løsninger for å finne ut hva som er best for brukeren. Etter jobb finner du henne ofte ute på treninger med hunden, som hun også konkurrerer aktivt med.</description>
+    </item>
+    <item>
+      <title>Senior-konsulent hos Webstep</title>
+      <link>https://2024.boosterconf.no/speaker/hege-liby-erdal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/hege-liby-erdal/</guid>
+      <description>Hege has a PhD in experiment nuclear physics, and is now working as a senior backend developer in Webstep. For the past 3 years she has been a part of the team at KS Digitale fellestjenester.</description>
+    </item>
+    <item>
+      <title>Seniorkonsulent og medeier hos Kantega</title>
+      <link>https://2024.boosterconf.no/speaker/brage-breivik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/brage-breivik/</guid>
+      <description>Brage er den på laget som aldri klarer å holde seg i posisjon men virrer over hele banen, men som likevel bidrar til et godt resultat. UX, frontend, backend - alt er gøy og må prøves, noen ganger med godt resultat</description>
+    </item>
+    <item>
+      <title>Senoir Consultant, Tech Lead</title>
+      <link>https://2024.boosterconf.no/speaker/ricki-sickenger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/ricki-sickenger/</guid>
+      <description>Programmer, gamer, father of three kids. Games, Backend, Frontend, AR/VR and IT Consultant. Also a hobby game developer and retro computer enthusiast. =)</description>
+    </item>
+    <item>
+      <title>Software Developer</title>
+      <link>https://2024.boosterconf.no/speaker/abel-van-beek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/abel-van-beek/</guid>
+      <description>Abel van Beek is a software developer with a passion for front-end magic and creating kick-ass user experiences. It is not only about software either: he is about making it accessible for everyone, inclusive, and a force for good. His Dutch roots show not just in his love for chocolate sprinkles, but also in his pragmatic approach to complex issues.
+At Vizrt, he tightly integrated their design system workflow with the LEGO blocks he created to quickly build and maintain accessible web applications.</description>
+    </item>
+    <item>
+      <title>Software Developer at Equinor</title>
+      <link>https://2024.boosterconf.no/speaker/anna-kvashchuk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/anna-kvashchuk/</guid>
+      <description>Anna Kvashchuk is a software developer at Equinor, mom to 1- and 5-year-old, wife to mathematician, and someone who prefers family retrospective to couples&amp;rsquo; therapy.</description>
+    </item>
+    <item>
+      <title>Software Engineer @Instech</title>
+      <link>https://2024.boosterconf.no/speaker/eugene-rebedailo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/eugene-rebedailo/</guid>
+      <description>Eugene is a software engineer at Instech, a company specializing in software for the marine insurance industry. He has fascination with game design, data modelling and Sichuan cuisine.</description>
+    </item>
+    <item>
+      <title>Solution Architect Instech Solutions</title>
+      <link>https://2024.boosterconf.no/speaker/stig-nielsen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/stig-nielsen/</guid>
+      <description>I am a solution architect and tech lead at Instech (Insurance Technology Solutions AS). We create software for the marine insurance industry. I have about 20 years of experience. Been working for both startups and bigger organizations, it has been mainly finance related. Our tech stack is Microsoft/Azure based. When it comes to presenting, I have done several sessions/talks internally within the company on a wide range of topics. I did lightning talks at booster 2022 (MDM Pattern) and 2023 (Internal tech talks).</description>
+    </item>
+    <item>
+      <title>StackBlitz: Running Full Dev Environments in Your Browser</title>
+      <link>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_4/stackblitz-running-full-dev-environments-in-your-browser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_4/stackblitz-running-full-dev-environments-in-your-browser/</guid>
+      <description>What if you could run your entire frontend project in the browser? Not just the client part, but your server, your build pipeline, and your editor.
+StackBlitz is exactly that. A fully featured development environment running entirely in your browser. It can run backends using Node.js without any downloads or installations, booting fresh development instances in milliseconds. It achieves this by leveraging WebContainers: a WebAssembly-based operating system that can run Node, npm and more.</description>
+    </item>
+    <item>
+      <title>Stop Stealing My Tokens!</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_4/stop-stealing-my-tokens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_4/stop-stealing-my-tokens/</guid>
+      <description>You’ve probably heard of OAuth. Maybe you’re even using it. Then you’re most likely also using Bearer Tokens. Which are great and all. Well, until someone steals them!
+This talk gives a short and fun introduction to DPoP, or Demonstrating Proof of Possession, an extension to OAuth that allows one to cryptographically bind access tokens to a particular client when they are issued, hence making them harder to steal.</description>
+    </item>
+    <item>
+      <title>Storebrand, Offensive Security Manager</title>
+      <link>https://2024.boosterconf.no/speaker/oleksandr-kazymyrov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/oleksandr-kazymyrov/</guid>
+      <description>Oleksandr is an experienced cybersecurity professional with a passion for offensive security. He has led numerous engagements across a variety of industries, helping clients identify and address critical security vulnerabilities in their systems and infrastructure. As an Offensive Security Manager at Storebrand, Oleksandr has also been responsible for growing and managing a red team program, which has helped Storebrand enhance its security posture and better understand its risks and vulnerabilities. With a background in software engineering and a deep understanding of offensive tactics, he is uniquely positioned to help organizations adopt modern and effective offensive security practices.</description>
+    </item>
+    <item>
+      <title>Ta kontroll på stylingen med Styled Components</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_1/ta-kontroll-p%C3%A5-stylingen-med-styled-components/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_1/ta-kontroll-p%C3%A5-stylingen-med-styled-components/</guid>
+      <description>Styled Components gjør det enklere å begrense omfanget til CSS-en i prosjektet ditt og vite hvilken CSS som er i bruk og hvor. Lær hvordan man kan utnytte Styled Components i frontend-prosjekter til å style komponenter både statisk og dynamisk.
+Presentasjonen passer alle nivåer av utviklere som ønsker å bli kjent med andre måter å implementere CSS i sine prosjekter.</description>
+    </item>
+    <item>
+      <title>tagline</title>
+      <link>https://2024.boosterconf.no/speaker/anette-bergo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/anette-bergo/</guid>
+      <description>biography</description>
+    </item>
+    <item>
+      <title>Tailored testing: Personalizing Figma Prototypes for User Research</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_2_3/tailored-testing-personalizing-figma-prototypes-for-user-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_2_3/tailored-testing-personalizing-figma-prototypes-for-user-research/</guid>
+      <description>In the world of finance, user testing often requires a level of personalization that can be challenging to achieve, especially when dealing with sensitive information like account details and numbers. This lightning talk will unveil a straightforward yet effective solution to customize your Figma prototypes for individual test subjects in the finance sector. Discover how to effortlessly create multiple personalized prototypes, ensuring that users can recognize and engage with their own data.</description>
+    </item>
+    <item>
+      <title>Team Lead</title>
+      <link>https://2024.boosterconf.no/speaker/marit-hellest%C3%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/marit-hellest%C3%B8/</guid>
+      <description>Im Marit I currently work as a Team leader/Developer at Casi AS. This is my first inhouse experience as I´ve been a consultant for the last 8 years, having touched upon most types of development, from large backend projects, small websites, app development and so on.
+The most fun part of the job is to challenge myself and learn new things, preferrably outside my comfort zone, which is also why I&amp;rsquo;m trying my hand at holding a talk at a conference.</description>
+    </item>
+    <item>
+      <title>Team Lead in Cubit AS</title>
+      <link>https://2024.boosterconf.no/speaker/frida-sulen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/frida-sulen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech Lead at Instech </title>
+      <link>https://2024.boosterconf.no/speaker/ami-ahalpara/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/ami-ahalpara/</guid>
+      <description>Ami finds great joy in creating software and has lately been enjoying learning and practicing all things related to tech leadership. As a Tech Lead and Developer at Instech, she enjoys enabling her team in solving business problems, applying agile principles and continuously delivering value to customers. She likes to be a part of architectural and design decisions, removing any roadblocks, and helping foster psychological safety and collaborative culture within the team.</description>
+    </item>
+    <item>
+      <title>Tech lead NRK.no</title>
+      <link>https://2024.boosterconf.no/speaker/ingrid-guren/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/ingrid-guren/</guid>
+      <description>Ingrid is tech lead for JavaScript at NRK.no and has performed a disaster recovery of the front page at three in the morning.</description>
+    </item>
+    <item>
+      <title>Tech lead NRK.no</title>
+      <link>https://2024.boosterconf.no/speaker/john-arne-s-pedersen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/john-arne-s-pedersen/</guid>
+      <description>John Arne is the tech lead for Java at NRK.no, and he was on duty when Eurovision Song Contest Norwegian national final crashed in 2020.</description>
+    </item>
+    <item>
+      <title>Testing Autonomous Mobile Robots</title>
+      <link>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesalen_2_3/testing-autonomous-mobile-robots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesalen_2_3/testing-autonomous-mobile-robots/</guid>
+      <description>Keywords: Warehouse Automation, Testing Robots, Experience Report Target Audience: Testers, Developers, Robot Lovers Teaser: https://youtu.be/WlgaquXdmx0 Slides: https://drive.google.com/file/d/1hZzUQmrs6KNC052HxjH5ZHrfHrJNM7g4/view?usp=sharing
+Elevator Pitch Warehouse automation is an evolving market with bleeding technology in place. Autonomous mobile robots are used to assist human operators to increase efficiency. How can we test such a system? Let&amp;rsquo;s discuss the challenges and ways to cope with them.
+Problems Quality has several aspects such as operability, maintainability, recoverability, performance, usability, and efficiency.</description>
+    </item>
+    <item>
+      <title>That’s not my name</title>
+      <link>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesalen_2_3/that-s-not-my-name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesalen_2_3/that-s-not-my-name/</guid>
+      <description>Hi. My name is BÃ¥rd. No, actually, my name is Bård. That is a four letter name. so short and easy you would think even a robot or a child would spell it correctly. Growing up online with a character in my name that’s not found in the first 127 bytes of unicode, I have been predisposed to be interested in the odd ways of character encoding. Join me in a journey into the maze of character encoding, and the many ways it can go wrong.</description>
+    </item>
+    <item>
+      <title>The Cultural History of WinAmp ⚡️</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_4/the-cultural-history-of-winamp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_4/the-cultural-history-of-winamp/</guid>
+      <description>In this short talk Anders Norås takes you on a trip into the world of one of the most influential software products ever. You’ll discover the endless creativity of the user interface as an artistic expression, the Easter eggs and myths of the Winamp lore and how Winamp’s influence has reached way beyond the little box on your screen.</description>
+    </item>
+    <item>
+      <title>The Fine Line: Balancing Critique and Compassion in Code Reviews</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_1/the-fine-line-balancing-critique-and-compassion-in-code-reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_1/the-fine-line-balancing-critique-and-compassion-in-code-reviews/</guid>
+      <description>Code reviews are not just a technical exercise but also a human interaction, often bringing into play a delicate balance between critique and emotion. While the aim is to improve code quality, an overlooked aspect is the impact it can have on developers&amp;rsquo; morale and team dynamics. This lightning talk explores the fine line between providing constructive criticism and hurting someone’s feelings. How can you be candid and effective in your feedback without demoralizing your colleagues?</description>
+    </item>
+    <item>
+      <title>The power of feedback</title>
+      <link>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/dreggen_7/the-power-of-feedback/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/1_short_talks_and_workshops/dreggen_7/the-power-of-feedback/</guid>
+      <description>During this thought-provoking and fun workshop we will obtain the skills of giving a feedback that encourages to grow and succeed. I&amp;rsquo;m a big fan of the &amp;ldquo;learning by doing&amp;rdquo; approach, thus there will be a lot of activities and very little teaching in a workshop. Attendants will leave a room with a set of tools that will become handy already that same day.</description>
+    </item>
+    <item>
+      <title>Tietoevry, Senior Consulent</title>
+      <link>https://2024.boosterconf.no/speaker/yijun-pan-stautland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/yijun-pan-stautland/</guid>
+      <description>I&amp;rsquo;m a software developer and consultant at Tietoevry in Bergen. My passion for technology sparked with my very first PC and has grown ever since. Over the years, I&amp;rsquo;ve dedicated myself to mastering best practices and theories in various programming disciplines. My enthusiasm for Git has made me the go-to guy in our company. I&amp;rsquo;m excited to share my insights and learnings as I make my debut at the Booster conference.</description>
+    </item>
+    <item>
+      <title>TV 2 Play: Når sport blir personlig</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_2_3/tv-2-play-n%C3%A5r-sport-blir-personlig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_2_3/tv-2-play-n%C3%A5r-sport-blir-personlig/</guid>
+      <description>Det er lokaloppgjør i basketligaen mellom Frøya og Fyllingen. Superspennende! For noen&amp;hellip;
+TV 2 skal være stedet der du finner norsk idrett, alt fra toppidrett til ditt lokale lag i 4. divisjon. Gjennom de siste årene har TV 2 gått fra å sende premium sport av bred interesse til å inkludere store mengder sport for et mer spesifikt publikum. Av alle disse kampene, hvordan kan vi være sikker på at riktig kamp vises til riktig person?</description>
+    </item>
+    <item>
+      <title>Universal Design - from guidelines to code</title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_7/universal-design-from-guidelines-to-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_7/universal-design-from-guidelines-to-code/</guid>
+      <description>Are you confident your app complies with the new universal design requirements? Do you find the requirements for Universal Design easy to understand? This workshop is not for you! Join our workshop to learn some simple concepts that will improve the universal design quality of your websites. You will receive a small working web page that unfortunately has been created without accessibility in mind and will gradually make it more and more accessible.</description>
+    </item>
+    <item>
+      <title>User experience designer by education, full stack developer by trade.</title>
+      <link>https://2024.boosterconf.no/speaker/nils-norman-hauk%C3%A5s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/nils-norman-hauk%C3%A5s/</guid>
+      <description>Hi!
+I lead a one-person technology studio named Builder Heart where I dream up, and make programs for people. Also, I like to blog and share my findings with others.
+Currently dabbling in running my own infrastructure using Ansible, learning Linux system administration, and deploying Common Lisp (or Clojure) in the wild.</description>
+    </item>
+    <item>
+      <title>Ux designer</title>
+      <link>https://2024.boosterconf.no/speaker/erika-h%C3%A5gensen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/erika-h%C3%A5gensen/</guid>
+      <description>I&amp;rsquo;m an empathatic, curious and positive designer. I have worked as a desiger for both startups as well as large banks.
+I&amp;rsquo;m also an experienced circus artist!</description>
+    </item>
+    <item>
+      <title>UX Designer</title>
+      <link>https://2024.boosterconf.no/speaker/helene-sofie-stenstadvold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/helene-sofie-stenstadvold/</guid>
+      <description>Passionate about creating great user experiences within the Fintech space. Currently working as a UX Designer at Stacc Oslo, but have previously worked at Tryg and Sparebanken Vest in Bergen.</description>
+    </item>
+    <item>
+      <title>UX Designer at Variant Bergen</title>
+      <link>https://2024.boosterconf.no/speaker/sindre-holm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/sindre-holm/</guid>
+      <description>Senior UX designer hos Variant Bergen. Bakgrunn som designer i Anti Bergen og Schibsted.</description>
+    </item>
+    <item>
+      <title>UX Designer at Variant Bergen</title>
+      <link>https://2024.boosterconf.no/speaker/vegard-feste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/vegard-feste/</guid>
+      <description>UX Designer</description>
+    </item>
+    <item>
+      <title>UX Engineer, EDS core team, Equinor</title>
+      <link>https://2024.boosterconf.no/speaker/maja-maria-dawn-jaakson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/maja-maria-dawn-jaakson/</guid>
+      <description>Maja has an academic background in philosophy, linguistics and logic and a professional background in web dev and agile coaching. She had the pleasure and good fortune of joining the Equinor Design System (EDS) Core Team in 2023 as a UX Engineer. Professionally speaking, she’s into stuff at the intersection of dev and design and all things process, collaboration and quality improvement. She is also one of the organizers of the Frontiers Bergen meetup group.</description>
+    </item>
+    <item>
+      <title>UX Manager in Kantega</title>
+      <link>https://2024.boosterconf.no/speaker/siv-holen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/siv-holen/</guid>
+      <description>Siv is a senior interaction designer and has worked with digital user experiences for over 20 years. She is excited about new ways of working with UX in the era of AI. She has recently taken the couse &amp;ldquo;AI and design thinking&amp;rdquo; at NTNU and wants to share her experiences with you. Siv is a manager for User Experience and Design in Kantega.</description>
+    </item>
+    <item>
+      <title>UX Strategist and Design Researcher</title>
+      <link>https://2024.boosterconf.no/speaker/becca-kennedy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/becca-kennedy/</guid>
+      <description>Becca is an independent UX consultant in Albany, New York, USA with a PhD in Psychology. She loves working with teams on thoughtful and impactful products and services.</description>
+    </item>
+    <item>
+      <title>UX-designer i Kantega</title>
+      <link>https://2024.boosterconf.no/speaker/elen-haks%C3%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/elen-haks%C3%B8/</guid>
+      <description>Elen er UX-designer hos Kantega i Oslo, og jobber for tiden med bedriftsnettbanken Sparebank 1. Hun har en Master i Interaksjonsdesign fra Norges teknisk-naturvitenskapelige universitet, og Bachelor i Mediedesign fra Høyskolen i Volda og Griffith University. Hun har også studert UX Design hos Noroff. Etter jobb finner du henne ofte med kamera i hånda, eller på tur i skogen med hunden Ted og hesten Rosie.</description>
+    </item>
+    <item>
+      <title>Variant</title>
+      <link>https://2024.boosterconf.no/speaker/marie-stoltz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/marie-stoltz/</guid>
+      <description>Marie forsøkte seg i C++ på slutten av 90-tallet, men tok en u-sving og har siden da pådratt seg over 20 års erfaring innen ulike typer digitaliseringsprosjekter. Marie har ledet designavdelinger og tverrfaglige team, og hun har sett mange ulike typer produktteam, avdelinger og organisasjoner fra innsiden. Marie brenner for innovasjon og endring gjennom å forstå andre mennesker. Hun er også daglig leder for Variant i Bergen.</description>
+    </item>
+    <item>
+      <title>Vi har alle vært juniorer</title>
+      <link>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_1/vi-har-alle-v%C3%A6rt-juniorer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_1/vi-har-alle-v%C3%A6rt-juniorer/</guid>
+      <description>Alle roper etter flere flinke seniorer. Men hvordan blir man egentlig senior? Jo, man starter som junior. Denne lyntalen handler om hvorfor alle må være med å ta ansvar for å gi de uten erfaring en god start i arbeidslivet - og hva som skal til for å lykkes.
+Å lykkes med rekruttering, å lykkes med onboarding, å lykkes med å få juniorer til å bli seniorer.</description>
+    </item>
+    <item>
+      <title>Walk and talk up mount Ulriken</title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/mount_ulriken/walk-and-talk-up-mount-ulriken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/mount_ulriken/walk-and-talk-up-mount-ulriken/</guid>
+      <description>This year’s walk and talk will be up mount Ulriken. With its elevation of 643 meters Ulriken is the highest of the seven mountains surrounding Bergen. Mount Ulriken is great for hiking and of course a perfect spot for a tech talk with the amazing view over the city.
+The hike starts at the ulriken lower station and are well marked all the way up with signs. The main part consists of great stone-built stairs built by Sherpas from Nepal.</description>
+    </item>
+    <item>
+      <title>Web designer</title>
+      <link>https://2024.boosterconf.no/speaker/vegar-norman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/speaker/vegar-norman/</guid>
+      <description>I am a web designer who enjoys working somewhere inbetween design and code, mostly with large-scale web portals and design systems. I love working with accessibility and challenges that involves the end user, and how we as developers can make the web a better place for everyone. I spend my free time as a moderator in Norsk programmering, the largest Discord server for Norwegian coders, and focus my efforts around creating a community that is open and welcoming to everyone, no matter the skill level or ambition.</description>
+    </item>
+    <item>
+      <title>What&#39;s next?</title>
+      <link>https://2024.boosterconf.no/tv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/tv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Which qualities?</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_1/which-qualities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_1/which-qualities/</guid>
+      <description>We all focus on delivering high quality code, don&amp;rsquo;t we? But what do we mean by this?
+Developers often think it is implied what high quality code means, but I find that we value different qualities. And, let me tell you a secret: You can&amp;rsquo;t have them all! You actually have to choose which qualities are important for you, your team, your situation.
+I will strike a blow for always talking about qualities in plural, and deliberately choosing which qualities you will invest in, and which you will not.</description>
+    </item>
+    <item>
+      <title>Why should I listen to my UX-colleague?</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_2_3/why-should-i-listen-to-my-ux-colleague/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_2_3/why-should-i-listen-to-my-ux-colleague/</guid>
+      <description>&amp;ldquo;Can&amp;rsquo;t you just sketch something quickly?&amp;rdquo; is a question all UX-designers have gotten at least once in their career. Most will experience a mildly frustrated answer in return. Why is that? Why can&amp;rsquo;t we UX-designers &amp;ldquo;just sketch something quick&amp;rdquo;? In this lightning session, I will give an introduction to what UX-design really is, and how and why we make our choices.</description>
+    </item>
+    <item>
+      <title>You make me itch - and that&#39;s why this teamwork is so difficult </title>
+      <link>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_2_3/you-make-me-itch-and-that-s-why-this-teamwork-is-so-difficult/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_2_3/you-make-me-itch-and-that-s-why-this-teamwork-is-so-difficult/</guid>
+      <description>The aim of this lightning talk is to make the listener more self aware on how they can become a better team member, a better colleague and a better person.
+The talk is based on a model by Ofman (2000) where he describes the core quadrant that will provide insight into a person&amp;rsquo;s strengths and weaknesses. The model consists of four parts. Firstly, your CORE QUALITY which is part of your strength as a person.</description>
+    </item>
+  </channel>
+</rss>

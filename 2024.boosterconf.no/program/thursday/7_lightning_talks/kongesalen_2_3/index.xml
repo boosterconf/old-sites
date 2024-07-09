@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesalen 2 &#43; 3 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_2_3/</link>
+    <description>Recent content in Kongesalen 2 &#43; 3 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_2_3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biggest fails of AI - learn and laugh</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_2_3/biggest-fails-of-ai-learn-and-laugh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_2_3/biggest-fails-of-ai-learn-and-laugh/</guid>
+      <description>There has been a lot of hype around AI and how it can solve all of our problems. Lets look at some most popular fails, and learn where its limitations are. And maybe laugh at it (while we still can)</description>
+    </item>
+    <item>
+      <title>Direct the data to those who need it for action – not for control!</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_2_3/direct-the-data-to-those-who-need-it-for-action-not-for-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_2_3/direct-the-data-to-those-who-need-it-for-action-not-for-control/</guid>
+      <description>Organisasjoner ønsker å bli mer datadrevne, men kan ende opp med å styre data til &amp;ldquo;feil&amp;rdquo; sted. Derfor er det viktig å ha tydelige prinsipper for hvordan man skal tenke rundt bruken av data i arbeidet som gjøres.Til å oppnå det kan vi bruke prinsippet om informasjonsflyt beskrevet av Cherns i 1987. Cherns deler bruken av data i tre: for kontroll, for registrering og for aksjon. Han understreker at informasjonen skal flyte dit de trengs for å gjennomføre aksjoner (information for action) - agere - på den.</description>
+    </item>
+    <item>
+      <title>Optimizing Public Healthcare: Leveraging Language Models for Reliable IT Support</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_2_3/optimizing-public-healthcare-leveraging-language-models-for-reliable-it-support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_2_3/optimizing-public-healthcare-leveraging-language-models-for-reliable-it-support/</guid>
+      <description>With the increasing pressure on public healthcare, it&amp;rsquo;s crucial to meet growing demands while keeping systems reliable. System uptime is not an option—it&amp;rsquo;s a must. This talk presents a practical approach to this problem: using language models to speed up IT support case delegation. Our presentation will break down how we implemented BERT language models to automate task assignments, offering practical insights applicable across industries.</description>
+    </item>
+    <item>
+      <title>TV 2 Play: Når sport blir personlig</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_2_3/tv-2-play-n%C3%A5r-sport-blir-personlig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_2_3/tv-2-play-n%C3%A5r-sport-blir-personlig/</guid>
+      <description>Det er lokaloppgjør i basketligaen mellom Frøya og Fyllingen. Superspennende! For noen&amp;hellip;
+TV 2 skal være stedet der du finner norsk idrett, alt fra toppidrett til ditt lokale lag i 4. divisjon. Gjennom de siste årene har TV 2 gått fra å sende premium sport av bred interesse til å inkludere store mengder sport for et mer spesifikt publikum. Av alle disse kampene, hvordan kan vi være sikker på at riktig kamp vises til riktig person?</description>
+    </item>
+  </channel>
+</rss>

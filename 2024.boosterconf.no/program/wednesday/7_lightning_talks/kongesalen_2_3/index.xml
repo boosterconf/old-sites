@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesalen 2 &#43; 3 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_2_3/</link>
+    <description>Recent content in Kongesalen 2 &#43; 3 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_2_3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing for All: Accessibility Considerations in Remote Health Monitoring</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_2_3/designing-for-all-accessibility-considerations-in-remote-health-monitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_2_3/designing-for-all-accessibility-considerations-in-remote-health-monitoring/</guid>
+      <description>This talk explores the pivotal role of inclusive design in revolutionizing remote health monitoring technology. Emphasizing the diverse user groups that stand to benefit, from varying age demographics to individuals with distinct abilities, it highlights the essential design principles embedded in the prototype. Insights from user-centered testing illuminate the profound impact of accessibility considerations, ultimately ensuring a seamless and empowering experience for all users. This presentation advocates for a continued focus on inclusivity, propelling healthcare technology towards a more equitable and empowering future.</description>
+    </item>
+    <item>
+      <title>Mitt Voksende Produkt - Et rammeverk for å definere en MVP</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_2_3/mitt-voksende-produkt-et-rammeverk-for-%C3%A5-definere-en-mvp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_2_3/mitt-voksende-produkt-et-rammeverk-for-%C3%A5-definere-en-mvp/</guid>
+      <description>Har du noen gang jobbet med en MVP som bare vokser og vokser i omfang? Kanskje oppleves MVP bare som en annen måte å snakke om den endelige løsningen dere skal bygge? Eller kanskje begrepet brukes om hvilken funksjonalitet som skal med i neste release&amp;hellip;
+Jeg er en stor forkjemper for MVP, men opplever dessverre at begrepet ofte blir misbrukt. Hva er egentlig &amp;ldquo;minimal&amp;rdquo;, &amp;ldquo;viable&amp;rdquo; og &amp;ldquo;product&amp;rdquo; i produktet vi utvikler?</description>
+    </item>
+    <item>
+      <title>Tailored testing: Personalizing Figma Prototypes for User Research</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_2_3/tailored-testing-personalizing-figma-prototypes-for-user-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_2_3/tailored-testing-personalizing-figma-prototypes-for-user-research/</guid>
+      <description>In the world of finance, user testing often requires a level of personalization that can be challenging to achieve, especially when dealing with sensitive information like account details and numbers. This lightning talk will unveil a straightforward yet effective solution to customize your Figma prototypes for individual test subjects in the finance sector. Discover how to effortlessly create multiple personalized prototypes, ensuring that users can recognize and engage with their own data.</description>
+    </item>
+    <item>
+      <title>Why should I listen to my UX-colleague?</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_2_3/why-should-i-listen-to-my-ux-colleague/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_2_3/why-should-i-listen-to-my-ux-colleague/</guid>
+      <description>&amp;ldquo;Can&amp;rsquo;t you just sketch something quickly?&amp;rdquo; is a question all UX-designers have gotten at least once in their career. Most will experience a mildly frustrated answer in return. Why is that? Why can&amp;rsquo;t we UX-designers &amp;ldquo;just sketch something quick&amp;rdquo;? In this lightning session, I will give an introduction to what UX-design really is, and how and why we make our choices.</description>
+    </item>
+  </channel>
+</rss>

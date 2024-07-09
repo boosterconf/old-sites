@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesalen 2 &#43; 3 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_2_3/</link>
+    <description>Recent content in Kongesalen 2 &#43; 3 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_2_3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Offensive kill chain to reveal client&#39;s financial status</title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_2_3/offensive-kill-chain-to-reveal-client-s-financial-status/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_2_3/offensive-kill-chain-to-reveal-client-s-financial-status/</guid>
+      <description>The ever-evolving landscape of cybersecurity presents new challenges and opportunities as organizations transition from traditional on-premises infrastructures to cloud-based environments. This report describes a real-life chain attack discovered by the offensive team at Storebrand that, if once exploited, would have yielded sensitive financial information about customers. We will examine the key stages of the kill chain, from initial reconnaissance to data exfiltration, and highlight the unique considerations when defending both on-premises and cloud-based assets.</description>
+    </item>
+    <item>
+      <title>Building a platform engineering team in DNB Markets</title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_2_3/building-a-platform-engineering-team-in-dnb-markets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_2_3/building-a-platform-engineering-team-in-dnb-markets/</guid>
+      <description>To facilitate its migration to cloud, DNB Markets has established a platform team. Using platform engineering principles, the team is focused on making developers happier and more productive. At the same time, the team must support our business requirements.
+We will share our approach and experiences as a platform team, including how our internal developer portal has made the developer experience better in DNB Markets.</description>
+    </item>
+    <item>
+      <title>Mischief Managed using Design Tokens 🧙 </title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_2_3/mischief-managed-using-design-tokens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/kongesalen_2_3/mischief-managed-using-design-tokens/</guid>
+      <description>Consistency is hard, maintenance is even harder. With 25 years of history, Vizrt products have lived through multiple eras. The challenge has shifted from developing the products to keeping their design and user experience unified and up to date.
+Recently, we revamped our design system and have explored ways of propagating these updates throughout our products, across different stacks. We aim to inspire others by sharing the pitfalls and best practices we have discovered during our journey.</description>
+    </item>
+  </channel>
+</rss>

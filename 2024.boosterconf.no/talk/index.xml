@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Booster Conference 2022 Bergen</title>
+    <link>https://2022.boosterconf.no/talk/</link>
+    <description>Recent content in Talks on Booster Conference 2022 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2022.boosterconf.no/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(Digital) inkludering. Ta vare på de som er utafor &lt;3</title>
+      <link>https://2022.boosterconf.no/talk/74-digital-inkludering-ta-vare-p%C3%A5-de-som-er-utafor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/74-digital-inkludering-ta-vare-p%C3%A5-de-som-er-utafor/</guid>
+      <description>Digitale produkter og tjenester har infiltrert de fleste arenaer. Digitaliseringen bidrar uten tvil til effektivisering, underholdning og sosialisering for de aller fleste. Men hvordan påvirker det de som av ulike årsaker står utenfor det digitale fellesskapet?
+I Norge har vi en stor andel sterke og middels sterke digitale brukere, og bare en liten andel svake brukere. Men hva betyr det i praksis? Er det riktig å digitalisere for alle?
+Dette er en historie om noen av de som strever mest med å delta digitalt.</description>
+    </item>
+    
+    <item>
+      <title>AI. Friend, foe or fad</title>
+      <link>https://2022.boosterconf.no/talk/panel-ai-friend-foe-or-fad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/panel-ai-friend-foe-or-fad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aligning Bounded Contexts with Subdomains in Legacy Code</title>
+      <link>https://2022.boosterconf.no/talk/130-aligning-bounded-contexts-with-subdomains-in-legacy-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/130-aligning-bounded-contexts-with-subdomains-in-legacy-code/</guid>
+      <description>One way or another, each system contains some kind of boundaries. I would go so far and claim that even the dreaded Big Ball of Mud systems consist of parts that could be perceived as separate though undoubtedly only under deep scrutiny. The difference is in the “thickness” of the boundaries and the measure of interrelationships between the different parts of the system, the frequency and amount of data that is passed across the fences.</description>
+    </item>
+    
+    <item>
+      <title>Analyser forbruket ditt med bankens API</title>
+      <link>https://2022.boosterconf.no/talk/101-analyser-forbruket-ditt-med-bankens-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/101-analyser-forbruket-ditt-med-bankens-api/</guid>
+      <description>Bli din egen økonomirådviger med din egen kode og få praktisk erfaring med PSD2. I løpet av de siste årene har bankene vært nødt til å tilby deg data om dine bankkonti for å oppfylle kravene til PSD2. Hvordan denne informasjonen kan brukes er opp til deg, men første steg er å hente ut dine data. Noen banker tilbyr allerede mulighet til å se saldo på konti i andre banker, men for å bli din egen økonomirådgiver trenger du litt mer.</description>
+    </item>
+    
+    <item>
+      <title>Anonym smittesporing – innebygd personvern i Smittestopp-appen</title>
+      <link>https://2022.boosterconf.no/talk/53-anonym-smittesporing-innebygd-personvern-i-smittestopp-appen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/53-anonym-smittesporing-innebygd-personvern-i-smittestopp-appen/</guid>
+      <description>Smittestopp 1 ble avsluttet tidlig på høsten 2020 etter opprop fra fagmiljø og et påfølgende forbud fra Datatilsynet. Da planleggingen av Smittestopp 2 startet, var det basert på Google og Apples rammeverk for kontaktsporing (GAEN). Tilnærmingen med Smittestopp 2 ble radikalt annerledes, med blant annet utvikling som åpen kildekode. Henrik Walker Moe, Tjerand Silde og Martin Strand møttes høsten 2020 gjennom fagdiskusjoner rundt Smittestopp, og ønsket å bidra til å forbedre personvernet i Smittestopp 2 ytterligere.</description>
+    </item>
+    
+    <item>
+      <title>Aristotle and Plato&#39;s takes on the agile and devops movements</title>
+      <link>https://2022.boosterconf.no/talk/122-aristotle-and-plato-s-takes-on-the-agile-and-devops-movements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/122-aristotle-and-plato-s-takes-on-the-agile-and-devops-movements/</guid>
+      <description>The agile and devops movements have become &amp;ldquo;the way&amp;rdquo; to run a business and develop software today. Both agile and devops spring out from some previous insights, and build upon certain important principles. I would like to analyze these in the light of ancient philosphy. What would Aristotle say?</description>
+    </item>
+    
+    <item>
+      <title>Automatic Accessibility Testing for All</title>
+      <link>https://2022.boosterconf.no/talk/8-automatic-accessibility-testing-for-all/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/8-automatic-accessibility-testing-for-all/</guid>
+      <description>Abstract Accessibility testing tools are of great help in making an accessible website. Automatic accessibility tests can be of even greater help, freeing up time to focus on the changes that will make your website better for everyone.
+In this workshop you&amp;rsquo;ll learn how to set up and write your own automatic accessibility tests. While doing this we&amp;rsquo;ll also cover some of the most common accessibility errors that can be discovered automatically and learn how to fix them.</description>
+    </item>
+    
+    <item>
+      <title>Bli litt bedre, med å jobbe litt mindre, hver dag</title>
+      <link>https://2022.boosterconf.no/talk/29-bli-litt-bedre-med-%C3%A5-jobb-litt-mindre-hver-dag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/29-bli-litt-bedre-med-%C3%A5-jobb-litt-mindre-hver-dag/</guid>
+      <description>Outline: Kan man ta med seg noe fra dataspill til arbeidslivet som utvikler? Taleren tror det, han prøver å motivere for at man bør ta litt lærdom fra progamere. Hvordan dette leder til at man bør endre arbeidsflyten i hverdagen. Jobbe litt mindre, øve litt mer. Han argumenterer for at over tid vil dette gi høyere produksjon i arbeidet, mestringsfølelse, lykke og status. Ja, at faktisk alt blir bedre.</description>
+    </item>
+    
+    <item>
+      <title>Building a search engine backend with Kafka Streams and Connect </title>
+      <link>https://2022.boosterconf.no/talk/94-building-a-search-engine-backend-with-kafka-streams-and-connect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/94-building-a-search-engine-backend-with-kafka-streams-and-connect/</guid>
+      <description>You are tasked with providing a state-of-the-art search engine for the audiobook store AudioBooks4You.com. Your first task will be to create basic search functionality, but by solving exercises you will improve the engine step by step.
+In this workshop you will learn how to use Kafka Connect with Debezium to stream data from a relational database to Kafka, use Kafka Streams to transform, join and aggregate data, and another Kafka Connect plugin to stream results to Elasticsearch.</description>
+    </item>
+    
+    <item>
+      <title>Change wings on the fly: how we replaced a system that handles several million euro turnover with zero downtime.</title>
+      <link>https://2022.boosterconf.no/talk/132-change-wings-on-the-fly-how-we-replaced-a-system-that-handles-several-million-euro-turnover-with-zero-downtime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/132-change-wings-on-the-fly-how-we-replaced-a-system-that-handles-several-million-euro-turnover-with-zero-downtime/</guid>
+      <description>In October 2019 Diggecard, a Norwegian fintech startup, acquired a UK gift card company. One of the conditions of the deal was to move more than a hundred of their business customers off the systems they were using in less than a year without interrupting the service even for a day. This meant designing and developing the replacement software and of course, not just copying the existing one, but optimising it too.</description>
+    </item>
+    
+    <item>
+      <title>Conference Dinner</title>
+      <link>https://2022.boosterconf.no/talk/conference-dinner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/conference-dinner/</guid>
+      <description>For participants with a conference dinner ticket, we invite you to join us at Grand Selskapslokaler for an evening with fine food and a traditional, elegant atmosphere. The food will be served as a buffet, with allergies and dietary concerns taken into account.
+Located a brisk 10 minute walk from the hotel, in the center of town: Nedre Ole Bulls plass 1, 5012 Bergen</description>
+    </item>
+    
+    <item>
+      <title>Dependency Confusion</title>
+      <link>https://2022.boosterconf.no/talk/47-dependency-confusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/47-dependency-confusion/</guid>
+      <description>Dependency confusion attacks are a very real threat. How do they work, and what can you do to protect your build pipelines? Can you detect post-build?</description>
+    </item>
+    
+    <item>
+      <title>Digital transformasjon i NAV</title>
+      <link>https://2022.boosterconf.no/talk/149-digital-transformasjon-i-nav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/149-digital-transformasjon-i-nav/</guid>
+      <description>NAVs digitaliseringsreise skjøt for alvor fart i 2016-2017. NAV jobber og tenker annerledes nå, og det er spennende å se fortidens valg og sannheter i lys av det vi tenker og gjør i dag. Vi har mange erfaringer å dele og vi har tatt en noen viktige strategiske veivalg som sier noe om hvor reisen går videre. Digitaliseringsreisen vår handler om data og kunstig intelligens, den handler om plattformer og økosystemer.</description>
+    </item>
+    
+    <item>
+      <title>Drawing for IT Architects</title>
+      <link>https://2022.boosterconf.no/talk/43-drawing-for-it-architects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/43-drawing-for-it-architects/</guid>
+      <description>Ever seen a drawing trying to explain the architecture of an IT system, and you couldn&amp;rsquo;t make any sense of it because it was drawn so badly? Do you feel that your drawings are OK, but could probably be improved substantially with a few tricks, yet you don&amp;rsquo;t really know what they would be?
+I&amp;rsquo;ve made a lot of drawings over the years. I&amp;rsquo;m pretty sure not all of them were a success in terms of understandability.</description>
+    </item>
+    
+    <item>
+      <title>Drop-in spikkeworkshop</title>
+      <link>https://2022.boosterconf.no/talk/52-drop-in-spikkeworkshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/52-drop-in-spikkeworkshop/</guid>
+      <description>Når man er full i hodet av ny kunnskap er det en herlig opplevelse å sette seg ned med en skarp kniv og et stykke velduftende tre og bruke hendene en stund. Her får du låne gode kniver, velge et ferdig emne og få kyndig veiledning og instruksjon i å spikke sin egen skje, smørkniv eller figur.</description>
+    </item>
+    
+    <item>
+      <title>En suksesshistorie fra Vipps - når alle tar ansvar for UX</title>
+      <link>https://2022.boosterconf.no/talk/108-en-suksesshistorie-fra-vipps-n%C3%A5r-alle-tar-ansvar-for-ux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/108-en-suksesshistorie-fra-vipps-n%C3%A5r-alle-tar-ansvar-for-ux/</guid>
+      <description>Som UX-designer kan det være en krevende oppgave å engasjere utviklere og andre roller i designprosessen. Man føler seg ofte alene om ansvaret for UX.
+Samtidig opplever mange utviklere at det ikke er greit å blande seg i designprosessen før skissene er ferdige og klar for implementering, og at man helst bare skal lage det man får beskjed om.
+Hvordan kan det ha seg at man har slike motstridende opplevelser? Hva skal til for å oppnå en bedre og mer tverrfaglig designprosess der alle tar eierskap til UX?</description>
+    </item>
+    
+    <item>
+      <title>Ett ord kan velte prosjektet ditt</title>
+      <link>https://2022.boosterconf.no/talk/14-ett-ord-kan-velte-prosjektet-ditt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/14-ett-ord-kan-velte-prosjektet-ditt/</guid>
+      <description>Har du noen gang tenkt på hvor mye ett enkelt ord kan bety? Det kan være forskjellen mellom at du får lyst til å bruke et produkt eller ikke. Og det kan til og med endre forståelsen din av hva et nettsted gjør.
+I denne lyntalen ser vi på hvorfor mikrotekst er et viktig tema innen UX</description>
+    </item>
+    
+    <item>
+      <title>Expand your horizons and learn to make games on a Commodore 64</title>
+      <link>https://2022.boosterconf.no/talk/11-expand-your-horizons-and-learn-to-make-games-on-a-commodore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/11-expand-your-horizons-and-learn-to-make-games-on-a-commodore/</guid>
+      <description>A lot of programming nowadays has been reduced to Jira tasks, predictable processes, and high-level languages. Let’s step away from that and have some low-level fun with one of the most iconic computers ever made!
+In this workshop we will teach you how to get started with game programming on the Commodore 64. This machine was released in 1982 and was one of the most popular home computers of the 1980&amp;rsquo;s.</description>
+    </item>
+    
+    <item>
+      <title>Experience interactive development</title>
+      <link>https://2022.boosterconf.no/talk/152-experience-interactive-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/152-experience-interactive-development/</guid>
+      <description>Join us to experience what interactive development (also known as REPL-driven development) is about! Feel the joy of immediate feedback, growing your program in tiny increments, of restart-less development!
+Suitable for anyone who has some experience with programming. Having experience with JavaScript is pretty useful (since a few key things there are similar to Clojure, which we will use).
+BEWARE: prepare before the workshop as the installation and setup can take a while and we want to be ready to go right from start.</description>
+    </item>
+    
+    <item>
+      <title>Fra roller og hierarki til dynamisk teamtopologi</title>
+      <link>https://2022.boosterconf.no/talk/67-fra-roller-og-hierarki-til-dynamisk-teamtopologi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/67-fra-roller-og-hierarki-til-dynamisk-teamtopologi/</guid>
+      <description>Jeg jobber i Capra Consulting, et konsulentselskap som er glad i flat struktur og ikke veldig fan av roller og titler. Men vi vokste, og vi så at det gradvis hadde dukket opp en del roller og hierarki nesten uten at vi merket det engang. Dette ville vi gjøre noe med, og inspirert av boken &amp;ldquo;Team Topologies&amp;rdquo; av Manuel Pais og Matthew Skelton, fikk vi den inspirasjonen og det vokabularet vi trengte.</description>
+    </item>
+    
+    <item>
+      <title>Fra stafett til ping-pong - hvordan kan vi få vett inn i design-handoff?</title>
+      <link>https://2022.boosterconf.no/talk/124-fra-stafett-til-ping-pong-hvordan-kan-vi-f%C3%A5-vett-inn-i-design-handoff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/124-fra-stafett-til-ping-pong-hvordan-kan-vi-f%C3%A5-vett-inn-i-design-handoff/</guid>
+      <description>Tjenestereisen er tegnet opp, designet er brukertestet fra ende til annen og nå er det klart til å overrekkes til utviklerene. Så, når du er langt inne i neste prosjekt kommer de: &amp;ldquo;Hvilken farge er her?&amp;rdquo; &amp;ldquo;Denne teksten, må den være bold?&amp;rdquo; &amp;ldquo;Denne knappen gir ikke mening&amp;rdquo;. Det kan ha gått lang tid fra design er klargjort til det blir tatt i av utvikleren og mye kan ha blitt glemt i mellomtiden.</description>
+    </item>
+    
+    <item>
+      <title>Fra team grå til KillBill - Hvordan bygge en lean utviklingsavdeling</title>
+      <link>https://2022.boosterconf.no/talk/36-from-team-gray-to-killbill-how-we-built-a-lean-development-department/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/36-from-team-gray-to-killbill-how-we-built-a-lean-development-department/</guid>
+      <description>I 2016 hadde vi team blå, team grå og team grønn og vi releaset hver 4. uke. Vi var ganske fornøyde og gjorde Scrum bra. Men, vi ville gjøre det bedre! I dag releaser vi opp til 20 ganger hver dag med våre 14 tverrfaglige produktteam. Vi har team som Angry Nerds, SheetStorm, KillBill og Piggy Bank Crew og vi gjør lean på vår måte. Vil vil i dette foredraget snakke om vår Playbook, våre prinsipper og vår arbeidskultur som gjør at vi klarer å bygge et produkt som er brukt av over 70.</description>
+    </item>
+    
+    <item>
+      <title>From fear to fun: Exploring design concepts in VR</title>
+      <link>https://2022.boosterconf.no/talk/140-from-fear-to-fun-exploring-design-concepts-in-vr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/140-from-fear-to-fun-exploring-design-concepts-in-vr/</guid>
+      <description>Deep down in the underground of Haukeland Sykehus in Bergen, a new light rail stop is currently taking shape. Unfortunately, underground stops seem to scare the life out of people: Some people feel trapped, others are afraid of assault, and some are simply afraid of the dark.
+So how can we make people feel safe in underground stations? And is it possible to test out different concepts in order to see the effect, before construction has even begun?</description>
+    </item>
+    
+    <item>
+      <title>From Silicon Valley to Norway</title>
+      <link>https://2022.boosterconf.no/talk/46-from-silicon-valley-to-norway/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/46-from-silicon-valley-to-norway/</guid>
+      <description>I moved to Norway in 2018 and was struck by how much more modern life was here than in San Francisco. To put it simply: most things just work, and that&amp;rsquo;s pretty cool. It&amp;rsquo;s also one important ingredient in what makes Norway a good place to take risks and work on new things. I start the talk with a bit of Silicon Valley history and how it got to be what it is today, and comment a bit on what makes it special and what makes it struggle.</description>
+    </item>
+    
+    <item>
+      <title>Frå kvitlauk til lauk som ikkje er til å grina av</title>
+      <link>https://2022.boosterconf.no/talk/159-fr%C3%A5-kvitlauk-til-lauk-som-ikkje-er-til-%C3%A5-grina-av/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/159-fr%C3%A5-kvitlauk-til-lauk-som-ikkje-er-til-%C3%A5-grina-av/</guid>
+      <description>I Frende Forsikring hadde me ein fin Nettbutikk, bygd på rekordtid, som drog inn millionar i tilbod kvart år. Men under lokket var det noko som lukta. Butikken var vanskeleg å læra, testa og utvida. Etter fem år med lapping og bug-fiksing, fann teamet ut av nok var nok. I dag delar me vår oppskrift på lauk som ikkje er til å grina av. Korleis teamet lærte seg F# og domenedrevet design, og flytta Nettbutikken frå fleire mikrotenester til ein funksjonell monolitt.</description>
+    </item>
+    
+    <item>
+      <title>Functional object-orientation (or objective functionalism?)</title>
+      <link>https://2022.boosterconf.no/talk/143-funksjonell-objektorientering-eller-omvendt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/143-funksjonell-objektorientering-eller-omvendt/</guid>
+      <description>Function-oriented programming (FOP, also called “functional programming”) has been the big new thing in program development for… yes, how many years? The paradigm has many and enthusiastic supporters in academic circles, but we have still not seen the massive transition from OOP happen in the “real world”. This has several reasons, but perhaps most importantly, it is extremely expensive to port existing systems – and not least existing developers – to a new programming paradigm.</description>
+    </item>
+    
+    <item>
+      <title>Gather your party with Svelte</title>
+      <link>https://2022.boosterconf.no/talk/62-gather-your-party-with-svelte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/62-gather-your-party-with-svelte/</guid>
+      <description>In this workshop we will take you through the basic concepts of Svelte. We&amp;rsquo;ll do this by making our own Character Creator! If you&amp;rsquo;re not familiar with the concept, a character creator is a tool for making a fictional character using a variety of features. Examples of features: Inputting name, rolling stats, selecting abilities, uploading portrait, selecting appearance, writing bio, etc. Here&amp;rsquo;s a simple example, and here&amp;rsquo;s a more advanced example.</description>
+    </item>
+    
+    <item>
+      <title>Getting Grid’y with it</title>
+      <link>https://2022.boosterconf.no/talk/107-getting-grid-y-with-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/107-getting-grid-y-with-it/</guid>
+      <description>Abstract: Once a while technology comes along and reshapes the way we do things. For over two decades layout on the web has been more or less dreaded by developers, and has felt more like a chore, than something that we have enjoyed. Things have started getting better, but with the introduction of CSS grid, the layout game has changed into something quite enjoyable. During this workshop, you will learn all the things that make CSS grid fun to work with, and more than enough to make use of CSS grid in your own projects.</description>
+    </item>
+    
+    <item>
+      <title>Getting rid of every paper application for NAV in two years</title>
+      <link>https://2022.boosterconf.no/talk/119-getting-rid-of-every-paper-application-for-nav-in-two-years/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/119-getting-rid-of-every-paper-application-for-nav-in-two-years/</guid>
+      <description>In the beginning of 2020, the Norwegian Labor and Welfare Administration (NAV) had around 250-300 PDF applications, counting all variations and translations. Maintenance was expensive and tedious, user experience was poor and most urgently, they were not accessible for all - a legal requirement in Norway.
+In a year where COVID would affect how we worked and where major development efforts were spent, our small team started a process that will have a major effect on how you and I interact with NAV: By the end of 2022, all applications will be available to be filled out online at nav.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started With The Things Network and Crowdsourced LoRaWAN</title>
+      <link>https://2022.boosterconf.no/talk/13-getting-started-with-the-things-network-and-crowdsourced-lorawan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/13-getting-started-with-the-things-network-and-crowdsourced-lorawan/</guid>
+      <description>Say hello to The Things Network It&amp;rsquo;s an open, crowdsourced, and encrypted wireless IoT network that aims to solve the wireless hurdles of limited range, excessive power consumption, and high operational cost using game-changing LoraWAN technology.
+In Bergen, the close to thirty gateways spread throughout the city provide wireless coverage in the most densely populated areas. Every day, thousands of data packets are transmitted from the hundreds of sensors deployed in the area.</description>
+    </item>
+    
+    <item>
+      <title>Green Code 2022</title>
+      <link>https://2022.boosterconf.no/talk/23-green-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/23-green-code/</guid>
+      <description>Green computing is always about energy efficient servers, hardware without hazardous materials and other things that appeal to hardware buffs. Cloud computing is great, but what else can us programmers do to help the environment? Back in 2009, Anders showed us how to be eco-friendly through writing better code and smarter business logic in his lightning talk Green Code.
+Thirteen years later, at dawn of the decade where the world needs to deliver on the UN Sustainability Goals, Anders revisits his 2009 presentation to explore the environmental impact of our software and how programmers can contribute to eco-friendliness by writing better code and designing better software.</description>
+    </item>
+    
+    <item>
+      <title>Hedy: Creating a gradual programming language</title>
+      <link>https://2022.boosterconf.no/talk/hedy-creating-a-gradual-programming-language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/hedy-creating-a-gradual-programming-language/</guid>
+      <description>Hedy is a gradual programming language to make learning programming easier. The core idea of Hedy is that it uses different language levels. In level 1, there is hardly any syntax at all, for example printing is done with:
+print hello Booster!
+In every level, new syntax and concepts are added, until kids are doing a subset of Python in level 20 with conditions, loops, variables and lists. The leveled approach means that learners do not have to learn all syntax rules at once.</description>
+    </item>
+    
+    <item>
+      <title>Hjemmesnekra spillmotor i Kotlin, 16 millisekund om gangen</title>
+      <link>https://2022.boosterconf.no/talk/138-hjemmesnekra-spillmotor-i-kotlin-millisekund-om-gangen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/138-hjemmesnekra-spillmotor-i-kotlin-millisekund-om-gangen/</guid>
+      <description>Har du noen gang lurt på hvordan en spillmotor fungerer? Hva er en spillmotor og hvordan fungerer det egentlig? Og hva er det som er så spesielt med 16 millisekunder? Jeg har over de siste tre årene laget min egen spillmotor i Kotlin fra bunnen av. I dette foredraget skal vi dykke ned i hvordan man kan designe en spillmotor, se på noen av de utfordringene jeg har møtt på og ikke minst se på et spill laget i den hjemmesnekra spillmotoren!</description>
+    </item>
+    
+    <item>
+      <title>How Digitalizing The Ocean Creates a Brighter Future for Everyone.  </title>
+      <link>https://2022.boosterconf.no/talk/146-how-digitalizing-the-ocean-creates-a-brighter-future-for-everyone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/146-how-digitalizing-the-ocean-creates-a-brighter-future-for-everyone/</guid>
+      <description>The ocean is vast and complicated. And so is the life that resides within it. In order for the ocean industry to coexist with the ocean and the life within in a secure and sustainable way, we need to gather data and gather facts. SFI Smart Ocean is a center for research-based innovation hosted by the University of Bergen. The SFI consists of over 18 partners, who cooperate in gathering data about the marine environment, creating a platform for sharing the data, and creating value for both science and the industry while at the same time protecting the marine environment.</description>
+    </item>
+    
+    <item>
+      <title>How I ended up needing a new job OR how we are combating Vishing attacks in Sbanken</title>
+      <link>https://2022.boosterconf.no/talk/158-how-i-ended-up-needing-a-new-job-or-how-we-are-combating-vishing-attacks-in-sbanken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/158-how-i-ended-up-needing-a-new-job-or-how-we-are-combating-vishing-attacks-in-sbanken/</guid>
+      <description>Ok - so the deadline for CFP has passed and our customers are under heavy Vishing-attacks. This will be an experience report on how prior planning on incident responce and paved pathways of action work in order to save your business and customers from digital crime - or how I failed miserably and am looking for something new to do</description>
+    </item>
+    
+    <item>
+      <title>How I tricked the robot to do my work and got away with it!</title>
+      <link>https://2022.boosterconf.no/talk/82-how-i-tricked-the-robot-to-do-my-work-and-got-away-with-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/82-how-i-tricked-the-robot-to-do-my-work-and-got-away-with-it/</guid>
+      <description>The roller coaster ride from manual testing to automatic functional testing with RobotFramework. From headaches to victory.</description>
+    </item>
+    
+    <item>
+      <title>How privacy demands in software development has changed since the introduction of GDPR</title>
+      <link>https://2022.boosterconf.no/talk/93-how-privacy-demands-in-software-development-has-changed-since-the-introduction-of-gdpr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/93-how-privacy-demands-in-software-development-has-changed-since-the-introduction-of-gdpr/</guid>
+      <description>It&amp;rsquo;s been years since GDPR went into effect and we now have court rulings that tells us how to interpret it. There exists no practical way to transfer personally identifiable information to the U.S. The use of public clouds is in a questionable state due to U.S. ownership. Remote work from outside the EEA may not be possible.
+This talk will give you a timeline on what has changed. I will talk about court rulings that defines how we interpret GDPR after Schrems II and I will give you insight from my time working as a Data Protection Officer in a Healthcare-startup.</description>
+    </item>
+    
+    <item>
+      <title>Hva er _egentlig_ smidig?</title>
+      <link>https://2022.boosterconf.no/talk/164-hva-er-egentlig-smidig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/164-hva-er-egentlig-smidig/</guid>
+      <description>Året er 2022 og vi jobber alle &amp;ldquo;smidig&amp;rdquo;. Samtidig bommer vi på frister, gleder ikke kundene våre og teamene våre føler seg overveldet. Hva skjer egentlig? Jobber vi smidig, eller lurer vi bare oss selv? La meg lære deg akkurat hva smidig er, og ikke bare det, med på kjøpet skal jeg vise deg hvordan en smidig organisasjon ser ut i praksis!</description>
+    </item>
+    
+    <item>
+      <title>Hvordan designe en designprosess?</title>
+      <link>https://2022.boosterconf.no/talk/85-hvordan-designe-en-designprosess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/85-hvordan-designe-en-designprosess/</guid>
+      <description>Det kommer en dag i din designkarriere. Du skal begynne på et nytt prosjekt, og innser at det er helt opp til deg å lage prosessen fra start til slutt. Så står du der og må selv finne ut hva problemet er, utforske mulighetsrommet og designe sluttproduktet (eller tjenesten/modellen/løsningen). Hva gjør du da?
+I denne workshopen lærer du hvordan du kan planlegge en god designprosess. Du får gode tips og lærer hvordan du skal finne ut av spørsmål som; hvor skal jeg begynne, hva gjør jeg først og sist, hvordan velger jeg mellom de ulike designmetodene, og hvordan vurderer jeg hva som er nyttig for meg og andre interessenter og teamdeltakere?</description>
+    </item>
+    
+    <item>
+      <title>Hvordan to brann-supportere bygget en av verden største fotball-apper</title>
+      <link>https://2022.boosterconf.no/talk/157-hvordan-to-brann-supportere-bygget-en-av-verden-st%C3%B8rste-fotball-apper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/157-hvordan-to-brann-supportere-bygget-en-av-verden-st%C3%B8rste-fotball-apper/</guid>
+      <description>En historie om hvordan en idé på en bryllupsreise i 2004 utviklet seg fra å levere flyers i postkasser til å nå 7 millioner brukere verden over. En historie som inneholder to utkastelser fra Google Play, Premier League advokater, indonesiske tv-reklamer, oppkjøpsforsøk og en hel haug med feilskjær.</description>
+    </item>
+    
+    <item>
+      <title>I am NOT OK: The role mental health plays in team productivity</title>
+      <link>https://2022.boosterconf.no/talk/91-i-am-not-ok-the-role-mental-health-plays-in-team-productivity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/91-i-am-not-ok-the-role-mental-health-plays-in-team-productivity/</guid>
+      <description>In today&amp;rsquo;s development climate, mental health is more important than ever. Our health and that of our loved ones, closing offices, the lack of consistent feedback loops and uncertainty, all contribute to our ability to lead teams and for our teams to be effective and productive.
+In this session, attendees will leave with an understanding of the role mental health plays in our teams, and with tools and techniques to help our teams and ourselves talk about mental health and work through these challenges to be happy employees.</description>
+    </item>
+    
+    <item>
+      <title>Incidents are a new normal.</title>
+      <link>https://2022.boosterconf.no/talk/78-incidents-are-a-new-normal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/78-incidents-are-a-new-normal/</guid>
+      <description>Johnny Cash once said, &amp;ldquo;You build on failure. You use it as a stepping stone. Close the door on the past. You don&amp;rsquo;t try to forget the mistakes, but you don&amp;rsquo;t dwell on it.&amp;rdquo; Probably, he didn&amp;rsquo;t know that this quote will perfectly describe organizations that work according to the &amp;ldquo;fall fast, fail often&amp;rdquo; mantra. Incidents are a new normal. Part of the development process. We are seeing an increase in canary releases, feature flags adoption, monitoring to mitigate incidents.</description>
+    </item>
+    
+    <item>
+      <title>IoT-based sensor monitoring of critical medical equipment and medicine in Helse Vest</title>
+      <link>https://2022.boosterconf.no/talk/126-iot-based-sensor-monitoring-of-critical-medical-equipment-and-medicine-in-helse-vest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/126-iot-based-sensor-monitoring-of-critical-medical-equipment-and-medicine-in-helse-vest/</guid>
+      <description>Over the last years, the Department of Development at Helse Vest IKT has been developing a solution for wireless IoT-based monitoring of parameters such as temperature and humidity, used for example for temperature monitoring in refrigerators and freezers used for storage of food and medicine including covid-vaccines. Commercially available sensors are used, and we have developed a user-friendly web-based software application that collects sensor data from the sensor vendors cloud, via their API.</description>
+    </item>
+    
+    <item>
+      <title>Kortslutning Live</title>
+      <link>https://2022.boosterconf.no/talk/kortslutning-live/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/kortslutning-live/</guid>
+      <description>Kortslutning is a norwegian podcast hosted by Mikael Brevik and Stian Veum Møllersen. They chat about various topics relevant for the life of software developers and software development teams. For the first time ever, they will record a live podcast, inviting guests from the Booster conference to join them on stage.
+If you have a suggestion for a topic or want to join in the discussion, head over to this form and submit your ideas!</description>
+    </item>
+    
+    <item>
+      <title>Kortslutning podcast live</title>
+      <link>https://2022.boosterconf.no/talk/49-kortslutning-podcast-live/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/49-kortslutning-podcast-live/</guid>
+      <description>Hello Booster!
+Every other monday we host a little podcast called Kortslutning. We talk about all the different big and small things that affect our lives as developers. Mostly human things, but sometimes also computer things.
+We&amp;rsquo;ve wanted to try and bring our little podcast to the stage, and figured Booster would be the perfect place. So here we are, ready to do the first ever Kortslutning Live.
+What we aim to achieve with this first Kortslutning Live is to have a few guests on and talk about something they&amp;rsquo;ve experienced or are passionate about in relation to our lives as developers, designers, project leads or otherwise engaged in the IT industry.</description>
+    </item>
+    
+    <item>
+      <title>Make Yourself at Home</title>
+      <link>https://2022.boosterconf.no/talk/1-make-yourself-at-home-on-impostor-syndrome-and-psychological-safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/1-make-yourself-at-home-on-impostor-syndrome-and-psychological-safety/</guid>
+      <description>Once upon a time, Maja landed a job at a big digital agency as a developer. An experienced developer—the kind who should know How Things Are Done™. &amp;hellip;But she didn&amp;rsquo;t. Uh oh. 😱
+In this talk, Maja will tell you about impostor syndrome, psychological safety, and (what she takes to be) the relationship between the two, with the goal of showing you what you and your teammates will need to keep impostor syndrome in check and flourish together.</description>
+    </item>
+    
+    <item>
+      <title>Master https in your application (in Java)</title>
+      <link>https://2022.boosterconf.no/talk/54-master-https-in-your-application-in-java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/54-master-https-in-your-application-in-java/</guid>
+      <description>So, I decided to make my own Certificate Authority. Kidding. Not kidding.
+HTTPS and especially client certificates holds the promise to zero-trust architectures of the future and gives a good way to harden your internal communication paths.
+Have you ever gotten the feared error message &amp;ldquo;PKIX Path Building Failed&amp;rdquo; or just the simple and unhelpful &amp;ldquo;SSL error&amp;rdquo; in your browser?
+You may have learned about and thought you understood the theory of public-private key encryption.</description>
+    </item>
+    
+    <item>
+      <title>MDM Pattern - working with a legacy master database </title>
+      <link>https://2022.boosterconf.no/talk/76-mdm-pattern-working-with-a-legacy-master-database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/76-mdm-pattern-working-with-a-legacy-master-database/</guid>
+      <description>The background: Your master data is a legacy database - it contains &amp;ldquo;everything&amp;rdquo; your business depend upon. You do want to create new solutions to support your business&amp;rsquo;s everyday operations but querying the legacy database is slow and error prone. What to do?
+The talk: We have developed a M(aster)D(ata)M(anagement) pattern, extracting what we need and storing it using an up-to-date data model which fits well for whatever new use case we have.</description>
+    </item>
+    
+    <item>
+      <title>Modern Java App Development in the Cloud: MicroProfile, Quarkus, and Cloud Run</title>
+      <link>https://2022.boosterconf.no/talk/69-modern-java-app-development-in-the-cloud-microprofile-quarkus-and-cloud-run/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/69-modern-java-app-development-in-the-cloud-microprofile-quarkus-and-cloud-run/</guid>
+      <description>So, you need to have your Java app deployed and available for your users fast, and you would like to do as little managing, wiring, and infrastructure work as possible. How can you achieve that? Well, you go serverless with your containers using supersonic Java in the Cloud!
+Join us exploring the possibilities with MicroProfile and Quarkus on Google Cloud Run. Bleeding edge Java!
+Scared of the bleeding edges, or vendor lock-in?</description>
+    </item>
+    
+    <item>
+      <title>Når designsprints feiler, hva gjør vi da?!</title>
+      <link>https://2022.boosterconf.no/talk/100-n%C3%A5r-designsprints-feiler-hva-gj%C3%B8r-vi-da/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/100-n%C3%A5r-designsprints-feiler-hva-gj%C3%B8r-vi-da/</guid>
+      <description>Har du hørt alt snakket om designsprints og hvor fantastisk effektiv og bra denne metoden er? Men vent, stemmer det? Nei, mener vi!
+For de aller fleste starter en designsprint med helt feil utgangspunkt. Designsprints løser ikke alt. Tvert i mot er designsprints en metodikk som kun fungerer om et team har et veldig spisset problem å løse.
+I denne workshopen skal vi derfor fokusere på hva du bør gjøre for å forstå og avgrense problemet før du gjennom tverrfaglig samarbeid kan løse det.</description>
+    </item>
+    
+    <item>
+      <title>Objects as a means of abstraction</title>
+      <link>https://2022.boosterconf.no/talk/26-objects-as-a-means-of-abstraction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/26-objects-as-a-means-of-abstraction/</guid>
+      <description>In this talk, scheduled directly before Erik&amp;rsquo;s &amp;ldquo;Objects as a means of distraction&amp;rdquo;, we&amp;rsquo;ll look at the purpose and benefits of creating abstraction boundaries in software. Abstractions can be a wonderful tool to contain and control complexity. In object-oriented programming languages, objects are the primary means of creating abstractions. Some objects, unfortunately, fail to provide a proper abstraction boundary, acting instead as a rather arbitrary place to put some code and data.</description>
+    </item>
+    
+    <item>
+      <title>Objects as a means of distraction, or how FP helps me get my job done</title>
+      <link>https://2022.boosterconf.no/talk/25-objects-as-a-means-of-distraction-or-how-fp-helps-me-get-my-job-done/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/25-objects-as-a-means-of-distraction-or-how-fp-helps-me-get-my-job-done/</guid>
+      <description>In this talk, the audience will learn about the real world benefits of functional programming, and especially the dynamically typed version of it. Erik has worked almost exclusively in Clojure over the last five years while keeping an eye on what&amp;rsquo;s happening in the Javascript/Typescript eco system, and has quite a few observations on what makes functional programming better, what works well, what works not so well, and of course a sprinkle of advocacy for Clojure as well.</description>
+    </item>
+    
+    <item>
+      <title>Oh no! I need a CMS in 10 minutes. What should I do?</title>
+      <link>https://2022.boosterconf.no/talk/89-oh-no-i-need-a-cms-in-minutes-what-should-i-do/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/89-oh-no-i-need-a-cms-in-minutes-what-should-i-do/</guid>
+      <description>&amp;ldquo;CMS&amp;rdquo; might not be the first thing that comes to mind when you hear &amp;ldquo;Google Sheets&amp;rdquo;, but maybe it should be! Unlike headless CMSs like Strapi, Ghost and Sanity, a spreadsheet is something &amp;ldquo;everyone&amp;rdquo; understands. By choosing Google Sheets, we can utilize this understanding to quickly get started with a flexible and efficient CMS, which even supports collaborative editing. In this lightning talk, I present how you can set up a headless CMS in 10 minutes using Google Sheets, and when you would want to do so (spoiler alert: when you need it in 10 minutes).</description>
+    </item>
+    
+    <item>
+      <title>Onboarding gjort rett: Hva forskningen sier</title>
+      <link>https://2022.boosterconf.no/talk/154-best-practice-onboarding-what-the-research-says/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/154-best-practice-onboarding-what-the-research-says/</guid>
+      <description>Har du noen gang begynt i en ny organisasjon eller team og følt deg litt fortapt? Opplevd utfordringer som gjorde at samarbeid med teamet ikke gikk så bra som det burde? Vært usikker på hvor du finner informasjon eller hjelp som du trenger for å komme i gang? God onboarding har alt å si for velvære og effektiviteten til team.
+I denne presentasjonen gjennomgår vi hva vi har lært fra å forbedre og forske på onboarding i Knowit sammen med SINTEF.</description>
+    </item>
+    
+    <item>
+      <title>Open Spaces</title>
+      <link>https://2022.boosterconf.no/talk/162-open-spaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/162-open-spaces/</guid>
+      <description>Open spaces is a open format, where you, the participants of Booster, decide what the agenda will be. Do you have a topic that you want to discuss? An idea you want to get feedback on? An experience you want to share? Put your topic on the Open Spaces Agenda flip-overs next to the ticket booth.
+We will setup small discussion groups in Kongesalen 2 + 3 + 4, there is plenty of room for many discusssions.</description>
+    </item>
+    
+    <item>
+      <title>PostScript; how to talk to your printer</title>
+      <link>https://2022.boosterconf.no/talk/28-postscript-how-to-talk-to-your-printer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/28-postscript-how-to-talk-to-your-printer/</guid>
+      <description>PostScript is the language of printers. A lovely little language with powerful 2D graphics capabilities. Used to describe pages of print we will take this stack-based language and create art of our own. In this Bob Ross inspired workshop we will take you on an adventure and explore the capabilities of this powerful language, creating lasting art along the way</description>
+    </item>
+    
+    <item>
+      <title>Process Driven: Orchestrating micro-services in the real world</title>
+      <link>https://2022.boosterconf.no/talk/160-process-driven-orchestrating-micro-services-in-the-real-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/160-process-driven-orchestrating-micro-services-in-the-real-world/</guid>
+      <description>Programvare innen bank og finans har noen alvorlige utfordringer. Det er et sterkt behov for økt selvbetjening, automatisering og strømlinjeforming. Dagens hyllevareløsninger gir ikke tilstrekkelig fleksibilitet og er heller ikke laget for å integreres med andre / egne systemer. Samtidig er behovet for utviklere mye større enn tilgangen.
+Vår løsning på dette problemet er å levere et sett med standardiserte moduler i en utvidbar plattform, samt en fleksibel måte å sette sammen modulene sammen igjen.</description>
+    </item>
+    
+    <item>
+      <title>Product Owner is not a job</title>
+      <link>https://2022.boosterconf.no/talk/151-product-owner-is-not-a-job/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/151-product-owner-is-not-a-job/</guid>
+      <description>Every time I see an open position for a Product Owner, I die a little inside. Every time I meet someone who has Product Owner as their job title, I want to give them a hug, and tell them that everything will be okay in the end.
+The fact that Product Owner is used as a title shows at best an immature product culture, and at worst a fundamental misunderstanding of modern product development.</description>
+    </item>
+    
+    <item>
+      <title>Psychological safety, from stand-ups to boardrooms</title>
+      <link>https://2022.boosterconf.no/talk/114-psykologisk-trygghet-i-alt-fra-standup-til-styrerommet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/114-psykologisk-trygghet-i-alt-fra-standup-til-styrerommet/</guid>
+      <description>Why is it so painful to admit that I do not know how to use github? Why do the developers lock eyes with their hands or keyboards when I try to discuss the need for a service blueprint? Why does the theme change so quickly when the management team try to adress subjects which noone in the group quite knows how to handle? It is all about psychological safety. When psychological safety is lacking, we become more concerned with what others think of us, than the challenge at hand.</description>
+    </item>
+    
+    <item>
+      <title>På tide å droppe Redux - og all annen global state</title>
+      <link>https://2022.boosterconf.no/talk/12-p%C3%A5-tide-%C3%A5-droppe-redux-og-all-annen-global-state/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/12-p%C3%A5-tide-%C3%A5-droppe-redux-og-all-annen-global-state/</guid>
+      <description>Jeg ønsker å vise et lasteikon mens jeg venter på data, et øyeblikk bare, jeg må først sette opp:
+ reducers konstanter actions operations dispatchers middlewares for å støtte async (som om vi lever i 2011). Var det thunks eller sagas igjen? connectors &amp;hellip;og mer. Manuelt. Hver gang jeg skal hente noe data!?  Grøss og gru! Kanskje jeg skulle blitt backendutvikler likevel? Kanskje jQuery var veien å gå? Hvis dette er moderne teknologi, hva er da meningen med livet?</description>
+    </item>
+    
+    <item>
+      <title>Rebasing and presenting your work</title>
+      <link>https://2022.boosterconf.no/talk/57-rebasing-and-presenting-your-work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/57-rebasing-and-presenting-your-work/</guid>
+      <description>In this workshop we&amp;rsquo;ll be exploring different git-techniques, that will improve how you present your work to your teammates.
+The workshop is made up of demonstrations and prepared assignments.
+Contrary to popular belief, you do not need to be fluent in git command line in order to work with Git efficiently.
+I will be using a PC with a GUI client: GitExtensions.
+Target audience:
+ People who are relatively new to Git.</description>
+    </item>
+    
+    <item>
+      <title>Reduser kognitiv last i teamet og øk utviklingstakten</title>
+      <link>https://2022.boosterconf.no/talk/161-reduce-the-cognitive-load-and-speed-up-your-team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/161-reduce-the-cognitive-load-and-speed-up-your-team/</guid>
+      <description>Hvor mange ganger har du hørt en leder si: «vi må jobbe smartere», for så å haste videre til neste møte og la teamet sitte der igjen som et stort spørsmålstegn? Med utgangspunkt i et av våre team i Sbanken vil vi fortelle historien om hvordan teamet selv tok initiativ til å forbedre både arbeidsprosessene sine og bruken av ulike støtteverktøy for faktisk å «jobbe smartere» og samtidig øke tilfredsheten i teamet.</description>
+    </item>
+    
+    <item>
+      <title>Regex oriented programming</title>
+      <link>https://2022.boosterconf.no/talk/81-regex-oriented-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/81-regex-oriented-programming/</guid>
+      <description>Regex is widely considered the least readable code programmers write. So naturally, we should write as much Regex as possible. In this talk we&amp;rsquo;ll look at some unreadable, but elegant solutions to difficult problems. If you have a string representation of a chess board, can you find out if the king is in check, by only writing Regex?</description>
+    </item>
+    
+    <item>
+      <title>Resilient services</title>
+      <link>https://2022.boosterconf.no/talk/44-resilient-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/44-resilient-services/</guid>
+      <description>Users&#39; patience with services not working is gradually decreasing as the quality of services online is improving. With current trends of moving services to the cloud and building smaller and network-intensive services, meeting these expectations can be challenging for us developers. We want to be able to build services that we can run confidently despite partial failures and outages.
+In this workshop, you will learn how to simulate latency and failures in your web application and how to add strategies to deal with this.</description>
+    </item>
+    
+    <item>
+      <title>Rewriting a Production SPA in Elm</title>
+      <link>https://2022.boosterconf.no/talk/165-rewriting-a-production-spa-in-elm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/165-rewriting-a-production-spa-in-elm/</guid>
+      <description>You may have wondered: &amp;ldquo;is rewriting my app to Elm worth it ?&amp;rdquo;. This talk will answer your question by following the story of how Frende ported an existing SPA to Elm. We&amp;rsquo;ll look at how it was decided to go for Elm, how Elm fits into existing architecture, how it integrates with our tooling infrastructure, how our app was incrementally ported and deployed, how we got a whole team up and going Elm in no time, and much more.</description>
+    </item>
+    
+    <item>
+      <title>Råtner hypotesene dine i en skuff?</title>
+      <link>https://2022.boosterconf.no/talk/147-r%C3%A5tner-hypotesene-dine-i-en-skuff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/147-r%C3%A5tner-hypotesene-dine-i-en-skuff/</guid>
+      <description>Vi forsøker alle tenke på brukerne, ha outcomefokus istedenfor outputfokus, være åpne for at våre antagelser om løsninger og brukernes behov ikke er riktige, og vi vet alle at hypoteser er et godt verktøy for å hjelpe oss med dette. Hvorfor ender allikevel de fleste av hypotesene vi lager opp i en skuff, på et trelloboard ingen får logget seg inn i lenger, eller som lapper på en vegg ingen ser på?</description>
+    </item>
+    
+    <item>
+      <title>Shaping tomorrow’s community: Why internships are awesome!</title>
+      <link>https://2022.boosterconf.no/talk/45-shaping-tomorrow-s-community-why-internships-are-awesome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/45-shaping-tomorrow-s-community-why-internships-are-awesome/</guid>
+      <description>Taking on a summer internship is done by many students of Norwegian universities. Internships are a great way to welcome budding professionals into the community. Embla will talk about what summer internships are, her experience as an intern, how you will benefit from this practice and why we need to hire more students!</description>
+    </item>
+    
+    <item>
+      <title>Solving the hardest problem in computer programming</title>
+      <link>https://2022.boosterconf.no/talk/99-solving-the-hardest-problem-in-computer-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/99-solving-the-hardest-problem-in-computer-programming/</guid>
+      <description>The hardest problem in computer programming is naming things. Does the variables foo, x and heightOfCar tell you anything? By thinking of making waffles you can improve your variable and function names greatly. Setting the right context and verbosity level when naming things you can make your code more readable, maintainable and you will never struggle naming things again.</description>
+    </item>
+    
+    <item>
+      <title>Strengthen Your Code Review Skills</title>
+      <link>https://2022.boosterconf.no/talk/70-strengthen-your-code-review-skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/70-strengthen-your-code-review-skills/</guid>
+      <description>Confirming that the code compiles, runs, and has all the semi-colons in the right place is the easy part of code review. The hard part is noticing patterns, noticing what&amp;rsquo;s missing. You&amp;rsquo;ve got to figure out how, and how deep, to communicate with the person who wrote the code.
+On a given week, I review code for gitlab pipelines and an OpenAPI spec for my direct team, receive merge requests out of the blue on side projects, and review test automation code for many teams across a few departments with varying test strategies and goals.</description>
+    </item>
+    
+    <item>
+      <title>String considered harmfull</title>
+      <link>https://2022.boosterconf.no/talk/110-string-considered-harmfull/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/110-string-considered-harmfull/</guid>
+      <description>Classic imperative languages like Java and C# keep adopting concepts and ideas from functional languages. We now have the tools to more precisely express our intentions when designing our types. Still the primitive String type is used and overused all over the place instead of a more precise custom type. Is a Norwegian national identity number a String? Is an Integer better? Is it overengineering to create a custom type for it?</description>
+    </item>
+    
+    <item>
+      <title>The Evolutionary Theory of Creativity</title>
+      <link>https://2022.boosterconf.no/talk/109-hva-kan-innovasjon-l%C3%A6re-av-evolusjonen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/109-hva-kan-innovasjon-l%C3%A6re-av-evolusjonen/</guid>
+      <description>Can Darwins finches help us understand the design prosess?
+Siv will refer to the idea of creativity as an evolutionary process, which is determined by generation (i.e., recombination and mutation), selection, and retention of ideas. She will evaluate the design thinking process in terms of its capabilities to activate these mechanisms.
+Siv is a UX-lead with a master in biology</description>
+    </item>
+    
+    <item>
+      <title>The Grand Harbor Tour of Machine Learning</title>
+      <link>https://2022.boosterconf.no/talk/83-the-grand-harbor-tour-of-machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/83-the-grand-harbor-tour-of-machine-learning/</guid>
+      <description>Machine learning is still not seen as the integral part of software development that it actually is. Certain parts of a software system can actually be implemented much better by a trained model than by a classical development. This creates challenges in the implementation, but also in the definition of the roles and in the integration of the different parts.
+On this tour we look less at technical details, but take the conceptual architecture perspective.</description>
+    </item>
+    
+    <item>
+      <title>The story about Tight Loose Tight</title>
+      <link>https://2022.boosterconf.no/talk/66-the-story-about-tight-loose-tight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/66-the-story-about-tight-loose-tight/</guid>
+      <description>In 2014 i held a lightning talk about the Tight Loose Tight model at Smidigkonferansen, a model I had used to train leaders in an agile mindset.
+7 years later the Tight Loose Tight model is gaining traction, being used by companies like Telenor, NAV and Statens Vegvesen. In this speech I will explain the idea behind Tight Loose Tight, how it is used by businesses to accelerate agile transformation, and the latest development in the model from CoWork.</description>
+    </item>
+    
+    <item>
+      <title>Transpiling our way into the future</title>
+      <link>https://2022.boosterconf.no/talk/9-transpiling-our-way-into-the-future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/9-transpiling-our-way-into-the-future/</guid>
+      <description>The first version of RamBase Cloud ERP was released in 1992. Back then it was running on in-house developed hardware, with all business logic written in an in-house developed programming language named COS. We have since moved on from the custom hardware, but COS has been with us until now.
+After almost 30 years in production, COS had gone through a lot of development. The language was optimized to run on our data model, and developer efficacy had always been an important focus.</description>
+    </item>
+    
+    <item>
+      <title>Using communication frameworks to become a better engineering leader</title>
+      <link>https://2022.boosterconf.no/talk/2-using-communication-frameworks-to-become-a-better-engineering-leader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/2-using-communication-frameworks-to-become-a-better-engineering-leader/</guid>
+      <description>In this lightning talk version I want to inspire you to invest more of your resources in improving your communication skills, which is something we as engineers very often neglect. However, communication is the source of basically all problems we encounter at work, so I gave it a look from a developer&amp;rsquo;s point of view and will show you some techniques that provide a structured approach to better communication.</description>
+    </item>
+    
+    <item>
+      <title>Weaving web components in a bundler-free world</title>
+      <link>https://2022.boosterconf.no/talk/155-weaving-web-components-in-a-bundler-free-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/155-weaving-web-components-in-a-bundler-free-world/</guid>
+      <description>These days many web frameworks offer functionality for expressing reusable components. However, what is less known is that browsers have built-in support for defining web components.
+Web components isn&amp;rsquo;t a new browser feature by no means. Some say that native web components has failed, and others say it&amp;rsquo;s only now with Internet Explorer 11 being phased out that we&amp;rsquo;ll finally see its potential fully realized. Additionally, we now have support for ES6 modules in all major browsers.</description>
+    </item>
+    
+    <item>
+      <title>WHAT&#39;S THIS DESIGN SPRINT BUSINESS ANYWAYS?</title>
+      <link>https://2022.boosterconf.no/talk/31-what-s-this-design-sprint-business-anyways/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/31-what-s-this-design-sprint-business-anyways/</guid>
+      <description>Have you heard the enticing tales of Google Design Sprint? Wondering about what all the buzz and the fuss is about? Or do you have a problem that you would like valuable input on from other smart people in the business?
+This workshop combines experience with actual exercises from the Google Design Sprint, solving real problems that participants bring to the table with presentation of the methodology and very real examples of how and when to use it.</description>
+    </item>
+    
+    <item>
+      <title>Whittling workshop</title>
+      <link>https://2022.boosterconf.no/talk/163-spikke-workshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/163-spikke-workshop/</guid>
+      <description>In our field, we talk of ourselves as craftspeople, but there are a lot to lessons to be learned from more traditional craftsmanship. Give your head a break and let your hands do the work in this workshop, where you will learn how to whittle – the art of carving wood with a knife.
+Project instructions are given after each coffee break, but the door will be open all day and you are welcome to drop in any time to spend as much or as little time as you want.</description>
+    </item>
+    
+    <item>
+      <title>Will Webauth end phishing?</title>
+      <link>https://2022.boosterconf.no/talk/112-will-webauth-end-phishing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/112-will-webauth-end-phishing/</guid>
+      <description>Too many of our users are fooled by phishing attacks and hand over their login credentials to third parties with evil intentions. Our ways of fighting phishing are either that the user needs to be more alert, or that they&amp;rsquo;ll need to install something that makes their lives more difficult. If only some technology existed that simultaneously make phishing harder and make our users&#39; lives easier!
+Browsers that support Webauthn allow users to log in using biometrics instead of a password!</description>
+    </item>
+    
+    <item>
+      <title>Working in Babel: My Experiences in a Multilingual Workplace</title>
+      <link>https://2022.boosterconf.no/talk/15-working-in-babel-my-experiences-in-a-multilingual-workplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/15-working-in-babel-my-experiences-in-a-multilingual-workplace/</guid>
+      <description>We often hear that different roles speak “different languages” meaning that they have diverse understandings of a situation. But, what happens when they literally speak different languages? In this session I want to share my 10 years of experience working in my non-native language, first as a tester and now as a product owner; the impact it has on my day-to-day work as well as to the work of my colleagues.</description>
+    </item>
+    
+    <item>
+      <title>Would Heu-risk it?</title>
+      <link>https://2022.boosterconf.no/talk/135-would-heu-risk-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/135-would-heu-risk-it/</guid>
+      <description>As we gain testing experience and domain expertise, we start making better decisions around risk. However, it’s easy to get stuck in the same patterns and turn a blind eye to other risks and priorities. In short: we risk failing to pay enough attention and overlook critical testing we should have done. The good news is: there are a lot of things we can use to do better work, grow and help others and there are even a lot of ways of identifying our own weak spots.</description>
+    </item>
+    
+    <item>
+      <title>Writing notes is boring – drawing them is fun!</title>
+      <link>https://2022.boosterconf.no/talk/64-writing-notes-is-boring-drawing-them-is-fun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.boosterconf.no/talk/64-writing-notes-is-boring-drawing-them-is-fun/</guid>
+      <description>&amp;ldquo;Well I can&amp;rsquo;t draw, so this is not for me&amp;rdquo; - you might say. Then I say: &amp;ldquo;That&amp;rsquo;s nonesense! Sketchnoting is not illustration or art. It&amp;rsquo;s about ideas and communication&amp;rdquo;
+Sketchnoting is a great tool for collecting thoughts and takeaways from talks, facilitate meetings or just make sense of all those crazy ideas you have in your head. And my favorite; remembering names of all the exciting and boring new people you interact with.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bugården on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/bug%C3%A5rden/</link>
+    <description>Recent content in Bugården on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/bug%C3%A5rden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create a webapp without JS using HTMX</title>
+      <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/bug%C3%A5rden/create-a-webapp-without-js-using-htmx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/bug%C3%A5rden/create-a-webapp-without-js-using-htmx/</guid>
+      <description>The fastest and easiest way to build a web application is to output HTML directly from the server. But what if you want to add a little interactivity, like letting the user add items to a shopping cart or filter a list of products? If you update the entire page every time the users click something, they&amp;rsquo;ll hate you with a passion. So you might consider using React or Vue, but that involves defining an api and adding a whole other build system to your application.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dreggen 8 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/dreggen_8/</link>
+    <description>Recent content in Dreggen 8 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/dreggen_8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Figma variables - The who, the what and the how</title>
+      <link>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/dreggen_8/figma-variables-the-who-the-what-and-the-how/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/9_short_talks_and_workshops/dreggen_8/figma-variables-the-who-the-what-and-the-how/</guid>
+      <description>Figmavariabler gir designere nye superkrefter når de skal lage designsystemer for både små og store organisasjoner. Variabler gjør ikke bare det å lage nye design, som kan tilpasses ulike stiler veldig veldig mye raskere, enkelt og smooth, men den ekte sannheten mellom design og kode kan også bli litt lettere å lage, vedlikeholde og forstå.
+Workshopen starter med en gjennomgang av hva Variabler er og litt historien bak design tokens og hva det kan gjøre for team.</description>
+    </item>
+  </channel>
+</rss>

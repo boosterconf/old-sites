@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesalen 4 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_4/</link>
+    <description>Recent content in Kongesalen 4 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bergle – Hvordan lager man et spill som fornærmer samtlige bergensere på planeten</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_4/bergle-hvordan-lager-man-et-spill-som-forn%C3%A6rmer-samtlige-bergensere-p%C3%A5-planeten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_4/bergle-hvordan-lager-man-et-spill-som-forn%C3%A6rmer-samtlige-bergensere-p%C3%A5-planeten/</guid>
+      <description>Til tross for tekniske utfordringer og misfornøyde Bergensere, har jeg utviklet et spill inspirert av Worldle, hvor spillere gjetter seg frem til bergenske områder. Spillet gir hints om geografisk retning, men utfordringene har inkludert å definere bergenske strøkgrenser og finne en effektiv måte å lagre og visualisere dem på. Presentasjonen handler litt om hvordan man visualiserer geografisk data og mye om hvordan bergenserne har hindret prosessen. Lenken: https://bergle.privatevoid.eu/</description>
+    </item>
+    <item>
+      <title>It’s not exactly rocket science</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_4/it-s-not-exactly-rocket-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_4/it-s-not-exactly-rocket-science/</guid>
+      <description>Whats going on outside our atmosphere these days, and why should we care? Christine is currently working as a backend developer for Apparat, but before that she was a researcher on the connection between space and the upper atmosphere. The visual manifestation of this space / atmosphere connection is the aurora. After this talk, you will understand more about what causing the aurora, and maybe also how to predict aurora from satellite data.</description>
+    </item>
+    <item>
+      <title>Mission: Inefficient – Lessons from the CIA on how to sabotage your projects</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_4/mission-inefficient-lessons-from-the-cia-on-how-to-sabotage-your-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_4/mission-inefficient-lessons-from-the-cia-on-how-to-sabotage-your-projects/</guid>
+      <description>In &amp;lsquo;Mission: Inefficient&amp;rsquo;, we compare the CIA&amp;rsquo;s sabotage manual to common project pitfalls. From endless meetings to unclear goals, learn how we unknowingly derail our own projects. Walk away with key insights to make your next project a success</description>
+    </item>
+    <item>
+      <title>The Cultural History of WinAmp ⚡️</title>
+      <link>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_4/the-cultural-history-of-winamp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/7_lightning_talks/kongesalen_4/the-cultural-history-of-winamp/</guid>
+      <description>In this short talk Anders Norås takes you on a trip into the world of one of the most influential software products ever. You’ll discover the endless creativity of the user interface as an artistic expression, the Easter eggs and myths of the Winamp lore and how Winamp’s influence has reached way beyond the little box on your screen.</description>
+    </item>
+  </channel>
+</rss>

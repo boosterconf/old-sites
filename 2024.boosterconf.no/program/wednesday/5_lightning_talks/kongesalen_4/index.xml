@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesalen 4 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_4/</link>
+    <description>Recent content in Kongesalen 4 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GDPR in development - a mystery?</title>
+      <link>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_4/gdpr-in-development-a-mystery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_4/gdpr-in-development-a-mystery/</guid>
+      <description>How you ever met a developer who loves GDPR? I don&amp;rsquo;t think I have. Most developers I talk with about GDPR, seems to in best case look at it as something that will slow them down and create months long processes with someone in legal who seems to be talking a different language.
+GDPR has been in place for 5 years, and yet it seems to be a mystery for most developers.</description>
+    </item>
+    <item>
+      <title>Passwords - a thing of the past?</title>
+      <link>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_4/passwords-a-thing-of-the-past/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_4/passwords-a-thing-of-the-past/</guid>
+      <description>Why are we still forcing users to go through the dreaded password flow? Passwords are still widely used, even though they often lead to bad user experiences and poor security. Surely, there must be a better way in 2024?
+Passwords has been the de-facto authorization mechanism since before the cracking of the Forty Thieves, but nowadays there are several alternatives that could help keeping your hideout safe from Ali Babas hacking skills.</description>
+    </item>
+    <item>
+      <title>Security by design: build security in</title>
+      <link>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_4/security-by-design-build-security-in/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_4/security-by-design-build-security-in/</guid>
+      <description>You have probably heard security professionals talk about patching vulnerabilities, supply chain attacks and OWASP top 10. These security issues are usually due to our most well-known software defect: bugs! But today we will focus on another kind of software defect: design flaws! We&amp;rsquo;re going to look at how to make our code more secure to begin with, so that less vulnerabilities fall out on the other side when you shake your system.</description>
+    </item>
+    <item>
+      <title>StackBlitz: Running Full Dev Environments in Your Browser</title>
+      <link>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_4/stackblitz-running-full-dev-environments-in-your-browser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/5_lightning_talks/kongesalen_4/stackblitz-running-full-dev-environments-in-your-browser/</guid>
+      <description>What if you could run your entire frontend project in the browser? Not just the client part, but your server, your build pipeline, and your editor.
+StackBlitz is exactly that. A fully featured development environment running entirely in your browser. It can run backends using Node.js without any downloads or installations, booting fresh development instances in milliseconds. It achieves this by leveraging WebContainers: a WebAssembly-based operating system that can run Node, npm and more.</description>
+    </item>
+  </channel>
+</rss>

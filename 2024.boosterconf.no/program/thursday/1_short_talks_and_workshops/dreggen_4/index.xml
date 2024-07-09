@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dreggen 4 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_4/</link>
+    <description>Recent content in Dreggen 4 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entering the Common Lisp timeline</title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_4/entering-the-common-lisp-timeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_4/entering-the-common-lisp-timeline/</guid>
+      <description>Let&amp;rsquo;s take a small hop out of our timeline, and into one where we&amp;rsquo;re aspiring Common Lisp developers.
+Common Lisp is a programming language which was originally developed throughout the eighties, and saw its latest ANSI specification in 1994. And while the specification hasn&amp;rsquo;t changed since, there exists a small but thriving ecosystem of developers, who love building with this language.
+In this workshop we&amp;rsquo;ll tackle some real-world exercised using this strange alien technology.</description>
+    </item>
+  </channel>
+</rss>

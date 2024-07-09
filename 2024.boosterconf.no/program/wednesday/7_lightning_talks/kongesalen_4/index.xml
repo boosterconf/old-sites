@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesalen 4 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_4/</link>
+    <description>Recent content in Kongesalen 4 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disrupting hackers: Technqiues to ruin their day and securing your applications! </title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_4/disrupting-hackers-technqiues-to-ruin-their-day-and-securing-your-applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_4/disrupting-hackers-technqiues-to-ruin-their-day-and-securing-your-applications/</guid>
+      <description>Step into the mind of a hacker and get some insight into how they attack companies and their applications. Do hackers pick targets at random, what are the common vulnerabilities, and most importantly what is the risk to your business? This is something this talk is hoping to answer. The internet is a scary place and security is crucial when deploying to the internet is one click away! Join me as I give you a quick introduction on how hackers operate and some quick wins you can implement to ruin their day!</description>
+    </item>
+    <item>
+      <title>Modern fraud: A deep dive into Vishing</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_4/modern-fraud-a-deep-dive-into-vishing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_4/modern-fraud-a-deep-dive-into-vishing/</guid>
+      <description>We have all gotten a random phone call from Microsoft support, coming from a foreign number. Most of us understand that this is a scam and do not pick up the phone, or just immediately hang up. So why do they keep coming?
+In this lightning talk we will dive into an up and coming fraud strategy, that unfortunately yields unexpectedly high returns, Vishing. We will go through an introduction to vishing, how to properly execute it.</description>
+    </item>
+    <item>
+      <title>Stop Stealing My Tokens!</title>
+      <link>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_4/stop-stealing-my-tokens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/wednesday/7_lightning_talks/kongesalen_4/stop-stealing-my-tokens/</guid>
+      <description>You’ve probably heard of OAuth. Maybe you’re even using it. Then you’re most likely also using Bearer Tokens. Which are great and all. Well, until someone steals them!
+This talk gives a short and fun introduction to DPoP, or Demonstrating Proof of Possession, an extension to OAuth that allows one to cryptographically bind access tokens to a particular client when they are issued, hence making them harder to steal.</description>
+    </item>
+  </channel>
+</rss>

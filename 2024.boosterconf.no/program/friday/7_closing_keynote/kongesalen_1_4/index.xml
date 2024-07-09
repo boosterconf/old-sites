@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesalen 1-4 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/friday/7_closing_keynote/kongesalen_1_4/</link>
+    <description>Recent content in Kongesalen 1-4 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/friday/7_closing_keynote/kongesalen_1_4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond the terrarium?</title>
+      <link>https://2024.boosterconf.no/program/friday/7_closing_keynote/kongesalen_1_4/beyond-the-terrarium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/7_closing_keynote/kongesalen_1_4/beyond-the-terrarium/</guid>
+      <description>There is a mismatch between our ideals for digital product development and the reality of it. We speak of bridging the gap between business and IT, taking a seat at the table, direct customer involvement, self-organizing teams owning business outcomes. But the reality is this: Software development teams are like silkworms, living inside a protective terrarium, sheltered from the chaotic, toxic environment of the rest of the business. Autonomy is confined to the walls of the terrarium.</description>
+    </item>
+  </channel>
+</rss>

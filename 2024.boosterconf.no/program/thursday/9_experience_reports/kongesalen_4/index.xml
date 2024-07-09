@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesalen 4 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/thursday/9_experience_reports/kongesalen_4/</link>
+    <description>Recent content in Kongesalen 4 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/thursday/9_experience_reports/kongesalen_4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ikke alle angrep er slemme: DDoS innenfra og utenfra</title>
+      <link>https://2024.boosterconf.no/program/thursday/9_experience_reports/kongesalen_4/ikke-alle-angrep-er-slemme-ddos-innenfra-og-utenfra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/9_experience_reports/kongesalen_4/ikke-alle-angrep-er-slemme-ddos-innenfra-og-utenfra/</guid>
+      <description>Det siste året har interessen for NRK.no økt blant utenlandske stormakter. Selv om det er hyggelig å være populær kan det noen ganger bli litt for mye. I denne presentasjonen skal vi gå gjennom hvordan DDoS-angrep oppleves hos NRK.no og hvordan vi prøver å minske konsekvensene når angrepene skjer. Vi skal også se at ikke alle angrep er fiendtlige eller kommer utenifra.</description>
+    </item>
+  </channel>
+</rss>

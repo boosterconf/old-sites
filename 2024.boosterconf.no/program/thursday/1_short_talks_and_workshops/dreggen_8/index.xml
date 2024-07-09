@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dreggen 8 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_8/</link>
+    <description>Recent content in Dreggen 8 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to software packaging</title>
+      <link>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_8/introduction-to-software-packaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/thursday/1_short_talks_and_workshops/dreggen_8/introduction-to-software-packaging/</guid>
+      <description>Software packaging and distribution is a very simple value proposition, and a surprisingly rich and complex problem underneath. There is a myriad of systems available, and in this workshop will have a closer look at a few common ones. We will go through the stages of building and packaging, and move from a hand-packaged tarball, through dpkg/apt, to the deeply programmable packaging systems guix and nix. All work and no play makes a dull shop, so it is recommended to bring a computer with some tools installed (see list at the end).</description>
+    </item>
+  </channel>
+</rss>

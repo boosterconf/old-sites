@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongesalen 2 &#43; 3 on Booster Conference 2024 Bergen</title>
+    <link>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesalen_2_3/</link>
+    <description>Recent content in Kongesalen 2 &#43; 3 on Booster Conference 2024 Bergen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesalen_2_3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Platform Engineering with Amazon EKS at scale with Schibsted</title>
+      <link>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesalen_2_3/platform-engineering-with-amazon-eks-at-scale-with-schibsted/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesalen_2_3/platform-engineering-with-amazon-eks-at-scale-with-schibsted/</guid>
+      <description>Discover the transformative power of Sk8s, Schibsted&amp;rsquo;s internal platform built on Amazon EKS, that is integral to their cloud ecosystems. Sk8s empowers developers to focus on creating business value whilst increasing developer productivity across multiple teams and organisations. Illuminating a culture of shared responsibility between platform and product teams, attendees will also learn the motivation behind Sk8s and dive into the platform&amp;rsquo;s evolutionary golden path, key enablers and platform principles operating at scale.</description>
+    </item>
+    <item>
+      <title>Testing Autonomous Mobile Robots</title>
+      <link>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesalen_2_3/testing-autonomous-mobile-robots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesalen_2_3/testing-autonomous-mobile-robots/</guid>
+      <description>Keywords: Warehouse Automation, Testing Robots, Experience Report Target Audience: Testers, Developers, Robot Lovers Teaser: https://youtu.be/WlgaquXdmx0 Slides: https://drive.google.com/file/d/1hZzUQmrs6KNC052HxjH5ZHrfHrJNM7g4/view?usp=sharing
+Elevator Pitch Warehouse automation is an evolving market with bleeding technology in place. Autonomous mobile robots are used to assist human operators to increase efficiency. How can we test such a system? Let&amp;rsquo;s discuss the challenges and ways to cope with them.
+Problems Quality has several aspects such as operability, maintainability, recoverability, performance, usability, and efficiency.</description>
+    </item>
+    <item>
+      <title>That’s not my name</title>
+      <link>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesalen_2_3/that-s-not-my-name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2024.boosterconf.no/program/friday/3_short_talks_and_workshops_cont/kongesalen_2_3/that-s-not-my-name/</guid>
+      <description>Hi. My name is BÃ¥rd. No, actually, my name is Bård. That is a four letter name. so short and easy you would think even a robot or a child would spell it correctly. Growing up online with a character in my name that’s not found in the first 127 bytes of unicode, I have been predisposed to be interested in the odd ways of character encoding. Join me in a journey into the maze of character encoding, and the many ways it can go wrong.</description>
+    </item>
+  </channel>
+</rss>
