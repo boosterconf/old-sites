@@ -76,4 +76,12 @@ http {
 
 		root /app/2023.boosterconf.no;
 	}
+	server {
+		listen <%= ENV["PORT"] %>;
+		server_name 2024.boosterconf.no;
+		keepalive_timeout 5;
+		client_max_body_size <%= ENV['NGINX_CLIENT_MAX_BODY_SIZE'] || 1 %>M;
+
+		root /app/2024.boosterconf.no;
+	}
 }
